@@ -9,6 +9,8 @@ const sources = {
 };
 
 module.exports = function (req, res) {
+  res.setHeader('Access-Control-Allow-Origin', '*'); // 🔥 wichtig für fetch() von Extensions
+
   const { key, type } = req.query;
 
   if (!key || !type || !sources[type]) {
