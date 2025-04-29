@@ -1,6 +1,6 @@
-import board from '../data/board.json';
-import glyphs from '../data/glyphs.json';
-import aspects from '../data/aspects.json';
+import board from '../data/board.json' assert { type: "json" }; 
+import glyphs from '../data/glyphs.json' assert { type: "json" };
+import aspects from '../data/aspects.json' assert { type: "json" };
 
 const sources = {
   board,
