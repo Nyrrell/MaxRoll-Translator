@@ -1,22 +1,24 @@
-const board = require('../data/board.json');
-const glyphs = require('../data/glyphs.json');
-const aspects = require('../data/aspects.json');
-
-const sources = {
-  board,
-  glyphs,
-  aspects,
-};
+const fs = require('fs');
+const path = require('path');
 
 module.exports = function (req, res) {
-  res.setHeader('Access-Control-Allow-Origin', '*'); // 🔥 wichtig für fetch() von Extensions
+  res.setHeader('Access-Control-Allow-Origin', '*');
 
-  const { key, type } = req.query;
+  const { key, type, lang = 'de' } = req.query;
 
-  if (!key || !type || !sources[type]) {
-    return res.status(400).json({ error: 'Missing key or invalid type' });
+  if (!key || !type) {
+    return res.status(400).json({ error: 'Missing key or type' });
   }
 
-  const translation = sources[type][key] || null;
+  const filePath = path.join(__dirname, `../data/${lang}/${type}.json`);
+
+  let translations;
+  try {
+    translations = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch (err) {
+    return res.status(404).json({ error: `Translations not found for lang=${lang}, type=${type}` });
+  }
+
+  const translation = translations[key] || null;
   res.status(200).json({ key, translation });
 };
