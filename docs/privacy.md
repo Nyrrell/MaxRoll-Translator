@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Datenschutzerklärung
+title: Privacy Policy
 ---
 
-# Datenschutzerklärung
+# Privacy Policy
 
-Die MaxRoll Translator Erweiterung speichert **keine personenbezogenen Daten**.  
-Es werden keine Cookies verwendet, keine Daten an Dritte weitergegeben und keine Nutzeraktivitäten verfolgt.
+The **MaxRoll Translator** browser extension does **not collect any personal data**.
 
-Die Erweiterung ruft lediglich statische Übersetzungsdaten über eine öffentliche API ab.
+- No cookies are used  
+- No usage tracking  
+- No data is shared with third parties
 
-Bei Fragen kontaktieren Sie bitte: [github.com/noxish](https://github.com/noxish)
+The extension only fetches translation data from a public API based on the currently selected language.
+
+If you have any questions or concerns, please contact: [github.com/noxish](https://github.com/noxish)
