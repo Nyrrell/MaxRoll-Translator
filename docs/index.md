@@ -5,16 +5,20 @@ title: MaxRoll Translator
 
 # MaxRoll Translator
 
-Die **MaxRoll Translator** Erweiterung übersetzt Begriffe auf [maxroll.gg](https://maxroll.gg) automatisch in die gewählte Sprache (Deutsch, Englisch, Französisch).
+**MaxRoll Translator** is a lightweight browser extension that automatically translates terms on [maxroll.gg/d4/](https://maxroll.gg/d4/) (Diablo 4) into your preferred language.
 
-## Funktionen
+## Languages
+- German
+- French
 
-- Automatische Übersetzung von Glyphen, Paragon-Boards und Aspekten
-- Popup zur Sprachauswahl
-- Datenschutzfreundlich – keine Speicherung persönlicher Daten
+## Features
 
-[📥 Erweiterung im Chrome Web Store](https://chrome.google.com/webstore/detail/...)  
-[📄 Datenschutzerklärung](./privacy)
+- Automatic translation of Glyphs, Paragon Boards, Aspects, Dungeons, Uniques and Skills
+- Language selection via popup menu
+- No personal data collected – privacy-friendly
+
+[📥 Get the Extension on Chrome Web Store](https://chrome.google.com/webstore/detail/...)  
+[📄 Privacy Policy](./privacy)
 
 ---
 
