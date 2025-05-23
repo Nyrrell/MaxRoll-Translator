@@ -2,11 +2,11 @@
 
 **DE:**  
 MaxRoll Translator ist eine Browser-Erweiterung zur automatischen Übersetzung von Inhalten auf [maxroll.gg](https://maxroll.gg/d4/) (Diablo 4 Build Guides).  
-Sie übersetzt Paragon-Boards, Glyphen, Aspekte, Uniques, Skills und Tooltips in Echtzeit mithilfe einer schlanken API – wahlweise auf Deutsch, Englisch oder Französisch.
+Sie übersetzt Paragon-Boards, Glyphen, Aspekte, Uniques, Skills und Tooltips in Echtzeit mithilfe einer schlanken API – wahlweise auf Deutsch und Französisch (mehr Sprachen folgen).
 
 **EN:**  
 MaxRoll Translator is a browser extension that automatically translates content on [maxroll.gg](https://maxroll.gg/d4/) (Diablo 4 Build Guides).  
-It provides real-time translations for Paragon Boards, Glyphs, Aspects, Uniques, Skills, and tooltips using a lightweight API – available in German, English, and French.
+It provides real-time translations for Paragon Boards, Glyphs, Aspects, Uniques, Skills, and tooltips using a lightweight API – available in German and French (more languages coming later).
 
 ---
 
