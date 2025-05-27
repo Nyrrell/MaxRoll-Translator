@@ -25,13 +25,25 @@ It provides real-time translations for Paragon Boards, Glyphs, Aspects, Uniques,
 
 ---
 
-## 🛠 Features
+## 🛠 Features / Funktionen
 
-- Automatische Übersetzung direkt auf der Seite
-- Unterstützt Paragon-Knoten, Glyphen, Aspekte, Uniques & Skills
-- Sprachumschaltung über ein Popup
-- Ressourcenschonende DOM-Überwachung
-- Open Source & API-gestützt ([Vercel Deployment](https://max-roll-translator.vercel.app))
+### 🇩🇪 Deutsch
+
+- Automatische Übersetzung direkt auf der Seite  
+- Unterstützt Paragon-Knoten, Glyphen, Aspekte, Uniques, Skills, Dungeons, Bosskräfte  
+- Sprachumschaltung über ein Popup  
+- Ressourcenschonende DOM-Überwachung  
+- Open Source & API-gestützt (Vercel Deployment)  
+
+---
+
+### 🇬🇧 English
+
+- Automatic translation directly on the page  
+- Supports Paragon nodes, glyphs, aspects, uniques, skills, dungeons, boss powers  
+- Language switch via popup  
+- Resource-efficient DOM monitoring  
+- Open source & API-powered (Vercel deployment) 
 
 [📄 Privacy Policy](./privacy)
 
