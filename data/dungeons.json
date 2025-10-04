@@ -1,0 +1,566 @@
+{
+  "Abandoned Mineworks": {
+    "de": "Verlassenes Bergwerk",
+    "fr": "Travaux miniers abandonnés"
+  },
+  "Akkhan's Grasp": {
+    "de": "Akkhans Griff",
+    "fr": "Emprise d'Akkhan"
+  },
+  "Aldurwood": {
+    "de": "Aldurwald",
+    "fr": "Bois d'Aldur"
+  },
+  "Ancient Reservoir": {
+    "de": "Uraltes Reservoir",
+    "fr": "Réservoir ancien"
+  },
+  "Ancient's Lament": {
+    "de": "Klage der Urahnen",
+    "fr": "Lamentations des Anciens"
+  },
+  "Anica's Claim": {
+    "de": "Anicas Anspruch",
+    "fr": "Territoire d'Anica"
+  },
+  "Bastion of Faith": {
+    "de": "Bastion des Glaubens",
+    "fr": "Bastion de la foi"
+  },
+  "Beast Graveyard": {
+    "de": "Tierfriedhof",
+    "fr": "Cimetière aux bêtes"
+  },
+  "Belfry Zakara": {
+    "de": "Glockenturm von Zakara",
+    "fr": "Beffroi Zakara"
+  },
+  "Betrayed Tomb": {
+    "de": "Verratene Gruft",
+    "fr": "Tombe profanée"
+  },
+  "Betrayer's Row": {
+    "de": "Gasse des Verräters",
+    "fr": "Travée du traître"
+  },
+  "Black Asylum": {
+    "de": "Schwarzes Asylum",
+    "fr": "Asile noir"
+  },
+  "Blind Burrows": {
+    "de": "Blindhöhlen",
+    "fr": "Tanières aveugles"
+  },
+  "Bloodsoaked Crag": {
+    "de": "Blutgetränkter Felsen",
+    "fr": "Aiguille ensanglantée"
+  },
+  "Broken Bulwark": {
+    "de": "Zerbrochenes Bollwerk",
+    "fr": "Rempart brisé"
+  },
+  "Buried Halls": {
+    "de": "Begrabene Hallen",
+    "fr": "Salles enfouies"
+  },
+  "Caldera Gate": {
+    "de": "Kratertor",
+    "fr": "Porte de la caldera"
+  },
+  "Calibel's Mine": {
+    "de": "Calibels Mine",
+    "fr": "Mine de Calibel"
+  },
+  "Carrion Fields": {
+    "de": "Aasfelder",
+    "fr": "Champs des charognes"
+  },
+  "Caves of Kutokue": {
+    "de": "Höhlen von Kutokue",
+    "fr": "Grottes de Kutokue"
+  },
+  "Champion's Demise": {
+    "de": "Niedergang des Champions",
+    "fr": "Trépas du champion"
+  },
+  "Charnel House": {
+    "de": "Beinhaus",
+    "fr": "Charnier"
+  },
+  "Collapsed Vault": {
+    "de": "Eingestürztes Gewölbe",
+    "fr": "Caveau effondré"
+  },
+  "Conclave": {
+    "de": "Konklave",
+    "fr": "Conclave"
+  },
+  "Corrupted Grotto": {
+    "de": "Verderbte Grotte",
+    "fr": "Grotte corrompue"
+  },
+  "Crumbling Hekma": {
+    "de": "Zerfallendes Hekma",
+    "fr": "Hekma en ruine"
+  },
+  "Crusaders' Cathedral": {
+    "de": "Kathedrale der Kreuzritter",
+    "fr": "Cathédrale des croisés"
+  },
+  "Cultist Refuge": {
+    "de": "Kultistenzuflucht",
+    "fr": "Refuge des sectateurs"
+  },
+  "Dark Ravine": {
+    "de": "Düsterkluft",
+    "fr": "Ravin obscur"
+  },
+  "Dead Man's Dredge": {
+    "de": "Grube des toten Mannes",
+    "fr": "Drague du Mort"
+  },
+  "Defiled Catacomb": {
+    "de": "Entweihte Katakombe",
+    "fr": "Catacombes profanées"
+  },
+  "Demon's Wake": {
+    "de": "Dämonensog",
+    "fr": "Veillée du Démon"
+  },
+  "Derelict Lodge": {
+    "de": "Verfallene Hütte",
+    "fr": "Cabanon délabré"
+  },
+  "Deserted Underpass": {
+    "de": "Verlassener Untergang",
+    "fr": "Passage souterrain déserté"
+  },
+  "Domhainne Tunnels": {
+    "de": "Tunnel von Domhainne",
+    "fr": "Tunnels de Domhainne"
+  },
+  "Dry Steppes": {
+    "de": "Verdorrte Steppen",
+    "fr": "Steppes Arides"
+  },
+  "Earthen Wound": {
+    "de": "Erdwunde",
+    "fr": "Blessure terrestre"
+  },
+  "Endless Gates": {
+    "de": "Endlose Tore",
+    "fr": "Portes sans fin"
+  },
+  "Faceless Shrine": {
+    "de": "Gesichtsloses Heiligtum",
+    "fr": "Sanctuaire sans visage"
+  },
+  "Fading Echo": {
+    "de": "Verblasendes Echo",
+    "fr": "Écho déclinant"
+  },
+  "Farai Cliffs": {
+    "de": "Farai-Klippen",
+    "fr": "Falaises de Farai"
+  },
+  "Feeding Grounds": {
+    "de": "Fütterungsgebiete",
+    "fr": "Zone de nourrissage"
+  },
+  "Ferals' Den": {
+    "de": "Höhle der Wilden",
+    "fr": "Antre des Ferals"
+  },
+  "Fetid Mausoleum": {
+    "de": "Fäulnismausoleum",
+    "fr": "Mausolée fétide"
+  },
+  "Flooded Depths": {
+    "de": "Überflutete Tiefen",
+    "fr": "Profondeurs inondées"
+  },
+  "Forbidden City": {
+    "de": "Verbotene Stadt",
+    "fr": "Cité interdite"
+  },
+  "Forge of Malice": {
+    "de": "Schmiede des Hasses",
+    "fr": "Forge de Malveillance"
+  },
+  "Forgotten Depths": {
+    "de": "Vergessene Tiefen",
+    "fr": "Profondeurs oubliées"
+  },
+  "Forgotten Remains": {
+    "de": "Vergessene Überreste",
+    "fr": "Vestiges oubliés"
+  },
+  "Forgotten Ruins": {
+    "de": "Vergessene Ruinen",
+    "fr": "Ruines oubliées"
+  },
+  "Forsaken Quarry": {
+    "de": "Verlassener Steinbruch",
+    "fr": "Carrière oubliée"
+  },
+  "Fractured Peaks": {
+    "de": "Zersplitterte Gipfel",
+    "fr": "Pics Brisés"
+  },
+  "Garan Hold": {
+    "de": "Garanfeste",
+    "fr": "Fort Garan"
+  },
+  "Ghoa Ruins": {
+    "de": "Ghoa-Ruinen",
+    "fr": "Ruines de Ghoa"
+  },
+  "Grinning Labyrinth": {
+    "de": "Grinsendes Labyrinth",
+    "fr": "Labyrinthe grinçant"
+  },
+  "Guulrahn Canals": {
+    "de": "Kanäle von Guulrahn",
+    "fr": "Canaux de Guulrahn"
+  },
+  "Guulrahn Slums": {
+    "de": "Elendsviertel von Guulrahn",
+    "fr": "Bas-fonds de Guulrahn"
+  },
+  "Hakan's Refuge": {
+    "de": "Hakans Zuflucht",
+    "fr": "Refuge d'Hakan"
+  },
+  "Hallowed Ossuary": {
+    "de": "Geheiligtes Beinhaus",
+    "fr": "Ossuaire sacré"
+  },
+  "Hallowed Stones": {
+    "de": "Geheiligte Steine",
+    "fr": "Pierres sacrées"
+  },
+  "Halls of the Damned": {
+    "de": "Hallen der Verdammten",
+    "fr": "Salles des Damnés"
+  },
+  "Haunted Refuge": {
+    "de": "Heimgesuchtes Refugium",
+    "fr": "Refuge hanté"
+  },
+  "Hawezar": {
+    "de": "Hawezar",
+    "fr": "Hawezar"
+  },
+  "Heathen's Keep": {
+    "de": "Heidenbastion",
+    "fr": "Fort des païens"
+  },
+  "Heretics Asylum": {
+    "de": "Häretikerasyl",
+    "fr": "Asile des hérétiques"
+  },
+  "Hierophant Pyre": {
+    "de": "Hierophanten-Feuer",
+    "fr": "Bûcher du Hiérophante"
+  },
+  "Hive": {
+    "de": "Bienenstock",
+    "fr": "Ruche"
+  },
+  "Hoarfrost Demise": {
+    "de": "Niedergang des Raureifs",
+    "fr": "Chute des gelées"
+  },
+  "Howling Warren": {
+    "de": "Heulender Warren",
+    "fr": "Dédale hurlant"
+  },
+  "Immortal Emanation": {
+    "de": "Unsterbliche Ausstrahlung",
+    "fr": "Émanation immortelle"
+  },
+  "Inferno": {
+    "de": "Inferno",
+    "fr": "Fournaise"
+  },
+  "Iron Cenotaph": {
+    "de": "Eisen-Zenotaph",
+    "fr": "Cénotaphe de fer"
+  },
+  "Iron Hold": {
+    "de": "Eisenfeste",
+    "fr": "Fort d'acier"
+  },
+  "Jalal's Vigil": {
+    "de": "Jalals Wacht",
+    "fr": "Veillée de Jalal"
+  },
+  "Kehjistan": {
+    "de": "Kehjistan",
+    "fr": "Kehjistan"
+  },
+  "Komdor Temple": {
+    "de": "Komdortempel",
+    "fr": "Temple de Komdor"
+  },
+  "Kor Dragan Barracks": {
+    "de": "Kaserne von Kor Dragan",
+    "fr": "Caserne de Kor Dragan"
+  },
+  "Kor Valar Ramparts": {
+    "de": "Bollwerk von Kor Valar",
+    "fr": "Remparts de Kor Valar"
+  },
+  "Leviathan's Maw": {
+    "de": "Leviathans Schlund",
+    "fr": "Gueule du Léviathan"
+  },
+  "Light's Refuge": {
+    "de": "Lichtrefugium",
+    "fr": "Refuge de la Lumière"
+  },
+  "Light's Watch": {
+    "de": "Die Lichtwacht",
+    "fr": "Vigie de la Lumière"
+  },
+  "Lost Archives": {
+    "de": "Vergessene Archive",
+    "fr": "Archives abandonnées"
+  },
+  "Lost Keep": {
+    "de": "Verlorene Festung",
+    "fr": "Fort perdu"
+  },
+  "Luban's Rest": {
+    "de": "Luban's Ruhe",
+    "fr": "Repos de Luban"
+  },
+  "Maddux Watch": {
+    "de": "Maddux-Uhr",
+    "fr": "Poste de Maddux"
+  },
+  "Mariner's Refuge": {
+    "de": "Matrosenzuflucht",
+    "fr": "Refuge du marin"
+  },
+  "Maugan's Works": {
+    "de": "Maugans Werk",
+    "fr": "Travaux de Maugan"
+  },
+  "Maulwood": {
+    "de": "Marterwald",
+    "fr": "Bois Mutilés"
+  },
+  "Mercy's Reach": {
+    "de": "Gnadengrat",
+    "fr": "Avancée de la miséricorde"
+  },
+  "Mournfield": {
+    "de": "Trauerfeld",
+    "fr": "Champ des Lamentations"
+  },
+  "Murmuring Spiral": {
+    "de": "Murmelnde Spirale",
+    "fr": "Spirale des Murmures"
+  },
+  "Nahantu": {
+    "de": "Nahantu",
+    "fr": "Nahantu"
+  },
+  "Nostrava Deepwood": {
+    "de": "Tiefenwald von Nostrava",
+    "fr": "Bois profond de Nostrava"
+  },
+  "Oblivion": {
+    "de": "Vergessenheit",
+    "fr": "Oubli"
+  },
+  "Oldstones": {
+    "de": "Alte Steine",
+    "fr": "Peyrevieille"
+  },
+  "Onyx Hold": {
+    "de": "Onyx-Festung",
+    "fr": "Fort d'Onyx"
+  },
+  "Pallid Delve": {
+    "de": "Pallid Delve",
+    "fr": "Abysses blêmes"
+  },
+  "Path of the Blind": {
+    "de": "Pfad der Blinden",
+    "fr": "Sentier des aveugles"
+  },
+  "Penitent Cairns": {
+    "de": "Bußsteine",
+    "fr": "Cairns de la Pénitence"
+  },
+  "Prison of Caldeum": {
+    "de": "Gefängnis von Caldeum",
+    "fr": "Prison de Caldeum"
+  },
+  "Putrescent Larder": {
+    "de": "Faulender Vorratsraum",
+    "fr": "Garde-manger putride"
+  },
+  "Putrid Aquifer": {
+    "de": "Fäulnisaquiferen",
+    "fr": "Aquifère putride"
+  },
+  "Raethwind Wilds": {
+    "de": "Raethwind Wildnis",
+    "fr": "Terres venteuses de Raeth"
+  },
+  "Razak's Descent": {
+    "de": "Razaks Abstieg",
+    "fr": "Descente de Razak"
+  },
+  "Remnants of Rage": {
+    "de": "Überreste der Wut",
+    "fr": "Vestiges de Colère"
+  },
+  "Renegade's Retreat": {
+    "de": "Zuflucht des Abtrünnigen",
+    "fr": "Retraite du renégat"
+  },
+  "Rimescar Cavern": {
+    "de": "Raunarbenhöhle",
+    "fr": "Grotte de Balafraîche"
+  },
+  "Ruined Wild": {
+    "de": "Zerstörte Wildnis",
+    "fr": "Ruines sauvages"
+  },
+  "Ruins of Eridu": {
+    "de": "Ruinen von Eridu",
+    "fr": "Ruines d'Eridu"
+  },
+  "Sanguine Chapel": {
+    "de": "Blutrote Kapelle",
+    "fr": "Chapelle Sanguine"
+  },
+  "Sarat's Lair": {
+    "de": "Sarats Unterschlupf",
+    "fr": "Antre de Sarat"
+  },
+  "Scosglen": {
+    "de": "Scosglen",
+    "fr": "Scosglen"
+  },
+  "Sealed Archives": {
+    "de": "Versiegelte Archive",
+    "fr": "Archives scellées"
+  },
+  "Seaside Descent": {
+    "de": "Abstieg am Meer",
+    "fr": "Descente maritime"
+  },
+  "Seething Underpass": {
+    "de": "Brodelnder Untergang",
+    "fr": "Souterrain ardent"
+  },
+  "Sepulcher of the Forsworn": {
+    "de": "Gruft der Eidbrecher",
+    "fr": "Sépulcre des reniés"
+  },
+  "Serpent's Lair": {
+    "de": "Schlangennest",
+    "fr": "Antre du Serpent"
+  },
+  "Shadowed Plunge": {
+    "de": "Schattensturz",
+    "fr": "Plongée ombragée"
+  },
+  "Shifting City": {
+    "de": "Verschiebung Stadt",
+    "fr": "Cité mouvante"
+  },
+  "Shivta Ruins": {
+    "de": "Shivtaruinen",
+    "fr": "Ruines de Shivta"
+  },
+  "Sirocco Caverns": {
+    "de": "Sirocco-Höhlen",
+    "fr": "Cavernes de Sirocco"
+  },
+  "Skatsimi Fane": {
+    "de": "Skatsimi-Schrein",
+    "fr": "Sanctuaire de Skatsimi"
+  },
+  "Sleepless Hollow": {
+    "de": "Schlaflose Senke",
+    "fr": "Creux en éveil"
+  },
+  "Steadfast Barracks": {
+    "de": "Standhafte Kaserne",
+    "fr": "Caserne inébranlable"
+  },
+  "Stockades": {
+    "de": "Verlies",
+    "fr": "Cages"
+  },
+  "Sunken Library": {
+    "de": "Versunkene Bibliothek",
+    "fr": "Bibliothèque engloutie"
+  },
+  "Sunken Ruins": {
+    "de": "Versunkene Ruinen",
+    "fr": "Ruines englouties"
+  },
+  "Tomb of the Saints": {
+    "de": "Gruft der Heiligen",
+    "fr": "Tombeau des Saints"
+  },
+  "Tormented Ruins": {
+    "de": "Gepeinigte Ruinen",
+    "fr": "Ruines tourmentées"
+  },
+  "Twisted Hollow": {
+    "de": "Verdrehte Höhle",
+    "fr": "Creux-du-Supplice"
+  },
+  "Ularian Sepulcher": {
+    "de": "Ularian-Gruft",
+    "fr": "Sépulcre ularien"
+  },
+  "Uldur's Cave": {
+    "de": "Uldurs Höhle",
+    "fr": "Caverne d'Uldur"
+  },
+  "Underroot": {
+    "de": "Unterwurzel",
+    "fr": "Tréfonds racinaires"
+  },
+  "Vault of the Forsaken": {
+    "de": "Grabe der Verlassenen",
+    "fr": "Caveau des Oubliés"
+  },
+  "Vile Hive": {
+    "de": "Widerlicher Bienenstock",
+    "fr": "Ruche atroce"
+  },
+  "Whispering Pines": {
+    "de": "Flüsternde Kiefern",
+    "fr": "Murmures des pins"
+  },
+  "Whispering Vault": {
+    "de": "Flüsterndes Gewölbe",
+    "fr": "Caveau murmurant"
+  },
+  "Witchwater": {
+    "de": "Hexenwasser",
+    "fr": "Eaux Ensorcelées"
+  },
+  "Wretched Delve": {
+    "de": "Elender Delve",
+    "fr": "Abysses Répugnants"
+  },
+  "Yshari Sanctum": {
+    "de": "Yshari-Sanktum",
+    "fr": "Sanctuaire d'Yshari"
+  },
+  "Zenith": {
+    "de": "Zenit",
+    "fr": "Zénith"
+  }
+}

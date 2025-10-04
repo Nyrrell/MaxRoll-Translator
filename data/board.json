@@ -1,0 +1,1738 @@
+{
+  "Acrobat": {
+    "de": "Akrobat",
+    "fr": "Acrobate"
+  },
+  "Advantage": {
+    "de": "Vorteil",
+    "fr": "Avantage"
+  },
+  "Aggression": {
+    "de": "Aggression",
+    "fr": "Agressivité"
+  },
+  "Alloyed": {
+    "de": "Legiert",
+    "fr": "Alliage"
+  },
+  "Ambush": {
+    "de": "Hinterhalt",
+    "fr": "Embuscade"
+  },
+  "Ancestral Guidance": {
+    "de": "Führung der Ahnen",
+    "fr": "Guide ancestral"
+  },
+  "Apex": {
+    "de": "Spitzenräuber",
+    "fr": "Prédation"
+  },
+  "Armor-clad": {
+    "de": "Gerüstet",
+    "fr": "Armure nécrotique"
+  },
+  "Arrogance": {
+    "de": "Arroganz",
+    "fr": "Arrogance"
+  },
+  "Artifice": {
+    "de": "Trick",
+    "fr": "Artifice"
+  },
+  "Ashes": {
+    "de": "Asche",
+    "fr": "Cendres"
+  },
+  "Assassin": {
+    "de": "Assassine",
+    "fr": "Meurtrier"
+  },
+  "Axe Bad Data": {
+    "de": "Axe Bad Data",
+    "fr": "Axe Bad Data"
+  },
+  "Barbarian Magic BerserkDamage": {
+    "de": "Barbarian Magic BerserkDamage",
+    "fr": "Barbarian Magic BerserkDamage"
+  },
+  "Barbarian Magic DustDevilDamage": {
+    "de": "Barbarian Magic DustDevilDamage",
+    "fr": "Barbarian Magic DustDevilDamage"
+  },
+  "Barbarian Magic DustDevilsSize": {
+    "de": "Barbarian Magic DustDevilsSize",
+    "fr": "Barbarian Magic DustDevilsSize"
+  },
+  "Barbarian Magic EarthquakeDamage": {
+    "de": "Barbarian Magic EarthquakeDamage",
+    "fr": "Barbarian Magic EarthquakeDamage"
+  },
+  "Barbarian Magic EarthquakeDuration": {
+    "de": "Barbarian Magic EarthquakeDuration",
+    "fr": "Barbarian Magic EarthquakeDuration"
+  },
+  "Barbarian Magic Fury": {
+    "de": "Barbarian Magic Fury",
+    "fr": "Barbarian Magic Fury"
+  },
+  "Barbarian Magic Fury Glyph": {
+    "de": "Barbarian Magic Fury Glyph",
+    "fr": "Barbarian Magic Fury Glyph"
+  },
+  "Barbarian Magic FuryOnKill": {
+    "de": "Barbarian Magic FuryOnKill",
+    "fr": "Barbarian Magic FuryOnKill"
+  },
+  "Battleworn Hide": {
+    "de": "Kampferprobtes Fell",
+    "fr": "Peau calleuse"
+  },
+  "Berserker": {
+    "de": "Berserker",
+    "fr": "Berserker"
+  },
+  "Bitter Medicine": {
+    "de": "Bittere Medizin",
+    "fr": "Remède amer"
+  },
+  "Blessing": {
+    "de": "Segen",
+    "fr": "Bénédiction"
+  },
+  "Blood Begets Blood": {
+    "de": "Blut fordert Blut",
+    "fr": "Dîme de sang"
+  },
+  "Blood Rage": {
+    "de": "Blutrausch",
+    "fr": "Rage de sang"
+  },
+  "Blood-Empowered": {
+    "de": "Blutgestärkt",
+    "fr": "Renforcement sanguin"
+  },
+  "Bloodbath": {
+    "de": "Blutbad",
+    "fr": "Bain de sang"
+  },
+  "Bloodbathed": {
+    "de": "Blutgebadet",
+    "fr": "Bain de sang"
+  },
+  "Blooddrinker": {
+    "de": "Bluttrinker",
+    "fr": "Goût pour le sang"
+  },
+  "Bludgeoner": {
+    "de": "Prügler",
+    "fr": "Matraquage"
+  },
+  "Board Attachment Gate": {
+    "de": "Tafelanhangspunkt",
+    "fr": "Portail de liaison de plateau"
+  },
+  "Bone Breaker": {
+    "de": "Knochenbrecher",
+    "fr": "Brise-os"
+  },
+  "Bone Graft": {
+    "de": "Knochentransplantat",
+    "fr": "Greffe osseuse"
+  },
+  "Borrowed Strength": {
+    "de": "Geliehene Stärke",
+    "fr": "Force d’emprunt"
+  },
+  "Brash": {
+    "de": "Ungestüm",
+    "fr": "Impertinence"
+  },
+  "Brawler": {
+    "de": "Raufbold",
+    "fr": "Échauffourée"
+  },
+  "Brawn": {
+    "de": "Muskelkraft",
+    "fr": "Muscles"
+  },
+  "Bristle": {
+    "de": "Kratzbürstig",
+    "fr": "Hérissement"
+  },
+  "Bristles": {
+    "de": "Borsten",
+    "fr": "Fourrure"
+  },
+  "Brutality": {
+    "de": "Brutalität",
+    "fr": "Brutalité"
+  },
+  "Brute Force": {
+    "de": "Brutale Kraft",
+    "fr": "Force brute"
+  },
+  "Bulwark": {
+    "de": "Bollwerk",
+    "fr": "Rempart"
+  },
+  "Burning Instinct": {
+    "de": "Brennender Instinkt",
+    "fr": "Instinct bouillonnant"
+  },
+  "Butcher": {
+    "de": "Metzger",
+    "fr": "Boucherie"
+  },
+  "Calculated": {
+    "de": "Berechnend",
+    "fr": "Pondération"
+  },
+  "Carnage": {
+    "de": "Gemetzel",
+    "fr": "Carnage"
+  },
+  "Catalyst": {
+    "de": "Katalysator",
+    "fr": "Catalyseur"
+  },
+  "Ceaseless Conduit": {
+    "de": "Unablässige Verbindung",
+    "fr": "Conduction incessante"
+  },
+  "Cheap Shot": {
+    "de": "Unter die Gürtellinie",
+    "fr": "Coup bas"
+  },
+  "Cinders": {
+    "de": "Glut",
+    "fr": "Charbon ardent"
+  },
+  "Cold Conditioned": {
+    "de": "Kältekonditioniert",
+    "fr": "Conditionnement au froid"
+  },
+  "Cold Resilience": {
+    "de": "Kälteabhärtung",
+    "fr": "Résilience au froid"
+  },
+  "Combustion": {
+    "de": "Verbrennen",
+    "fr": "Combustion"
+  },
+  "Concentrated": {
+    "de": "Konzentriert",
+    "fr": "Concentration"
+  },
+  "Concoction": {
+    "de": "Gebräu",
+    "fr": "Concoction"
+  },
+  "Conditioned": {
+    "de": "Konditioniert",
+    "fr": "Conditionnement"
+  },
+  "Conduit": {
+    "de": "Verbindung",
+    "fr": "Conduction"
+  },
+  "Conjurer": {
+    "de": "Beschwörer",
+    "fr": "Conjuration"
+  },
+  "Constricting Tendrils": {
+    "de": "Einengende Ranken",
+    "fr": "Vrilles lugubres"
+  },
+  "Convergence": {
+    "de": "Konvergenz",
+    "fr": "Convergence"
+  },
+  "Core Reserve": {
+    "de": "Grundreserve",
+    "fr": "Réserve innée"
+  },
+  "Courage": {
+    "de": "Mut",
+    "fr": "Courage"
+  },
+  "Craving": {
+    "de": "Verlangen",
+    "fr": "Appétence"
+  },
+  "Crushing Earth": {
+    "de": "Zerschmetternde Erde",
+    "fr": "Terre broyeuse"
+  },
+  "Cryomancy": {
+    "de": "Kryomantie",
+    "fr": "Cryomancie"
+  },
+  "Culler": {
+    "de": "Auslese",
+    "fr": "Abattage"
+  },
+  "Cult Leader": {
+    "de": "Kultanführer",
+    "fr": "Guide de la secte"
+  },
+  "Cunning": {
+    "de": "Durchtriebenheit",
+    "fr": "Fourberie"
+  },
+  "Cunning Stratagem": {
+    "de": "Raffinierte List",
+    "fr": "Savant stratagème"
+  },
+  "Custody": {
+    "de": "Obhut",
+    "fr": "Détention"
+  },
+  "Danse Macabre": {
+    "de": "Danse Macabre",
+    "fr": "Danse Macabre"
+  },
+  "Deadly Ambush": {
+    "de": "Tödlicher Hinterhalt",
+    "fr": "Embuscade mortelle"
+  },
+  "Deathbringer": {
+    "de": "Todesbringer",
+    "fr": "Porte-mort"
+  },
+  "Deathmarked": {
+    "de": "Todgeweiht",
+    "fr": "Marque de la mort"
+  },
+  "Decay": {
+    "de": "Verfall",
+    "fr": "Flétrissure"
+  },
+  "Decimator": {
+    "de": "Dezimierer",
+    "fr": "Décimation"
+  },
+  "Defiance": {
+    "de": "Trotz",
+    "fr": "Défiance"
+  },
+  "Deliverance": {
+    "de": "Erlösung",
+    "fr": "Délivrance"
+  },
+  "Deluge": {
+    "de": "Flut",
+    "fr": "Déluge"
+  },
+  "Demolish": {
+    "de": "Demolieren",
+    "fr": "Démolition"
+  },
+  "Denial": {
+    "de": "Verwehrung",
+    "fr": "Déni"
+  },
+  "Destroyer": {
+    "de": "Zerstörer",
+    "fr": "Destruction"
+  },
+  "Devastate": {
+    "de": "Niederschmettern",
+    "fr": "Dévastation"
+  },
+  "Devastation": {
+    "de": "Verwüstung",
+    "fr": "Dévastation"
+  },
+  "Deviant": {
+    "de": "Abweichler",
+    "fr": "Déviance"
+  },
+  "Devious": {
+    "de": "Verschlagen",
+    "fr": "Sournoiserie"
+  },
+  "Dominant": {
+    "de": "Dominanz",
+    "fr": "Domination"
+  },
+  "Dragging Shadows": {
+    "de": "Schleppende Schatten",
+    "fr": "Traînée d’ombre"
+  },
+  "Drive": {
+    "de": "Antrieb",
+    "fr": "Force d’âme"
+  },
+  "Druid Magic CompanionCDR": {
+    "de": "Druid Magic CompanionCDR",
+    "fr": "Druid Magic CompanionCDR"
+  },
+  "Druid Magic DamageCompanion": {
+    "de": "Druid Magic DamageCompanion",
+    "fr": "Druid Magic DamageCompanion"
+  },
+  "Druid Magic DamageCore": {
+    "de": "Druid Magic DamageCore",
+    "fr": "Druid Magic DamageCore"
+  },
+  "Druid Magic DamageEarth": {
+    "de": "Druid Magic DamageEarth",
+    "fr": "Druid Magic DamageEarth"
+  },
+  "Druid Magic DamageNature": {
+    "de": "Druid Magic DamageNature",
+    "fr": "Druid Magic DamageNature"
+  },
+  "Druid Magic DamageShapeshifting": {
+    "de": "Druid Magic DamageShapeshifting",
+    "fr": "Druid Magic DamageShapeshifting"
+  },
+  "Druid Magic DamageStorm": {
+    "de": "Druid Magic DamageStorm",
+    "fr": "Druid Magic DamageStorm"
+  },
+  "Druid Magic DamageWhileBear": {
+    "de": "Druid Magic DamageWhileBear",
+    "fr": "Druid Magic DamageWhileBear"
+  },
+  "Druid Magic DamageWolf": {
+    "de": "Druid Magic DamageWolf",
+    "fr": "Druid Magic DamageWolf"
+  },
+  "Druid Magic Spirit": {
+    "de": "Druid Magic Spirit",
+    "fr": "Druid Magic Spirit"
+  },
+  "Druid Magic SpiritOnKill": {
+    "de": "Druid Magic SpiritOnKill",
+    "fr": "Druid Magic SpiritOnKill"
+  },
+  "Eager Prey": {
+    "de": "Bereitwillige Beute",
+    "fr": "Proie avide"
+  },
+  "Earthen Devastation": {
+    "de": "Irdene Verheerung",
+    "fr": "Dévastation terrestre"
+  },
+  "Earthen Power": {
+    "de": "Irdene Macht",
+    "fr": "Puissance tellurique"
+  },
+  "Eldritch Bounty": {
+    "de": "Unheimliches Kopfgeld",
+    "fr": "Prime exotique"
+  },
+  "Electro": {
+    "de": "Elektro",
+    "fr": "Électro"
+  },
+  "Electromagnetism": {
+    "de": "Elektromagnetismus",
+    "fr": "Électromagnétisme"
+  },
+  "Elemental Balance": {
+    "de": "Elementares Gleichgewicht",
+    "fr": "Équilibre élémentaire"
+  },
+  "Elemental Favor": {
+    "de": "Elementargunst",
+    "fr": "Faveur élémentaire"
+  },
+  "Elemental Summoner": {
+    "de": "Elementarbeschwörer",
+    "fr": "Invocation élémentaire"
+  },
+  "Elementalist": {
+    "de": "Elementarist",
+    "fr": "Élémentaliste"
+  },
+  "Eminence": {
+    "de": "Eminenz",
+    "fr": "Distinction"
+  },
+  "Enchantment Master": {
+    "de": "Verzauberungsmeister",
+    "fr": "Maîtrise des enchantements"
+  },
+  "Engineering": {
+    "de": "Ingenieurskunst",
+    "fr": "Ingénierie"
+  },
+  "Enraged": {
+    "de": "Wütend",
+    "fr": "Rage"
+  },
+  "Ensnarement": {
+    "de": "Verführung",
+    "fr": "Piège"
+  },
+  "Entomb": {
+    "de": "Bestattung",
+    "fr": "Au tombeau"
+  },
+  "Eradicate": {
+    "de": "Auslöschen",
+    "fr": "Éradication"
+  },
+  "Erudite": {
+    "de": "Belesen",
+    "fr": "Érudition"
+  },
+  "Essential": {
+    "de": "Notwendigkeit",
+    "fr": "Nécessité"
+  },
+  "Exploit": {
+    "de": "Ausbeuten",
+    "fr": "Exploitation"
+  },
+  "Exploit Weakness": {
+    "de": "Schwäche ausnutzen",
+    "fr": "Abus de faiblesse"
+  },
+  "Explosive": {
+    "de": "Explosiv",
+    "fr": "Explosion"
+  },
+  "Fearless": {
+    "de": "Furchtlos",
+    "fr": "Intrépidité"
+  },
+  "Feral": {
+    "de": "Wild",
+    "fr": "Sauvagerie"
+  },
+  "Ferocity": {
+    "de": "Wildheit",
+    "fr": "Férocité"
+  },
+  "Fierce": {
+    "de": "Wildheit",
+    "fr": "Férocité"
+  },
+  "Finisher": {
+    "de": "Vollstrecker",
+    "fr": "Coup de grâce"
+  },
+  "Fire Conditioned": {
+    "de": "Feuerkonditioniert",
+    "fr": "Conditionnement au feu"
+  },
+  "Fire Resilience": {
+    "de": "Feuerabhärtung",
+    "fr": "Résilience au feu"
+  },
+  "Flame-touched": {
+    "de": "Flammenberührt",
+    "fr": "Toucher de flammes"
+  },
+  "Flash Fire": {
+    "de": "Stichflamme",
+    "fr": "Flammèche"
+  },
+  "Flawless Technique": {
+    "de": "Makellose Technik",
+    "fr": "Technique parfaite"
+  },
+  "Flayer": {
+    "de": "Schinder",
+    "fr": "Écorchage"
+  },
+  "Fleeting": {
+    "de": "Leichtfüßigkeit",
+    "fr": "Véloce"
+  },
+  "Flesh-eater": {
+    "de": "Fleischfresser",
+    "fr": "Nécrose"
+  },
+  "Flesh-horror": {
+    "de": "Fleischschrecken",
+    "fr": "Horreur de chair"
+  },
+  "Focused": {
+    "de": "Fokussiert",
+    "fr": "Concentration"
+  },
+  "Force of Nature": {
+    "de": "Naturgewalt",
+    "fr": "Force de la Nature"
+  },
+  "Fortune": {
+    "de": "Gunst",
+    "fr": "Fortune"
+  },
+  "Frailty": {
+    "de": "Gebrechlichkeit",
+    "fr": "Fragilité"
+  },
+  "Frenzied Golem": {
+    "de": "Rasender Golem",
+    "fr": "Golem frénétique"
+  },
+  "Frigid": {
+    "de": "Kälte",
+    "fr": "Frigidité"
+  },
+  "Frigid Fate": {
+    "de": "Eiskaltes Schicksal",
+    "fr": "Destin frigide"
+  },
+  "Frosts": {
+    "de": "Frost",
+    "fr": "Gelées"
+  },
+  "Fundamental Release": {
+    "de": "Grundlegende Entfesslung",
+    "fr": "Déchaînement fondamental"
+  },
+  "Fundamentals": {
+    "de": "Grundlagen",
+    "fr": "Fondamentaux"
+  },
+  "Galvanic Catalyst": {
+    "de": "Galvanischer Katalysator",
+    "fr": "Catalyse galvanisante"
+  },
+  "Generic Magic Armor": {
+    "de": "Generic Magic Armor",
+    "fr": "Generic Magic Armor"
+  },
+  "Generic Magic ArmorPercent": {
+    "de": "Generic Magic ArmorPercent",
+    "fr": "Generic Magic ArmorPercent"
+  },
+  "Generic Magic AttackSpeed": {
+    "de": "Generic Magic AttackSpeed",
+    "fr": "Generic Magic AttackSpeed"
+  },
+  "Generic Magic AttackSpeedBasic": {
+    "de": "Generic Magic AttackSpeedBasic",
+    "fr": "Generic Magic AttackSpeedBasic"
+  },
+  "Generic Magic BarrierDamage": {
+    "de": "Generic Magic BarrierDamage",
+    "fr": "Generic Magic BarrierDamage"
+  },
+  "Generic Magic BarrierPotency": {
+    "de": "Generic Magic BarrierPotency",
+    "fr": "Generic Magic BarrierPotency"
+  },
+  "Generic Magic BlockChance": {
+    "de": "Generic Magic BlockChance",
+    "fr": "Generic Magic BlockChance"
+  },
+  "Generic Magic BonusFortify": {
+    "de": "Generic Magic BonusFortify",
+    "fr": "Generic Magic BonusFortify"
+  },
+  "Generic Magic CCDurationReduction": {
+    "de": "Generic Magic CCDurationReduction",
+    "fr": "Generic Magic CCDurationReduction"
+  },
+  "Generic Magic CDR": {
+    "de": "Generic Magic CDR",
+    "fr": "Generic Magic CDR"
+  },
+  "Generic Magic CriticalChance": {
+    "de": "Generic Magic CriticalChance",
+    "fr": "Generic Magic CriticalChance"
+  },
+  "Generic Magic CriticalDamage": {
+    "de": "Generic Magic CriticalDamage",
+    "fr": "Generic Magic CriticalDamage"
+  },
+  "Generic Magic CutthroatDamage": {
+    "de": "Generic Magic CutthroatDamage",
+    "fr": "Generic Magic CutthroatDamage"
+  },
+  "Generic Magic Damage": {
+    "de": "Generic Magic Damage",
+    "fr": "Generic Magic Damage"
+  },
+  "Generic Magic DamageBleed": {
+    "de": "Generic Magic DamageBleed",
+    "fr": "Generic Magic DamageBleed"
+  },
+  "Generic Magic DamageCold": {
+    "de": "Generic Magic DamageCold",
+    "fr": "Generic Magic DamageCold"
+  },
+  "Generic Magic DamageConjuration": {
+    "de": "Generic Magic DamageConjuration",
+    "fr": "Generic Magic DamageConjuration"
+  },
+  "Generic Magic DamageElemental": {
+    "de": "Generic Magic DamageElemental",
+    "fr": "Generic Magic DamageElemental"
+  },
+  "Generic Magic DamageFire": {
+    "de": "Generic Magic DamageFire",
+    "fr": "Generic Magic DamageFire"
+  },
+  "Generic Magic DamageLightning": {
+    "de": "Generic Magic DamageLightning",
+    "fr": "Generic Magic DamageLightning"
+  },
+  "Generic Magic DamagePhysical": {
+    "de": "Generic Magic DamagePhysical",
+    "fr": "Generic Magic DamagePhysical"
+  },
+  "Generic Magic DamageReduction": {
+    "de": "Generic Magic DamageReduction",
+    "fr": "Generic Magic DamageReduction"
+  },
+  "Generic Magic DamageReductionFromBleedingTarget": {
+    "de": "Generic Magic DamageReductionFromBleedingTarget",
+    "fr": "Generic Magic DamageReductionFromBleedingTarget"
+  },
+  "Generic Magic DamageReductionFromChilledTarget": {
+    "de": "Generic Magic DamageReductionFromChilledTarget",
+    "fr": "Generic Magic DamageReductionFromChilledTarget"
+  },
+  "Generic Magic DamageReductionFromElite": {
+    "de": "Generic Magic DamageReductionFromElite",
+    "fr": "Generic Magic DamageReductionFromElite"
+  },
+  "Generic Magic DamageReductionFromFar": {
+    "de": "Generic Magic DamageReductionFromFar",
+    "fr": "Generic Magic DamageReductionFromFar"
+  },
+  "Generic Magic DamageReductionFromNear": {
+    "de": "Generic Magic DamageReductionFromNear",
+    "fr": "Generic Magic DamageReductionFromNear"
+  },
+  "Generic Magic DamageReductionFromPoisonedTarget": {
+    "de": "Generic Magic DamageReductionFromPoisonedTarget",
+    "fr": "Generic Magic DamageReductionFromPoisonedTarget"
+  },
+  "Generic Magic DamageReductionFromShadowDoTed": {
+    "de": "Generic Magic DamageReductionFromShadowDoTed",
+    "fr": "Generic Magic DamageReductionFromShadowDoTed"
+  },
+  "Generic Magic DamageReductionFromVulnerable": {
+    "de": "Generic Magic DamageReductionFromVulnerable",
+    "fr": "Generic Magic DamageReductionFromVulnerable"
+  },
+  "Generic Magic DamageReductionWhileFortified": {
+    "de": "Generic Magic DamageReductionWhileFortified",
+    "fr": "Generic Magic DamageReductionWhileFortified"
+  },
+  "Generic Magic DamageReductionWhileHealthy": {
+    "de": "Generic Magic DamageReductionWhileHealthy",
+    "fr": "Generic Magic DamageReductionWhileHealthy"
+  },
+  "Generic Magic DamageReductionWhileMoving": {
+    "de": "Generic Magic DamageReductionWhileMoving",
+    "fr": "Generic Magic DamageReductionWhileMoving"
+  },
+  "Generic Magic DamageReductionWithBarrier": {
+    "de": "Generic Magic DamageReductionWithBarrier",
+    "fr": "Generic Magic DamageReductionWithBarrier"
+  },
+  "Generic Magic DamageShadow": {
+    "de": "Generic Magic DamageShadow",
+    "fr": "Generic Magic DamageShadow"
+  },
+  "Generic Magic DamageShadowDoT": {
+    "de": "Generic Magic DamageShadowDoT",
+    "fr": "Generic Magic DamageShadowDoT"
+  },
+  "Generic Magic DamageToBleed": {
+    "de": "Generic Magic DamageToBleed",
+    "fr": "Generic Magic DamageToBleed"
+  },
+  "Generic Magic DamageToBurning": {
+    "de": "Generic Magic DamageToBurning",
+    "fr": "Generic Magic DamageToBurning"
+  },
+  "Generic Magic DamageToCC": {
+    "de": "Generic Magic DamageToCC",
+    "fr": "Generic Magic DamageToCC"
+  },
+  "Generic Magic DamageToElite": {
+    "de": "Generic Magic DamageToElite",
+    "fr": "Generic Magic DamageToElite"
+  },
+  "Generic Magic DamageToFar": {
+    "de": "Generic Magic DamageToFar",
+    "fr": "Generic Magic DamageToFar"
+  },
+  "Generic Magic DamageToHealthy": {
+    "de": "Generic Magic DamageToHealthy",
+    "fr": "Generic Magic DamageToHealthy"
+  },
+  "Generic Magic DamageToHigh": {
+    "de": "Generic Magic DamageToHigh",
+    "fr": "Generic Magic DamageToHigh"
+  },
+  "Generic Magic DamageToLow": {
+    "de": "Generic Magic DamageToLow",
+    "fr": "Generic Magic DamageToLow"
+  },
+  "Generic Magic DamageToNear": {
+    "de": "Generic Magic DamageToNear",
+    "fr": "Generic Magic DamageToNear"
+  },
+  "Generic Magic DamageToPoison": {
+    "de": "Generic Magic DamageToPoison",
+    "fr": "Generic Magic DamageToPoison"
+  },
+  "Generic Magic DamageToShadowDoTed": {
+    "de": "Generic Magic DamageToShadowDoTed",
+    "fr": "Generic Magic DamageToShadowDoTed"
+  },
+  "Generic Magic DamageToStun": {
+    "de": "Generic Magic DamageToStun",
+    "fr": "Generic Magic DamageToStun"
+  },
+  "Generic Magic DamageToVulnerable": {
+    "de": "Generic Magic DamageToVulnerable",
+    "fr": "Generic Magic DamageToVulnerable"
+  },
+  "Generic Magic DamageWhileFortified": {
+    "de": "Generic Magic DamageWhileFortified",
+    "fr": "Generic Magic DamageWhileFortified"
+  },
+  "Generic Magic DamageWhileHealthy": {
+    "de": "Generic Magic DamageWhileHealthy",
+    "fr": "Generic Magic DamageWhileHealthy"
+  },
+  "Generic Magic DamageWithUltimates": {
+    "de": "Generic Magic DamageWithUltimates",
+    "fr": "Generic Magic DamageWithUltimates"
+  },
+  "Generic Magic Dex": {
+    "de": "Generic Magic Dex",
+    "fr": "Generic Magic Dex"
+  },
+  "Generic Magic DodgeChance": {
+    "de": "Generic Magic DodgeChance",
+    "fr": "Generic Magic DodgeChance"
+  },
+  "Generic Magic Essence": {
+    "de": "Generic Magic Essence",
+    "fr": "Generic Magic Essence"
+  },
+  "Generic Magic EssenceOnKill": {
+    "de": "Generic Magic EssenceOnKill",
+    "fr": "Generic Magic EssenceOnKill"
+  },
+  "Generic Magic HPFlat": {
+    "de": "Generic Magic HPFlat",
+    "fr": "Generic Magic HPFlat"
+  },
+  "Generic Magic HPPercent": {
+    "de": "Generic Magic HPPercent",
+    "fr": "Generic Magic HPPercent"
+  },
+  "Generic Magic HPRegen": {
+    "de": "Generic Magic HPRegen",
+    "fr": "Generic Magic HPRegen"
+  },
+  "Generic Magic HealingBonus": {
+    "de": "Generic Magic HealingBonus",
+    "fr": "Generic Magic HealingBonus"
+  },
+  "Generic Magic Int": {
+    "de": "Generic Magic Int",
+    "fr": "Generic Magic Int"
+  },
+  "Generic Magic LuckyHitBonus": {
+    "de": "Generic Magic LuckyHitBonus",
+    "fr": "Generic Magic LuckyHitBonus"
+  },
+  "Generic Magic MinionAllResistance": {
+    "de": "Generic Magic MinionAllResistance",
+    "fr": "Generic Magic MinionAllResistance"
+  },
+  "Generic Magic MinionArmor": {
+    "de": "Generic Magic MinionArmor",
+    "fr": "Generic Magic MinionArmor"
+  },
+  "Generic Magic MinionAttackSpeed": {
+    "de": "Generic Magic MinionAttackSpeed",
+    "fr": "Generic Magic MinionAttackSpeed"
+  },
+  "Generic Magic MinionDamage": {
+    "de": "Generic Magic MinionDamage",
+    "fr": "Generic Magic MinionDamage"
+  },
+  "Generic Magic MinionDamageReduction": {
+    "de": "Generic Magic MinionDamageReduction",
+    "fr": "Generic Magic MinionDamageReduction"
+  },
+  "Generic Magic MinionHP": {
+    "de": "Generic Magic MinionHP",
+    "fr": "Generic Magic MinionHP"
+  },
+  "Generic Magic MoveSpeed": {
+    "de": "Generic Magic MoveSpeed",
+    "fr": "Generic Magic MoveSpeed"
+  },
+  "Generic Magic MoveSpeedEliteKill": {
+    "de": "Generic Magic MoveSpeedEliteKill",
+    "fr": "Generic Magic MoveSpeedEliteKill"
+  },
+  "Generic Magic OverpowerDamage": {
+    "de": "Generic Magic OverpowerDamage",
+    "fr": "Generic Magic OverpowerDamage"
+  },
+  "Generic Magic ResistanceAll": {
+    "de": "Generic Magic ResistanceAll",
+    "fr": "Generic Magic ResistanceAll"
+  },
+  "Generic Magic ResistanceCold": {
+    "de": "Generic Magic ResistanceCold",
+    "fr": "Generic Magic ResistanceCold"
+  },
+  "Generic Magic ResistanceFire": {
+    "de": "Generic Magic ResistanceFire",
+    "fr": "Generic Magic ResistanceFire"
+  },
+  "Generic Magic ResistanceLightning": {
+    "de": "Generic Magic ResistanceLightning",
+    "fr": "Generic Magic ResistanceLightning"
+  },
+  "Generic Magic ResistanceMaxCold": {
+    "de": "Generic Magic ResistanceMaxCold",
+    "fr": "Generic Magic ResistanceMaxCold"
+  },
+  "Generic Magic ResistanceMaxFire": {
+    "de": "Generic Magic ResistanceMaxFire",
+    "fr": "Generic Magic ResistanceMaxFire"
+  },
+  "Generic Magic ResistanceMaxLightning": {
+    "de": "Generic Magic ResistanceMaxLightning",
+    "fr": "Generic Magic ResistanceMaxLightning"
+  },
+  "Generic Magic ResistanceMaxPoison": {
+    "de": "Generic Magic ResistanceMaxPoison",
+    "fr": "Generic Magic ResistanceMaxPoison"
+  },
+  "Generic Magic ResistanceMaxShadow": {
+    "de": "Generic Magic ResistanceMaxShadow",
+    "fr": "Generic Magic ResistanceMaxShadow"
+  },
+  "Generic Magic ResistancePoison": {
+    "de": "Generic Magic ResistancePoison",
+    "fr": "Generic Magic ResistancePoison"
+  },
+  "Generic Magic ResistanceShadow": {
+    "de": "Generic Magic ResistanceShadow",
+    "fr": "Generic Magic ResistanceShadow"
+  },
+  "Generic Magic ResourceCostReduction": {
+    "de": "Generic Magic ResourceCostReduction",
+    "fr": "Generic Magic ResourceCostReduction"
+  },
+  "Generic Magic ResourceGain": {
+    "de": "Generic Magic ResourceGain",
+    "fr": "Generic Magic ResourceGain"
+  },
+  "Generic Magic Str": {
+    "de": "Generic Magic Str",
+    "fr": "Generic Magic Str"
+  },
+  "Generic Magic Thorns": {
+    "de": "Generic Magic Thorns",
+    "fr": "Generic Magic Thorns"
+  },
+  "Generic Magic Will": {
+    "de": "Generic Magic Will",
+    "fr": "Generic Magic Will"
+  },
+  "Generic Normal Dex": {
+    "de": "Generic Normal Dex",
+    "fr": "Generic Normal Dex"
+  },
+  "Generic Normal Int": {
+    "de": "Generic Normal Int",
+    "fr": "Generic Normal Int"
+  },
+  "Generic Normal Str": {
+    "de": "Generic Normal Str",
+    "fr": "Generic Normal Str"
+  },
+  "Generic Normal Will": {
+    "de": "Generic Normal Will",
+    "fr": "Generic Normal Will"
+  },
+  "Giant Killer": {
+    "de": "Riesentöter",
+    "fr": "Fléau des géants"
+  },
+  "Gifted": {
+    "de": "Begabt",
+    "fr": "Prodige"
+  },
+  "Gloom": {
+    "de": "Schwermut",
+    "fr": "Obscurité"
+  },
+  "Glyph Socket": {
+    "de": "Glyphensockel",
+    "fr": "Châsse de glyphe"
+  },
+  "Gnawing Darkness": {
+    "de": "Zehrende Dunkelheit",
+    "fr": "Ténèbres mordantes"
+  },
+  "Grasp": {
+    "de": "Griff",
+    "fr": "Poigne"
+  },
+  "Grit": {
+    "de": "Schneid",
+    "fr": "Hardiesse"
+  },
+  "Grizzly": {
+    "de": "Grizzly",
+    "fr": "Grizzly"
+  },
+  "Grounded": {
+    "de": "Geerdet",
+    "fr": "Enracinement"
+  },
+  "Guarded": {
+    "de": "Geschützt",
+    "fr": "Garde"
+  },
+  "Guarded Advance": {
+    "de": "Geschützter Vorstoß",
+    "fr": "Avance gardée"
+  },
+  "Guidance": {
+    "de": "Führung",
+    "fr": "Guide"
+  },
+  "Hardened": {
+    "de": "Gehärtet",
+    "fr": "Durcissement"
+  },
+  "Harmony": {
+    "de": "Harmonie",
+    "fr": "Harmonie"
+  },
+  "Haven": {
+    "de": "Hafen",
+    "fr": "Refuge"
+  },
+  "Heavy Blows": {
+    "de": "Schwere Schläge",
+    "fr": "Coups puissants"
+  },
+  "Heightened Malice": {
+    "de": "Gestärkte Bosheit",
+    "fr": "Malveillance décuplée"
+  },
+  "Hemorrhage": {
+    "de": "Blutsturz",
+    "fr": "Saignée"
+  },
+  "Hubris": {
+    "de": "Hybris",
+    "fr": "Outrecuidance"
+  },
+  "Hulking Monstrosity": {
+    "de": "Hünenhafte Monstrosität",
+    "fr": "Monstruosité colossale"
+  },
+  "Hungering Fury": {
+    "de": "Hungrige Wut",
+    "fr": "Fureur vorace"
+  },
+  "Hunter Killer": {
+    "de": "Jägerkiller",
+    "fr": "Chasseur-tueur"
+  },
+  "Icefall": {
+    "de": "Eisschlag",
+    "fr": "Chute de glace"
+  },
+  "Imbuer": {
+    "de": "Infusionsmeister",
+    "fr": "Imprégnations"
+  },
+  "Impel": {
+    "de": "Antreiben",
+    "fr": "Incitation"
+  },
+  "In-Fighter": {
+    "de": "Nahkämpfer",
+    "fr": "Combat rapproché"
+  },
+  "Incapacitate": {
+    "de": "Handlungsunfähig",
+    "fr": "Neutralisation"
+  },
+  "Incombustible": {
+    "de": "Unbrennbar",
+    "fr": "Incombustibilité"
+  },
+  "Infused Caster": {
+    "de": "Erfüllter Beschwörer",
+    "fr": "Sorcellerie imprégnée"
+  },
+  "Infused Golem": {
+    "de": "Erfüllter Golem",
+    "fr": "Golem imprégné"
+  },
+  "Infused Warrior": {
+    "de": "Erfüllter Krieger",
+    "fr": "Combat imprégné"
+  },
+  "Inner Beast": {
+    "de": "Innere Bestie",
+    "fr": "Bête intérieure"
+  },
+  "Inner Strength": {
+    "de": "Innere Stärke",
+    "fr": "Force intérieure"
+  },
+  "Invigorated": {
+    "de": "Gestärkt",
+    "fr": "Vivification"
+  },
+  "Iron Strength": {
+    "de": "Eiserne Stärke",
+    "fr": "Force de frappe"
+  },
+  "Keeper of Elements": {
+    "de": "Hüter der Elemente",
+    "fr": "Dépositaire des éléments"
+  },
+  "Keeper of Flames": {
+    "de": "Hüter der Flammen",
+    "fr": "Dépositaire des flammes"
+  },
+  "Keeper of Winter": {
+    "de": "Hüter des Winters",
+    "fr": "Dépositaire de l’hiver"
+  },
+  "Kindling": {
+    "de": "Zündeln",
+    "fr": "Petit bois"
+  },
+  "Knowledge": {
+    "de": "Wissen",
+    "fr": "Connaissances"
+  },
+  "Lacerator": {
+    "de": "Zerfleischer",
+    "fr": "Lacérateur"
+  },
+  "Leyrana's Instinct": {
+    "de": "Leyranas Instinkt",
+    "fr": "Instinct de Leyrana"
+  },
+  "Lightning Conditioned": {
+    "de": "Blitzkonditioniert",
+    "fr": "Conditionnement à la foudre"
+  },
+  "Lightning Cutter": {
+    "de": "Blitzschneider",
+    "fr": "Lame foudroyante"
+  },
+  "Lightning Resilience": {
+    "de": "Blitzabhärtung",
+    "fr": "Résilience à la foudre"
+  },
+  "Lingering Shadows": {
+    "de": "Verweilende Schatten",
+    "fr": "Ombres persistantes"
+  },
+  "Lucky Winds": {
+    "de": "Glückliche Winde",
+    "fr": "Vents de la chance"
+  },
+  "Lust for Carnage": {
+    "de": "Lust auf Gemetzel",
+    "fr": "Soif de carnage"
+  },
+  "Malediction": {
+    "de": "Verwünschung",
+    "fr": "Malédiction"
+  },
+  "Master": {
+    "de": "Meister",
+    "fr": "Maîtrise"
+  },
+  "Meticulous": {
+    "de": "Penibel",
+    "fr": "Méticulosité"
+  },
+  "Miscreation": {
+    "de": "Fehlschöpfung",
+    "fr": "Création ratée"
+  },
+  "Misery": {
+    "de": "Elend",
+    "fr": "Misère"
+  },
+  "Mosquito": {
+    "de": "Moskito",
+    "fr": "Moustique"
+  },
+  "Mutation": {
+    "de": "Mutation",
+    "fr": "Mutation"
+  },
+  "Natural Attunement": {
+    "de": "Natürliche Einstimmung",
+    "fr": "Harmonie naturelle"
+  },
+  "Natural Leader": {
+    "de": "Geborener Anführer",
+    "fr": "Autorité naturelle"
+  },
+  "Natural Vitality": {
+    "de": "Natürliche Vitalität",
+    "fr": "Vitalité naturelle"
+  },
+  "Nature's Dance": {
+    "de": "Tanz der Natur",
+    "fr": "Danse de la nature"
+  },
+  "Nature's Will": {
+    "de": "Wille der Natur",
+    "fr": "Volonté de la nature"
+  },
+  "Nature-born": {
+    "de": "Naturgeboren",
+    "fr": "Enfant de la nature"
+  },
+  "Necro Magic AttackSpeedCorpse": {
+    "de": "Necro Magic AttackSpeedCorpse",
+    "fr": "Necro Magic AttackSpeedCorpse"
+  },
+  "Necromancer Magic BloodOrbHealing": {
+    "de": "Necromancer Magic BloodOrbHealing",
+    "fr": "Necromancer Magic BloodOrbHealing"
+  },
+  "Necromancer Magic DamageBlood": {
+    "de": "Necromancer Magic DamageBlood",
+    "fr": "Necromancer Magic DamageBlood"
+  },
+  "Necromancer Magic DamageBone": {
+    "de": "Necromancer Magic DamageBone",
+    "fr": "Necromancer Magic DamageBone"
+  },
+  "Necromancer Magic GolemArmor": {
+    "de": "Necromancer Magic GolemArmor",
+    "fr": "Necromancer Magic GolemArmor"
+  },
+  "Necromancer Magic GolemAttackSpeed": {
+    "de": "Necromancer Magic GolemAttackSpeed",
+    "fr": "Necromancer Magic GolemAttackSpeed"
+  },
+  "Necromancer Magic GolemDamage": {
+    "de": "Necromancer Magic GolemDamage",
+    "fr": "Necromancer Magic GolemDamage"
+  },
+  "Necromancer Magic GolemHP": {
+    "de": "Necromancer Magic GolemHP",
+    "fr": "Necromancer Magic GolemHP"
+  },
+  "Necromancer Magic SkeletonMageDamage": {
+    "de": "Necromancer Magic SkeletonMageDamage",
+    "fr": "Necromancer Magic SkeletonMageDamage"
+  },
+  "Necromancer Magic SkeletonWarriorArmor": {
+    "de": "Necromancer Magic SkeletonWarriorArmor",
+    "fr": "Necromancer Magic SkeletonWarriorArmor"
+  },
+  "Necromancer Magic SkeletonWarriorDamage": {
+    "de": "Necromancer Magic SkeletonWarriorDamage",
+    "fr": "Necromancer Magic SkeletonWarriorDamage"
+  },
+  "Nimble": {
+    "de": "Behände",
+    "fr": "Agile"
+  },
+  "No Witnesses": {
+    "de": "Keine Zeugen",
+    "fr": "Aucun témoin"
+  },
+  "Opportunist": {
+    "de": "Opportunist",
+    "fr": "Opportunisme"
+  },
+  "Oppress": {
+    "de": "Unterdrückung",
+    "fr": "Oppression"
+  },
+  "Oppressive": {
+    "de": "Unterdrückend",
+    "fr": "Oppression"
+  },
+  "Outlaw": {
+    "de": "Gesetzloser",
+    "fr": "Hors-la-loi"
+  },
+  "Overdrive": {
+    "de": "Überladung",
+    "fr": "Ébullition"
+  },
+  "Overlord": {
+    "de": "Herrscher",
+    "fr": "Grand manitou"
+  },
+  "Paragon Starting Node": {
+    "de": "Paragon-Startknoten",
+    "fr": "Nœud de départ de parangon"
+  },
+  "Paralyzing": {
+    "de": "Paralysierend",
+    "fr": "Paralysie"
+  },
+  "Patience": {
+    "de": "Geduld",
+    "fr": "Patience"
+  },
+  "Peerless": {
+    "de": "Unvergleichlich",
+    "fr": "Incomparabilité"
+  },
+  "Piercing Gale": {
+    "de": "Stechender Orkan",
+    "fr": "Cyclone pénétrant"
+  },
+  "Pillage": {
+    "de": "Plünderung",
+    "fr": "Pillage"
+  },
+  "Poison Conditioned": {
+    "de": "Giftkonditioniert",
+    "fr": "Conditionnement au poison"
+  },
+  "Poison Resilience": {
+    "de": "Giftabhärtung",
+    "fr": "Résilience au poison"
+  },
+  "Polar Rime": {
+    "de": "Polarer Raureif",
+    "fr": "Frimas polaire"
+  },
+  "Potent": {
+    "de": "Kraftvoll",
+    "fr": "Toute-puissance"
+  },
+  "Powerhouse": {
+    "de": "Kraftpaket",
+    "fr": "Énergie à revendre"
+  },
+  "Preservation": {
+    "de": "Bewahrung",
+    "fr": "Préservation"
+  },
+  "Primal Rage": {
+    "de": "Urzorn",
+    "fr": "Rage primaire"
+  },
+  "Primal Ward": {
+    "de": "Urschutz",
+    "fr": "Protection primordiale"
+  },
+  "Prime": {
+    "de": "Krönung",
+    "fr": "Primauté"
+  },
+  "Prophetic": {
+    "de": "Prophetisch",
+    "fr": "Prophétisme"
+  },
+  "Punishment": {
+    "de": "Bestrafung",
+    "fr": "Blâme"
+  },
+  "Puppeteer": {
+    "de": "Puppenspieler",
+    "fr": "Marionnettiste"
+  },
+  "Rampage": {
+    "de": "Tobsucht",
+    "fr": "Boucherie"
+  },
+  "Ranger": {
+    "de": "Waldläufer",
+    "fr": "Sentinelle"
+  },
+  "Raptor": {
+    "de": "Raubvogel",
+    "fr": "Rapace"
+  },
+  "Raw Might": {
+    "de": "Rohe Macht",
+    "fr": "Puissance pure"
+  },
+  "Raw Power": {
+    "de": "Rohe Kraft",
+    "fr": "Puissance brute"
+  },
+  "Ready Supply": {
+    "de": "Stetiger Vorrat",
+    "fr": "Approvisionnement"
+  },
+  "Reclaim": {
+    "de": "Zurückholen",
+    "fr": "Réclamation"
+  },
+  "Reclamation": {
+    "de": "Urbarmachung",
+    "fr": "Réhabilitation"
+  },
+  "Recuperate": {
+    "de": "Gesundung",
+    "fr": "Récupération"
+  },
+  "Reinvigorate": {
+    "de": "Neu stärken",
+    "fr": "Revigoration"
+  },
+  "Relentless": {
+    "de": "Unnachgiebig",
+    "fr": "Implacabilité"
+  },
+  "Remedy": {
+    "de": "Heilmittel",
+    "fr": "Remède"
+  },
+  "Rend": {
+    "de": "Zerfleischen",
+    "fr": "Déchirure"
+  },
+  "Reservoir": {
+    "de": "Reservoir",
+    "fr": "Réservoir"
+  },
+  "Resilience": {
+    "de": "Abhärtung",
+    "fr": "Résilience"
+  },
+  "Resistant": {
+    "de": "Resistent",
+    "fr": "Résistance"
+  },
+  "Resolve": {
+    "de": "Entschlossenheit",
+    "fr": "Décision"
+  },
+  "Restorative": {
+    "de": "Regenerierend",
+    "fr": "Revitalisation"
+  },
+  "Revealing": {
+    "de": "Offenbarend",
+    "fr": "Révélation"
+  },
+  "Revel": {
+    "de": "Labung",
+    "fr": "Délectation"
+  },
+  "Ripper": {
+    "de": "Reißer",
+    "fr": "Déchirure"
+  },
+  "Rogue Magic DamageImbued": {
+    "de": "Rogue Magic DamageImbued",
+    "fr": "Rogue Magic DamageImbued"
+  },
+  "Rogue Magic DamageReductionFromTrapped": {
+    "de": "Rogue Magic DamageReductionFromTrapped",
+    "fr": "Rogue Magic DamageReductionFromTrapped"
+  },
+  "Rogue Magic DamageToTrapped": {
+    "de": "Rogue Magic DamageToTrapped",
+    "fr": "Rogue Magic DamageToTrapped"
+  },
+  "Rogue Magic DamageTrap": {
+    "de": "Rogue Magic DamageTrap",
+    "fr": "Rogue Magic DamageTrap"
+  },
+  "Rogue Magic ImbueCDR": {
+    "de": "Rogue Magic ImbueCDR",
+    "fr": "Rogue Magic ImbueCDR"
+  },
+  "Rogue Magic MarksmanDamage": {
+    "de": "Rogue Magic MarksmanDamage",
+    "fr": "Rogue Magic MarksmanDamage"
+  },
+  "Rogue Magic MobilityCooldown": {
+    "de": "Rogue Magic MobilityCooldown",
+    "fr": "Rogue Magic MobilityCooldown"
+  },
+  "Rogue Magic SubterfugeCooldown": {
+    "de": "Rogue Magic SubterfugeCooldown",
+    "fr": "Rogue Magic SubterfugeCooldown"
+  },
+  "Rogue Magic TrapCooldown": {
+    "de": "Rogue Magic TrapCooldown",
+    "fr": "Rogue Magic TrapCooldown"
+  },
+  "Ruinous": {
+    "de": "Ruinös",
+    "fr": "Ruine"
+  },
+  "Safeguard": {
+    "de": "Sicherung",
+    "fr": "Protection"
+  },
+  "Sapping": {
+    "de": "Anzapfen",
+    "fr": "Sape"
+  },
+  "Scent of Death": {
+    "de": "Geruch des Todes",
+    "fr": "L’odeur de la mort"
+  },
+  "Searing Heat": {
+    "de": "Sengende Hitze",
+    "fr": "Chaleur ardente"
+  },
+  "Seethe": {
+    "de": "Brodeln",
+    "fr": "Bouillonnement"
+  },
+  "Sentinel": {
+    "de": "Wächter",
+    "fr": "Veille"
+  },
+  "Shadow Resilience": {
+    "de": "Schattenabhärtung",
+    "fr": "Résilience de l’ombre"
+  },
+  "Shaper of Bone": {
+    "de": "Knochenformer",
+    "fr": "Ostéomorphose"
+  },
+  "Shapeshifter": {
+    "de": "Gestaltwandler",
+    "fr": "Métamorphe"
+  },
+  "Shelter": {
+    "de": "Asyl",
+    "fr": "Abri"
+  },
+  "Sinking Fangs": {
+    "de": "Tödliche Reißzähne",
+    "fr": "Canines assassines"
+  },
+  "Skillful": {
+    "de": "Geschickt",
+    "fr": "Habileté"
+  },
+  "Skulker": {
+    "de": "Schleicher",
+    "fr": "Furetage"
+  },
+  "Slayer": {
+    "de": "Schlächter",
+    "fr": "Carnage"
+  },
+  "Smoldering Embers": {
+    "de": "Glimmende Überreste",
+    "fr": "Braises fumantes"
+  },
+  "Sorc Magic ConjurationCooldown": {
+    "de": "Sorc Magic ConjurationCooldown",
+    "fr": "Sorc Magic ConjurationCooldown"
+  },
+  "Sorcerer Magic CracklingEnergy": {
+    "de": "Sorcerer Magic CracklingEnergy",
+    "fr": "Sorcerer Magic CracklingEnergy"
+  },
+  "Spearhead": {
+    "de": "Speerspitze",
+    "fr": "Fer-de-lance"
+  },
+  "Spiney Skin": {
+    "de": "Stachelige Haut",
+    "fr": "Peau épineuse"
+  },
+  "Spiritborn Magic Vigor": {
+    "de": "Spiritborn Magic Vigor",
+    "fr": "Spiritborn Magic Vigor"
+  },
+  "Spiritual": {
+    "de": "Spirituell",
+    "fr": "Spiritualité"
+  },
+  "Spiritual Power": {
+    "de": "Spirituelle Kraft",
+    "fr": "Pouvoirs spirituels"
+  },
+  "Splinter": {
+    "de": "Splitter",
+    "fr": "Fracture"
+  },
+  "Sprightful": {
+    "de": "Lebhaft",
+    "fr": "Alerte"
+  },
+  "Spring-loaded": {
+    "de": "Gefedert",
+    "fr": "À ressort"
+  },
+  "Squall": {
+    "de": "Sturmböe",
+    "fr": "Bourrasque"
+  },
+  "Static Surge": {
+    "de": "Statische Woge",
+    "fr": "Surtension statique"
+  },
+  "Stifle": {
+    "de": "Dämpfung",
+    "fr": "Asphyxie"
+  },
+  "Stoic": {
+    "de": "Stoisch",
+    "fr": "Stoïcisme"
+  },
+  "Stormcaller": {
+    "de": "Sturmrufer",
+    "fr": "Mande-foudre"
+  },
+  "Studied": {
+    "de": "Studiert",
+    "fr": "Études"
+  },
+  "Suffused Resilience": {
+    "de": "Durchdrungene Abhärtung",
+    "fr": "Résilience imprégnée"
+  },
+  "Superiority": {
+    "de": "Überlegenheit",
+    "fr": "Supériorité"
+  },
+  "Surgical": {
+    "de": "Chirurgisch",
+    "fr": "Précision"
+  },
+  "Survival Instincts": {
+    "de": "Überlebensinstinkte",
+    "fr": "Instinct de survie"
+  },
+  "Swift Conjurer": {
+    "de": "Flinker Beschwörer",
+    "fr": "Conjuration rapide"
+  },
+  "Tactical": {
+    "de": "Taktisch",
+    "fr": "Stratège"
+  },
+  "Targeted": {
+    "de": "Präzisionsschlag",
+    "fr": "Ciblage"
+  },
+  "Tempest": {
+    "de": "Sturmjäger",
+    "fr": "Tempête"
+  },
+  "Tenacity": {
+    "de": "Hartnäckigkeit",
+    "fr": "Ténacité"
+  },
+  "Thick Hide": {
+    "de": "Dickes Fell",
+    "fr": "Peau épaisse"
+  },
+  "Thunderstruck": {
+    "de": "Vom Blitz getroffen",
+    "fr": "Foudroiement"
+  },
+  "Tolerance": {
+    "de": "Toleranz",
+    "fr": "Tolérance"
+  },
+  "Toughened": {
+    "de": "Gehärtet",
+    "fr": "Blindage"
+  },
+  "Training": {
+    "de": "Ausbildung",
+    "fr": "Instruction"
+  },
+  "Trapper": {
+    "de": "Fallensteller",
+    "fr": "Trappe"
+  },
+  "Tricks of the Trade": {
+    "de": "Jägerhandwerk",
+    "fr": "Ficelles du métier"
+  },
+  "Unassailable": {
+    "de": "Unangreifbar",
+    "fr": "Irréfutable"
+  },
+  "Untamed": {
+    "de": "Ungezähmt",
+    "fr": "Indomptable"
+  },
+  "Ursine": {
+    "de": "Bärenhaft",
+    "fr": "Ursin"
+  },
+  "Vampiric": {
+    "de": "Vampirisch",
+    "fr": "Vampirisme"
+  },
+  "Venom Weaver": {
+    "de": "Giftweber",
+    "fr": "Tisse-venin"
+  },
+  "Vigilant": {
+    "de": "Wachsam",
+    "fr": "Vigilance"
+  },
+  "Vigor": {
+    "de": "Lebenskraft",
+    "fr": "Vigueur"
+  },
+  "Viscous Shield": {
+    "de": "Zäher Schild",
+    "fr": "Bouclier visqueux"
+  },
+  "Warbringer": {
+    "de": "Kriegshetzer",
+    "fr": "Porte-guerre"
+  },
+  "Weakness": {
+    "de": "Schwäche",
+    "fr": "Faiblesse"
+  },
+  "Weapons Master": {
+    "de": "Waffenmeister",
+    "fr": "Maître d’armes"
+  },
+  "Wild Force": {
+    "de": "Wilde Macht",
+    "fr": "Force bestiale"
+  },
+  "Wild's Call": {
+    "de": "Ruf der Wildnis",
+    "fr": "Appel des étendues"
+  },
+  "Wilds": {
+    "de": "Wildnis",
+    "fr": "Sauvagerie"
+  },
+  "Wither": {
+    "de": "Verkümmern",
+    "fr": "Flétrissement"
+  },
+  "Wrath": {
+    "de": "Zorn",
+    "fr": "Colère"
+  },
+  "Zealous": {
+    "de": "Eifrig",
+    "fr": "Ferveur"
+  },
+  "Zephyr": {
+    "de": "Zephyr",
+    "fr": "Zéphyr"
+  }
+}

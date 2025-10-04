@@ -1,0 +1,3498 @@
+{
+  "Abhorrent Decrepify": {
+    "de": "Abscheuliches Altern",
+    "fr": "Décrépitude abjecte"
+  },
+  "Abhorrent Iron Maiden": {
+    "de": "Abscheuliche Eiserne Jungfrau",
+    "fr": "Vierge de fer abjecte"
+  },
+  "Abundance": {
+    "de": "Überfluss",
+    "fr": "Profusion"
+  },
+  "Accelerated Rock Splitter": {
+    "de": "Beschleunigter Felsspalter",
+    "fr": "Bris de roche accéléré"
+  },
+  "Accelerated Thrash": {
+    "de": "Beschleunigtes Dreschen",
+    "fr": "Brutale sauvagerie accélérée"
+  },
+  "Accelerated Thunderspike": {
+    "de": "Beschleunigter Donnerstachel",
+    "fr": "Pointe de foudre accélérée"
+  },
+  "Accelerated Withering Fist": {
+    "de": "Beschleunigte Verkümmernde Faust",
+    "fr": "Poing flétrissant accéléré"
+  },
+  "Acceleration": {
+    "de": "Beschleunigung",
+    "fr": "Précipitation"
+  },
+  "Acolyte's Bone Splinters": {
+    "de": "Knochensplitter des Akolythen",
+    "fr": "Éclats d’os d’acolyte"
+  },
+  "Acolyte's Decompose": {
+    "de": "Zersetzung des Akolythen",
+    "fr": "Décomposition d’acolyte"
+  },
+  "Acolyte's Hemorrhage": {
+    "de": "Blutsturz des Akolythen",
+    "fr": "Saignée d’acolyte"
+  },
+  "Acolyte's Reap": {
+    "de": "Blutige Ernte des Akolythen",
+    "fr": "Fauchage d’acolyte"
+  },
+  "Adaptable Armored Hide": {
+    "de": "Anpassungsfähige Panzerhaut",
+    "fr": "Peau armurée adaptative"
+  },
+  "Adaptable Concussive Stomp": {
+    "de": "Anpassungsfähiges Erschütterndes Aufstampfen",
+    "fr": "Choc traumatisant adaptatif"
+  },
+  "Adaptable Counterattack": {
+    "de": "Anpassungsfähiger Gegenangriff",
+    "fr": "Contre-attaque adaptative"
+  },
+  "Adaptable Scourge": {
+    "de": "Anpassungsfähige Geißel",
+    "fr": "Calamité adaptative"
+  },
+  "Adaptive Stances": {
+    "de": "Adaptive Haltungen",
+    "fr": "Postures adaptées"
+  },
+  "Adrenaline Rush": {
+    "de": "Adrenalinrausch",
+    "fr": "Montée d’adrénaline"
+  },
+  "Advanced Barrage": {
+    "de": "Weiterentwickeltes Sperrfeuer",
+    "fr": "Déluge avancé"
+  },
+  "Advanced Flurry": {
+    "de": "Weiterentwickelter Klingensturm",
+    "fr": "Rafale avancée"
+  },
+  "Advanced Penetrating Shot": {
+    "de": "Weiterentwickelter Durchschlagender Schuss",
+    "fr": "Tir pénétrant avancé"
+  },
+  "Advanced Rapid Fire": {
+    "de": "Weiterentwickeltes Schnellfeuer",
+    "fr": "Tir rapide avancé"
+  },
+  "Advanced Twisting Blades": {
+    "de": "Weiterentwickelte Schraubklingen",
+    "fr": "Lames sournoises avancées"
+  },
+  "Advantageous Crushing Hand": {
+    "de": "Vorteilhafte Zerschmetternde Hand",
+    "fr": "Main écrasante avantageuse"
+  },
+  "Advantageous Quill Volley": {
+    "de": "Vorteilhafte Stachelsalve",
+    "fr": "Volée de plumes avantageuse"
+  },
+  "Advantageous Rake": {
+    "de": "Vorteilhafte Harke",
+    "fr": "Lacération avantageuses"
+  },
+  "Advantageous Stinger": {
+    "de": "Vorteilhafter Stachel",
+    "fr": "Piqûre avantageuse"
+  },
+  "Affliction": {
+    "de": "Gebrechen",
+    "fr": "Affliction"
+  },
+  "Aftermath": {
+    "de": "Nachwirkung",
+    "fr": "Après-coup"
+  },
+  "Aggressive Resistance": {
+    "de": "Aggressiver Widerstand",
+    "fr": "Résistance agressive"
+  },
+  "Agile": {
+    "de": "Agil",
+    "fr": "Agilité"
+  },
+  "Alchemical Admixture": {
+    "de": "Alchemistische Beigabe",
+    "fr": "Mixture alchimique"
+  },
+  "Alchemical Advantage": {
+    "de": "Alchemistischer Vorteil",
+    "fr": "Avantage alchimique"
+  },
+  "Alchemist's Fortune": {
+    "de": "Alchemistenglück",
+    "fr": "Fortune d’alchimiste"
+  },
+  "Align the Elements": {
+    "de": "Ausrichtung der Elemente",
+    "fr": "Alignement des éléments"
+  },
+  "Ambusher": {
+    "de": "Hinterhältig",
+    "fr": "Embuscade"
+  },
+  "Amplified Suffering": {
+    "de": "Verstärktes Leid",
+    "fr": "Souffrance décuplée"
+  },
+  "Amplify Damage": {
+    "de": "Verstärkter Schaden",
+    "fr": "Amplification des dégâts"
+  },
+  "Ancestral Fortitude": {
+    "de": "Kraft der Ahnen",
+    "fr": "Vigueur ancestrale"
+  },
+  "Ancient Harpoons": {
+    "de": "Uralte Harpunen",
+    "fr": "Harpons des Anciens"
+  },
+  "Annihilator": {
+    "de": "Vernichter",
+    "fr": "Élimination"
+  },
+  "Antivenom": {
+    "de": "Gegengift",
+    "fr": "Antivenin"
+  },
+  "Apex": {
+    "de": "Spitzenräuber",
+    "fr": "Prédation"
+  },
+  "Arc Lash": {
+    "de": "Elektropeitsche",
+    "fr": "Fouet électrique"
+  },
+  "Armored Hide": {
+    "de": "Panzerhaut",
+    "fr": "Peau armurée"
+  },
+  "Army of the Dead": {
+    "de": "Armee der Toten",
+    "fr": "Armée de morts"
+  },
+  "Attack": {
+    "de": "Angriff",
+    "fr": "Attaque"
+  },
+  "Auspicious": {
+    "de": "Aussichtsreich",
+    "fr": "Bon augure"
+  },
+  "Avalanche": {
+    "de": "Lawine",
+    "fr": "Avalanche"
+  },
+  "Backlash": {
+    "de": "Rückschlag",
+    "fr": "Contrecoup"
+  },
+  "Bad Omen": {
+    "de": "Schlechtes Omen",
+    "fr": "Mauvais présage"
+  },
+  "Balanced Exertion": {
+    "de": "Ausbalancierte Anstrengung",
+    "fr": "Effort compensé"
+  },
+  "Balestra": {
+    "de": "Balestra",
+    "fr": "Balestra"
+  },
+  "Ball Lightning": {
+    "de": "Kugelblitz",
+    "fr": "Sphère foudroyante"
+  },
+  "Barbed Carapace": {
+    "de": "Stachelpanzer",
+    "fr": "Carapace barbelée"
+  },
+  "Bargaining Chips": {
+    "de": "Verhandlungsmittel",
+    "fr": "Détonation multiple"
+  },
+  "Barrage": {
+    "de": "Sperrfeuer",
+    "fr": "Déluge"
+  },
+  "Bash": {
+    "de": "Hieb",
+    "fr": "Raclée"
+  },
+  "Bastion": {
+    "de": "Bollwerk",
+    "fr": "Bastion"
+  },
+  "Battle Bash": {
+    "de": "Schlachthieb",
+    "fr": "Raclée guerrière"
+  },
+  "Battle Fervor": {
+    "de": "Kampfeslust",
+    "fr": "Ferveur du combat"
+  },
+  "Battle Flay": {
+    "de": "Schlachtschinden",
+    "fr": "Écorchement guerrier"
+  },
+  "Battle Frenzy": {
+    "de": "Schlachtraserei",
+    "fr": "Frénésie guerrière"
+  },
+  "Battle Lunging Strike": {
+    "de": "Sprungschlag der Schlacht",
+    "fr": "Fente guerrière"
+  },
+  "Belligerence ": {
+    "de": "Streitlust ",
+    "fr": "Hostilité "
+  },
+  "Bestial Rampage": {
+    "de": "Bestialische Raserei",
+    "fr": "Saccage bestial"
+  },
+  "Blade Shift": {
+    "de": "Gleitklinge",
+    "fr": "Passage des lames"
+  },
+  "Blasphemous Fate": {
+    "de": "Blasphemischer Glaube",
+    "fr": "Destin blasphématoire"
+  },
+  "Blended Cold Imbuement": {
+    "de": "Vermengte Kälteinfusion",
+    "fr": "Imprégnation de givre composite"
+  },
+  "Blended Poison Imbuement": {
+    "de": "Vermengte Giftinfusion",
+    "fr": "Imprégnation de poison composite"
+  },
+  "Blended Shadow Imbuement": {
+    "de": "Vermengte Schatteninfusion",
+    "fr": "Imprégnation d’ombre composite"
+  },
+  "Blight": {
+    "de": "Pest",
+    "fr": "Chancre"
+  },
+  "Blighted Corpse Explosion": {
+    "de": "Verpestete Leichenexplosion",
+    "fr": "Explosion macabre putrescente"
+  },
+  "Blighted Corpse Tendrils": {
+    "de": "Verpestete Leichenranken",
+    "fr": "Vrilles nécrophages putrescentes"
+  },
+  "Blizzard": {
+    "de": "Blizzard",
+    "fr": "Blizzard"
+  },
+  "Blood Howl": {
+    "de": "Blutgeheul",
+    "fr": "Hurlement sanglant"
+  },
+  "Blood Lance": {
+    "de": "Blutlanze",
+    "fr": "Prélèvement"
+  },
+  "Blood Mist": {
+    "de": "Blutnebel",
+    "fr": "Brume de sang"
+  },
+  "Blood Surge": {
+    "de": "Blutwoge",
+    "fr": "Afflux sanguin"
+  },
+  "Blood Wave": {
+    "de": "Blutwelle",
+    "fr": "Vague de sang"
+  },
+  "Bloodlust": {
+    "de": "Blutlust",
+    "fr": "Soif de sang"
+  },
+  "Bloodthirst": {
+    "de": "Blutdurst",
+    "fr": "Envie sanguinaire"
+  },
+  "Bonded in Essence": {
+    "de": "In Essenz gebunden",
+    "fr": "Liens de substance"
+  },
+  "Bone Prison": {
+    "de": "Knochengefängnis",
+    "fr": "Prison d’os"
+  },
+  "Bone Spear": {
+    "de": "Knochenspeer",
+    "fr": "Lance d’os"
+  },
+  "Bone Spirit": {
+    "de": "Knochengeist",
+    "fr": "Esprit d’os"
+  },
+  "Bone Splinters": {
+    "de": "Knochensplitter",
+    "fr": "Éclats d’os"
+  },
+  "Bone Storm": {
+    "de": "Knochensturm",
+    "fr": "Tempête d’os"
+  },
+  "Booming Voice": {
+    "de": "Donnernde Stimme",
+    "fr": "Voix tonitruante"
+  },
+  "Boulder": {
+    "de": "Felsbrocken",
+    "fr": "Rocher"
+  },
+  "Brilliance": {
+    "de": "Brillanz",
+    "fr": "Brillance"
+  },
+  "Brutal Poison Creeper": {
+    "de": "Brutale Giftranke",
+    "fr": "Lierre empoisonné brutal"
+  },
+  "Brutal Ravens": {
+    "de": "Brutale Raben",
+    "fr": "Corbeaux brutaux"
+  },
+  "Brutal Wolf Pack": {
+    "de": "Brutales Wolfsrudel",
+    "fr": "Meute de loups brutaux"
+  },
+  "Brute Force": {
+    "de": "Brutale Kraft",
+    "fr": "Force brute"
+  },
+  "Burning Chaos": {
+    "de": "Brennendes Chaos",
+    "fr": "Chaos ardent"
+  },
+  "Call of the Ancients": {
+    "de": "Anrufung der Urahnen",
+    "fr": "Appel des Anciens"
+  },
+  "Call of the Wild": {
+    "de": "Ruf der Wildnis",
+    "fr": "Appel de la Nature"
+  },
+  "Caltrops": {
+    "de": "Krähenfüße",
+    "fr": "Chausse-trappe"
+  },
+  "Cataclysm": {
+    "de": "Kataklysmus",
+    "fr": "Cataclysme"
+  },
+  "Catastrophe": {
+    "de": "Katastrophe",
+    "fr": "Catastrophe"
+  },
+  "Chain Lightning": {
+    "de": "Kettenblitz",
+    "fr": "Chaîne d’éclairs"
+  },
+  "Chain of Souls": {
+    "de": "Seelenkette",
+    "fr": "Chaîne d’âmes"
+  },
+  "Challenging Shout": {
+    "de": "Herausforderungsruf",
+    "fr": "Cri provocateur"
+  },
+  "Charge": {
+    "de": "Ansturm",
+    "fr": "Charge"
+  },
+  "Charged Atmosphere": {
+    "de": "Geladene Atmosphäre",
+    "fr": "Atmosphère lourde"
+  },
+  "Charged Bolts": {
+    "de": "Comboblitze",
+    "fr": "Décharge électrique"
+  },
+  "Chilling Weight": {
+    "de": "Unterkühlendes Gewicht",
+    "fr": "Chape de glace"
+  },
+  "Circle of Life": {
+    "de": "Kreis des Lebens",
+    "fr": "Cycle de la vie"
+  },
+  "Clarity": {
+    "de": "Klarheit",
+    "fr": "Clarté"
+  },
+  "Claw": {
+    "de": "Klaue",
+    "fr": "Griffe"
+  },
+  "Cleave": {
+    "de": "Spalten",
+    "fr": "Déchirure"
+  },
+  "Close Quarters Combat": {
+    "de": "Auf engem Raum",
+    "fr": "Corps à corps"
+  },
+  "Coalesced Blood": {
+    "de": "Geronnenes Blut",
+    "fr": "Sang amalgamé"
+  },
+  "Cold Front": {
+    "de": "Kaltfront",
+    "fr": "Coup de froid"
+  },
+  "Cold Imbuement": {
+    "de": "Kälteinfusion",
+    "fr": "Imprégnation de givre"
+  },
+  "Combat Bash": {
+    "de": "Kampfhieb",
+    "fr": "Raclée martiale"
+  },
+  "Combat Flay": {
+    "de": "Kampfschinden",
+    "fr": "Écorchement martial"
+  },
+  "Combat Frenzy": {
+    "de": "Kampfraserei",
+    "fr": "Frénésie martiale"
+  },
+  "Combat Lunging Strike": {
+    "de": "Sprungschlag des Kampfes",
+    "fr": "Fente martiale"
+  },
+  "Combustion": {
+    "de": "Verbrennen",
+    "fr": "Combustion"
+  },
+  "Compound Fracture": {
+    "de": "Offener Bruch",
+    "fr": "Fracture ouverte"
+  },
+  "Concealment": {
+    "de": "Verschleierung",
+    "fr": "Dissimulation"
+  },
+  "Concussion": {
+    "de": "Erschütterung",
+    "fr": "Commotion"
+  },
+  "Concussive Stomp": {
+    "de": "Erschütterndes Aufstampfen",
+    "fr": "Choc traumatisant"
+  },
+  "Condemned": {
+    "de": "Verdammt",
+    "fr": "Condamnation"
+  },
+  "Conduction": {
+    "de": "Leitfähigkeit",
+    "fr": "Conduction"
+  },
+  "Consecrated Shield": {
+    "de": "Geweihter Schild",
+    "fr": "Bouclier consacré"
+  },
+  "Consuming Shadows": {
+    "de": "Verschlingende Schatten",
+    "fr": "Ombres brûlantes"
+  },
+  "Convulsions": {
+    "de": "Erschütterungen",
+    "fr": "Convulsions"
+  },
+  "Corpse Explosion": {
+    "de": "Leichenexplosion",
+    "fr": "Explosion macabre"
+  },
+  "Corpse Tendrils": {
+    "de": "Leichenranken",
+    "fr": "Vrilles nécrophages"
+  },
+  "Counterattack": {
+    "de": "Gegenangriff",
+    "fr": "Contre-attaque"
+  },
+  "Counterattack Enhancement": {
+    "de": "Gegenangriff: Verbesserung",
+    "fr": "Renforcement de Contre-attaque"
+  },
+  "Countering Concealment": {
+    "de": "Konternde Verschleierung",
+    "fr": "Dissimulation rebelle"
+  },
+  "Countering Dark Shroud": {
+    "de": "Konternder Dunkler Schleier",
+    "fr": "Sombre voile rebelle"
+  },
+  "Countering Poison Trap": {
+    "de": "Konternde Giftfalle",
+    "fr": "Piège de poison rebelle"
+  },
+  "Countering Smoke Grenade": {
+    "de": "Konternde Rauchgranate",
+    "fr": "Bombe fumigène rebelle"
+  },
+  "Counteroffensive ": {
+    "de": "Gegenoffensive ",
+    "fr": "Contre-offensive "
+  },
+  "Coursing Currents": {
+    "de": "Fließender Strom",
+    "fr": "Courant continu"
+  },
+  "Cover Fire": {
+    "de": "Deckungsfeuer",
+    "fr": "Tir de couverture"
+  },
+  "Covered in Ash": {
+    "de": "Aschebedeckt",
+    "fr": "Couche de cendres"
+  },
+  "Crater": {
+    "de": "Krater",
+    "fr": "Cratère"
+  },
+  "Crippling Darkness": {
+    "de": "Lähmende Dunkelheit",
+    "fr": "Ténèbres paralysantes"
+  },
+  "Crippling Flames": {
+    "de": "Lähmende Flammen",
+    "fr": "Flammes paralysantes"
+  },
+  "Crushing Earth": {
+    "de": "Zerschmetternde Erde",
+    "fr": "Terre broyeuse"
+  },
+  "Crushing Force": {
+    "de": "Zerschmetternde Kraft",
+    "fr": "Puissance écrasante"
+  },
+  "Crushing Hand": {
+    "de": "Zerschmetternde Hand",
+    "fr": "Main écrasante"
+  },
+  "Cut to the Bone": {
+    "de": "Bis auf die Knochen",
+    "fr": "Jusqu’à l’os"
+  },
+  "Cyclone Armor": {
+    "de": "Zyklonrüstung",
+    "fr": "Armure cyclonique"
+  },
+  "Dampen Layer": {
+    "de": "Abdämpfung",
+    "fr": "Couche atténuée"
+  },
+  "Dance of Knives": {
+    "de": "Tanz der Messer",
+    "fr": "Danse des poignards"
+  },
+  "Dark Shroud": {
+    "de": "Dunkler Schleier",
+    "fr": "Sombre voile"
+  },
+  "Dash": {
+    "de": "Preschen",
+    "fr": "Célérité"
+  },
+  "Deadeye": {
+    "de": "Meisterschütze",
+    "fr": "Œil-de-Lynx"
+  },
+  "Deadly Venom": {
+    "de": "Tödliches Gift",
+    "fr": "Venin mortel"
+  },
+  "Death Blow": {
+    "de": "Todesstoß",
+    "fr": "Coup de grâce"
+  },
+  "Death Trap": {
+    "de": "Todesfalle",
+    "fr": "Piège mortel"
+  },
+  "Death's Approach": {
+    "de": "Annäherung des Todes",
+    "fr": "La mort approche"
+  },
+  "Death's Defense": {
+    "de": "Widerstand des Todes",
+    "fr": "Défense de la Mort"
+  },
+  "Death's Embrace": {
+    "de": "Umarmung des Todes",
+    "fr": "Caresse de la Mort"
+  },
+  "Debilitating Roar": {
+    "de": "Schwächendes Gebrüll",
+    "fr": "Rugissement débilitant"
+  },
+  "Debilitating Toxins": {
+    "de": "Schwächende Toxine",
+    "fr": "Toxines incapacitantes"
+  },
+  "Decompose": {
+    "de": "Zersetzen",
+    "fr": "Décomposition"
+  },
+  "Decrepify": {
+    "de": "Altern",
+    "fr": "Décrépitude"
+  },
+  "Deep Freeze": {
+    "de": "Tieffrieren",
+    "fr": "Froid intense"
+  },
+  "Defensive Posture": {
+    "de": "Abwehrhaltung",
+    "fr": "Posture défensive"
+  },
+  "Defensive Stance": {
+    "de": "Verteidigungshaltung",
+    "fr": "Position défensive"
+  },
+  "Defiance": {
+    "de": "Trotz",
+    "fr": "Résistance"
+  },
+  "Destructive Chain Lightning": {
+    "de": "Zerstörerischer Kettenblitz",
+    "fr": "Chaîne d’éclairs destructrice"
+  },
+  "Destructive Charged Bolts": {
+    "de": "Zerstörerische Comboblitze",
+    "fr": "Décharge électrique destructrice"
+  },
+  "Destructive Fireball": {
+    "de": "Zerstörerischer Feuerball",
+    "fr": "Boule de feu destructrice"
+  },
+  "Destructive Frozen Orb": {
+    "de": "Zerstörerische Gefrorene Kugel",
+    "fr": "Orbe gelé destructeur"
+  },
+  "Destructive Ice Shards": {
+    "de": "Zerstörerische Eissplitter",
+    "fr": "Éclats de glace destructeurs"
+  },
+  "Destructive Incinerate": {
+    "de": "Zerstörerischer Flammentod",
+    "fr": "Incinération destructrice"
+  },
+  "Devastation": {
+    "de": "Verwüstung",
+    "fr": "Dévastation"
+  },
+  "Devouring Blaze": {
+    "de": "Verschlingende Feuersbrunst",
+    "fr": "Brasier dévorant"
+  },
+  "Digitigrade Gait": {
+    "de": "Zehengänger",
+    "fr": "Démarche de digitigrade"
+  },
+  "Diminishment": {
+    "de": "Verminderung",
+    "fr": "Diminution"
+  },
+  "Disciplined Caltrops": {
+    "de": "Disziplinierte Krähenfüße",
+    "fr": "Chausse-trappe disciplinée"
+  },
+  "Disciplined Dance of Knives": {
+    "de": "Disziplinierter Tanz der Messer",
+    "fr": "Danse des poignards disciplinée"
+  },
+  "Disciplined Dash": {
+    "de": "Diszipliniertes Preschen",
+    "fr": "Célérité disciplinée"
+  },
+  "Disciplined Shadow Step": {
+    "de": "Disziplinierter Schattenschritt",
+    "fr": "Pas de l’ombre discipliné"
+  },
+  "Dismembering": {
+    "de": "Zerstückeln",
+    "fr": "Morcellement"
+  },
+  "Dominant": {
+    "de": "Dominanz",
+    "fr": "Domination"
+  },
+  "Double Swing": {
+    "de": "Doppelschwung",
+    "fr": "Coup double"
+  },
+  "Drain Vitality": {
+    "de": "Vitalität entziehen",
+    "fr": "Drain de vitalité"
+  },
+  "Draw Fire": {
+    "de": "Feuer provozieren",
+    "fr": "Attirer l’attention"
+  },
+  "Dreadful Blood Mist": {
+    "de": "Furchterregender Blutnebel",
+    "fr": "Brume de sang épouvantable"
+  },
+  "Dreadful Bone Prison": {
+    "de": "Furchterregendes Knochengefängnis",
+    "fr": "Prison d’os épouvantable"
+  },
+  "Dreadful Bone Spirit": {
+    "de": "Furchterregender Knochengeist",
+    "fr": "Esprit d’os épouvantable"
+  },
+  "Duelist": {
+    "de": "Duellant",
+    "fr": "Duelliste"
+  },
+  "Earth Breaker": {
+    "de": "Erdbrecher",
+    "fr": "Brise-terre"
+  },
+  "Earth Spike": {
+    "de": "Erdspieß",
+    "fr": "Pointe de terre"
+  },
+  "Earthen Bulwark": {
+    "de": "Irdenes Bollwerk",
+    "fr": "Rempart de terre"
+  },
+  "Earthen Might": {
+    "de": "Irdene Macht",
+    "fr": "Puissance tectonique"
+  },
+  "Electric Shock": {
+    "de": "Elektroschock",
+    "fr": "Choc électrique"
+  },
+  "Electrocution": {
+    "de": "Stromschlag",
+    "fr": "Électrocution"
+  },
+  "Elemental Attunement": {
+    "de": "Einklang der Elemente",
+    "fr": "Harmonie élémentaire"
+  },
+  "Elemental Dominance": {
+    "de": "Herrschaft der Elemente",
+    "fr": "Domination élémentaire"
+  },
+  "Elemental Exposure": {
+    "de": "Den Elementen ausgesetzt",
+    "fr": "Sensibilité élémentaire"
+  },
+  "Elemental Synergies": {
+    "de": "Elementare Synergien",
+    "fr": "Synergies élémentaires"
+  },
+  "Ember's Gift": {
+    "de": "Geschenk der Glut",
+    "fr": "Cadeau de braises"
+  },
+  "Endless Fury": {
+    "de": "Endlose Wut",
+    "fr": "Fureur éternelle"
+  },
+  "Endless Pyre": {
+    "de": "Endloser Scheiterhaufen",
+    "fr": "Bûcher éternel"
+  },
+  "Endless Tempest": {
+    "de": "Endloser Sturm",
+    "fr": "Tempête éternelle"
+  },
+  "Endurance": {
+    "de": "Beständigkeit",
+    "fr": "Endurance"
+  },
+  "Energy Focus": {
+    "de": "Energiefokus",
+    "fr": "Catalyseur d’énergie"
+  },
+  "Enhanced Arc Lash": {
+    "de": "Verbesserte Elektropeitsche",
+    "fr": "Fouet électrique renforcé"
+  },
+  "Enhanced Armored Hide": {
+    "de": "Verbesserte Panzerhaut",
+    "fr": "Peau armurée améliorée"
+  },
+  "Enhanced Ball Lightning": {
+    "de": "Verbesserter Kugelblitz",
+    "fr": "Sphère foudroyante renforcée"
+  },
+  "Enhanced Barrage": {
+    "de": "Verbessertes Sperrfeuer",
+    "fr": "Déluge renforcé"
+  },
+  "Enhanced Bash": {
+    "de": "Verbesserter Hieb",
+    "fr": "Raclée renforcée"
+  },
+  "Enhanced Blade Shift": {
+    "de": "Verbesserte Gleitklinge",
+    "fr": "Passage des lames renforcé"
+  },
+  "Enhanced Blight": {
+    "de": "Verbesserte Pest",
+    "fr": "Chancre renforcé"
+  },
+  "Enhanced Blizzard": {
+    "de": "Verbesserter Blizzard",
+    "fr": "Blizzard renforcé"
+  },
+  "Enhanced Blood Howl": {
+    "de": "Verbessertes Blutgeheul",
+    "fr": "Hurlement sanglant renforcé"
+  },
+  "Enhanced Blood Lance": {
+    "de": "Verbesserte Blutlanze",
+    "fr": "Prélèvement renforcé"
+  },
+  "Enhanced Blood Mist": {
+    "de": "Verbesserter Blutnebel",
+    "fr": "Brume de sang renforcée"
+  },
+  "Enhanced Blood Surge": {
+    "de": "Verbesserte Blutwoge",
+    "fr": "Afflux sanguin renforcé"
+  },
+  "Enhanced Bone Prison": {
+    "de": "Verbessertes Knochengefängnis",
+    "fr": "Prison d’os renforcée"
+  },
+  "Enhanced Bone Spear": {
+    "de": "Verbesserter Knochenspeer",
+    "fr": "Lance d’os renforcée"
+  },
+  "Enhanced Bone Spirit": {
+    "de": "Verbesserter Knochengeist",
+    "fr": "Esprit d’os renforcé"
+  },
+  "Enhanced Bone Splinters": {
+    "de": "Verbesserte Knochensplitter",
+    "fr": "Éclats d’os renforcés"
+  },
+  "Enhanced Boulder": {
+    "de": "Verbesserter Felsbrocken",
+    "fr": "Rocher renforcé"
+  },
+  "Enhanced Caltrops": {
+    "de": "Verbesserte Krähenfüße",
+    "fr": "Chausse-trappe renforcée"
+  },
+  "Enhanced Chain Lightning": {
+    "de": "Verbesserter Kettenblitz",
+    "fr": "Chaîne d’éclairs renforcée"
+  },
+  "Enhanced Challenging Shout": {
+    "de": "Verbesserter Herausforderungsruf",
+    "fr": "Cri provocateur renforcé"
+  },
+  "Enhanced Charge": {
+    "de": "Verbesserter Ansturm",
+    "fr": "Charge renforcée"
+  },
+  "Enhanced Charged Bolts": {
+    "de": "Verbesserte Comboblitze",
+    "fr": "Décharge électrique renforcée"
+  },
+  "Enhanced Claw": {
+    "de": "Verbesserte Klaue",
+    "fr": "Griffe renforcée"
+  },
+  "Enhanced Cold Imbuement": {
+    "de": "Verbesserte Kälteinfusion",
+    "fr": "Imprégnation de givre renforcée"
+  },
+  "Enhanced Concealment": {
+    "de": "Verbesserte Verschleierung",
+    "fr": "Dissimulation renforcée"
+  },
+  "Enhanced Concussive Stomp": {
+    "de": "Verbessertes Erschütterndes Aufstampfen",
+    "fr": "Choc traumatisant renforcé"
+  },
+  "Enhanced Corpse Explosion": {
+    "de": "Verbesserte Leichenexplosion",
+    "fr": "Explosion macabre renforcée"
+  },
+  "Enhanced Corpse Tendrils": {
+    "de": "Verbesserte Leichenranken",
+    "fr": "Vrilles nécrophages renforcées"
+  },
+  "Enhanced Crushing Hand": {
+    "de": "Verbesserte Zerschmetternde Hand",
+    "fr": "Main écrasante renforcée"
+  },
+  "Enhanced Cyclone Armor": {
+    "de": "Verbesserte Zyklonrüstung",
+    "fr": "Armure cyclonique renforcée"
+  },
+  "Enhanced Dance of Knives": {
+    "de": "Verbesserter Tanz der Messer",
+    "fr": "Danse des poignards renforcée"
+  },
+  "Enhanced Dark Shroud": {
+    "de": "Verbesserter Dunkler Schleier",
+    "fr": "Sombre voile renforcé"
+  },
+  "Enhanced Dash": {
+    "de": "Verbessertes Preschen",
+    "fr": "Célérité renforcée"
+  },
+  "Enhanced Death Blow": {
+    "de": "Verbesserter Todesstoß",
+    "fr": "Coup de grâce renforcé"
+  },
+  "Enhanced Debilitating Roar": {
+    "de": "Verbessertes Schwächendes Gebrüll",
+    "fr": "Rugissement débilitant renforcé"
+  },
+  "Enhanced Decompose": {
+    "de": "Verbessertes Zersetzen",
+    "fr": "Décomposition renforcée"
+  },
+  "Enhanced Decrepify": {
+    "de": "Verbessertes Altern",
+    "fr": "Décrépitude renforcée"
+  },
+  "Enhanced Double Swing": {
+    "de": "Verbesserter Doppelschwung",
+    "fr": "Coup double renforcé"
+  },
+  "Enhanced Earth Spike": {
+    "de": "Verbesserter Erdspieß",
+    "fr": "Pointe de terre renforcée"
+  },
+  "Enhanced Earthen Bulwark": {
+    "de": "Verbessertes Irdenes Bollwerk",
+    "fr": "Rempart de terre renforcé"
+  },
+  "Enhanced Familiar": {
+    "de": "Verbesserter Vertrauter",
+    "fr": "Familier renforcé"
+  },
+  "Enhanced Fire Bolt": {
+    "de": "Verbesserter Feuerblitz",
+    "fr": "Éclair de feu renforcé"
+  },
+  "Enhanced Fireball": {
+    "de": "Verbesserter Feuerball",
+    "fr": "Boule de feu renforcée"
+  },
+  "Enhanced Firewall": {
+    "de": "Verbesserte Feuerwand",
+    "fr": "Mur de feu renforcé"
+  },
+  "Enhanced Flame Shield": {
+    "de": "Verbesserter Flammenschild",
+    "fr": "Bouclier de feu renforcé"
+  },
+  "Enhanced Flay": {
+    "de": "Verbessertes Schinden",
+    "fr": "Écorchement renforcé"
+  },
+  "Enhanced Flurry": {
+    "de": "Verbesserter Klingensturm",
+    "fr": "Rafale renforcée"
+  },
+  "Enhanced Forceful Arrow": {
+    "de": "Verbesserter Kraftvoller Pfeil",
+    "fr": "Flèche puissante renforcée"
+  },
+  "Enhanced Frenzy": {
+    "de": "Verbesserte Raserei",
+    "fr": "Frénésie renforcée"
+  },
+  "Enhanced Frost Bolt": {
+    "de": "Verbesserter Frostblitz",
+    "fr": "Éclair de givre renforcé"
+  },
+  "Enhanced Frost Nova": {
+    "de": "Verbesserte Frostnova",
+    "fr": "Nova de givre renforcée"
+  },
+  "Enhanced Frozen Orb": {
+    "de": "Verbesserte Gefrorene Kugel",
+    "fr": "Orbe gelé renforcé"
+  },
+  "Enhanced Ground Stomp": {
+    "de": "Verbessertes Aufstampfen",
+    "fr": "Choc terrestre renforcé"
+  },
+  "Enhanced Hammer of the Ancients": {
+    "de": "Verbesserter Hammer der Urahnen",
+    "fr": "Marteau des anciens renforcé"
+  },
+  "Enhanced Heartseeker": {
+    "de": "Verbesserter Herzsucher",
+    "fr": "Crève-cœur renforcé"
+  },
+  "Enhanced Hemorrhage": {
+    "de": "Verbesserter Blutsturz",
+    "fr": "Saignée renforcée"
+  },
+  "Enhanced Hurricane": {
+    "de": "Verbesserter Hurrikan",
+    "fr": "Ouragan renforcé"
+  },
+  "Enhanced Hydra": {
+    "de": "Verbesserte Hydra",
+    "fr": "Hydre renforcée"
+  },
+  "Enhanced Ice Armor": {
+    "de": "Verbesserte Eisrüstung",
+    "fr": "Armure de glace renforcée"
+  },
+  "Enhanced Ice Blades": {
+    "de": "Verbesserte Eisklingen",
+    "fr": "Lames de glace renforcées"
+  },
+  "Enhanced Ice Shards": {
+    "de": "Verbesserte Eissplitter",
+    "fr": "Éclats de glace renforcés"
+  },
+  "Enhanced Incinerate": {
+    "de": "Verbesserter Flammentod",
+    "fr": "Incinération renforcée"
+  },
+  "Enhanced Invigorating Strike": {
+    "de": "Verbesserter Belebender Schlag",
+    "fr": "Frappe revigorante renforcée"
+  },
+  "Enhanced Iron Maiden": {
+    "de": "Verbesserte Eiserne Jungfrau",
+    "fr": "Vierge de fer renforcée"
+  },
+  "Enhanced Iron Skin": {
+    "de": "Verbesserte Eisenhaut",
+    "fr": "Galvanisation renforcée"
+  },
+  "Enhanced Kick": {
+    "de": "Verbesserter Tritt",
+    "fr": "Coup de pied renforcé"
+  },
+  "Enhanced Landslide": {
+    "de": "Verbesserter Erdrutsch",
+    "fr": "Éboulement renforcé"
+  },
+  "Enhanced Leap": {
+    "de": "Verbesserter Sprung",
+    "fr": "Bond renforcé"
+  },
+  "Enhanced Lightning Spear": {
+    "de": "Verbesserter Blitzspeer",
+    "fr": "Lance de foudre renforcée"
+  },
+  "Enhanced Lunging Strike": {
+    "de": "Verbesserter Sprungschlag",
+    "fr": "Fente renforcée"
+  },
+  "Enhanced Maul": {
+    "de": "Verbessertes Anfallen",
+    "fr": "Mutilation renforcée"
+  },
+  "Enhanced Meteor": {
+    "de": "Verbesserter Meteor",
+    "fr": "Météore renforcé"
+  },
+  "Enhanced Mighty Throw": {
+    "de": "Verbesserter Mächtiger Wurf",
+    "fr": "Jet puissant renforcé"
+  },
+  "Enhanced Payback": {
+    "de": "Verbessertes Heimzahlen",
+    "fr": "Revanche améliorée"
+  },
+  "Enhanced Penetrating Shot": {
+    "de": "Verbesserter Durchschlagender Schuss",
+    "fr": "Tir pénétrant renforcé"
+  },
+  "Enhanced Poison Creeper": {
+    "de": "Verbesserte Giftranke",
+    "fr": "Lierre empoisonné renforcé"
+  },
+  "Enhanced Poison Imbuement": {
+    "de": "Verbesserte Giftinfusion",
+    "fr": "Imprégnation de poison renforcée"
+  },
+  "Enhanced Poison Trap": {
+    "de": "Verbesserte Giftfalle",
+    "fr": "Piège de poison renforcé"
+  },
+  "Enhanced Pulverize": {
+    "de": "Verbessertes Pulverisieren",
+    "fr": "Pulvérisation renforcée"
+  },
+  "Enhanced Puncture": {
+    "de": "Verbesserter Einstich",
+    "fr": "Perforation renforcée"
+  },
+  "Enhanced Quill Volley": {
+    "de": "Verbesserte Stachelsalve",
+    "fr": "Volée de plumes améliorée"
+  },
+  "Enhanced Rabies": {
+    "de": "Verbesserte Tollwut",
+    "fr": "Morsure rabique renforcée"
+  },
+  "Enhanced Rake": {
+    "de": "Verbesserte Harke",
+    "fr": "Lacération renforcée"
+  },
+  "Enhanced Rallying Cry": {
+    "de": "Verbesserter Schlachtruf",
+    "fr": "Cri de ralliement renforcé"
+  },
+  "Enhanced Rapid Fire": {
+    "de": "Verbessertes Schnellfeuer",
+    "fr": "Tir rapide renforcé"
+  },
+  "Enhanced Ravager": {
+    "de": "Verbesserter Verwüster",
+    "fr": "Ravage amélioré"
+  },
+  "Enhanced Ravens": {
+    "de": "Verbesserte Raben",
+    "fr": "Corbeaux renforcés"
+  },
+  "Enhanced Razor Wings": {
+    "de": "Verbesserte Schneidschwingen",
+    "fr": "Ailes acérées améliorées"
+  },
+  "Enhanced Reap": {
+    "de": "Verbesserte Blutige Ernte",
+    "fr": "Fauchage renforcé"
+  },
+  "Enhanced Rend": {
+    "de": "Verbessertes Zerfleischen",
+    "fr": "Déchirure renforcée"
+  },
+  "Enhanced Rock Splitter": {
+    "de": "Verbesserter Felsspalter",
+    "fr": "Bris de roche amélioré"
+  },
+  "Enhanced Rupture": {
+    "de": "Verbesserter Blutspieß",
+    "fr": "Rupture renforcée"
+  },
+  "Enhanced Rushing Claw": {
+    "de": "Verbesserte Rasende Klaue",
+    "fr": "Griffe véloce améliorée"
+  },
+  "Enhanced Scourge": {
+    "de": "Verbesserte Geißel",
+    "fr": "Fléau amélioré"
+  },
+  "Enhanced Sever": {
+    "de": "Verbesserter Schnitter",
+    "fr": "Section renforcée"
+  },
+  "Enhanced Shadow Imbuement": {
+    "de": "Verbesserte Schatteninfusion",
+    "fr": "Imprégnation d’ombre renforcée"
+  },
+  "Enhanced Shadow Step": {
+    "de": "Verbesserter Schattenschritt",
+    "fr": "Pas de l’ombre renforcé"
+  },
+  "Enhanced Shred": {
+    "de": "Verbessertes Zerfetzen",
+    "fr": "Déchiquetage renforcé"
+  },
+  "Enhanced Smoke Grenade": {
+    "de": "Verbesserte Rauchgranate",
+    "fr": "Bombe fumigène renforcée"
+  },
+  "Enhanced Soar": {
+    "de": "Verbessertes Segeln",
+    "fr": "Élévation améliorée"
+  },
+  "Enhanced Spark": {
+    "de": "Verbesserter Funke",
+    "fr": "Étincelle renforcée"
+  },
+  "Enhanced Steel Grasp": {
+    "de": "Verbesserter Stahlgriff",
+    "fr": "Poigne de fer renforcée"
+  },
+  "Enhanced Stinger": {
+    "de": "Verbesserter Stachel",
+    "fr": "Piqueur amélioré"
+  },
+  "Enhanced Stone Burst": {
+    "de": "Verbesserte Steinsalve",
+    "fr": "Explosion de pierres renforcée"
+  },
+  "Enhanced Storm Strike": {
+    "de": "Verbesserter Sturmschlag",
+    "fr": "Coup de tonnerre renforcé"
+  },
+  "Enhanced Teleport": {
+    "de": "Verbesserte Teleportation",
+    "fr": "Téléportation renforcée"
+  },
+  "Enhanced Thrash": {
+    "de": "Verbessertes Dreschen",
+    "fr": "Brutale sauvagerie renforcée"
+  },
+  "Enhanced Thunderspike": {
+    "de": "Verbesserter Donnerstachel",
+    "fr": "Pointe de foudre renforcée"
+  },
+  "Enhanced Tornado": {
+    "de": "Verbesserter Tornado",
+    "fr": "Tornade renforcée"
+  },
+  "Enhanced Touch of Death": {
+    "de": "Verbesserte Berührung des Todes",
+    "fr": "Toucher mortel amélioré"
+  },
+  "Enhanced Toxic Skin": {
+    "de": "Verbesserte Gifthaut",
+    "fr": "Derme toxique amélioré"
+  },
+  "Enhanced Trample": {
+    "de": "Verbessertes Niedertrampeln",
+    "fr": "Piétinement renforcé"
+  },
+  "Enhanced Twisting Blades": {
+    "de": "Verbesserte Schraubklingen",
+    "fr": "Lames sournoises renforcées"
+  },
+  "Enhanced Upheaval": {
+    "de": "Verbessertes Aufwühlen",
+    "fr": "Soulèvement renforcé"
+  },
+  "Enhanced Vortex": {
+    "de": "Verbesserter Vortex",
+    "fr": "Vortex amélioré"
+  },
+  "Enhanced War Cry": {
+    "de": "Verbesserter Kriegsschrei",
+    "fr": "Cri de guerre renforcé"
+  },
+  "Enhanced Whirlwind": {
+    "de": "Verbesserter Wirbelwind",
+    "fr": "Tourbillon renforcé"
+  },
+  "Enhanced Wind Shear": {
+    "de": "Verbesserte Windschere",
+    "fr": "Vent cisaillant renforcé"
+  },
+  "Enhanced Withering Fist": {
+    "de": "Verbesserte Verkümmernde Faust",
+    "fr": "Poing flétrissant amélioré"
+  },
+  "Enhanced Wolf Pack": {
+    "de": "Verbessertes Wolfsrudel",
+    "fr": "Meute de loups renforcés"
+  },
+  "Enlightenment": {
+    "de": "Erleuchtung",
+    "fr": "Illumination"
+  },
+  "Envenom": {
+    "de": "Vergiften",
+    "fr": "Envenimation"
+  },
+  "Eradication": {
+    "de": "Ausrottung",
+    "fr": "Éradication"
+  },
+  "Esu's Ferocity": {
+    "de": "Esus Wildheit",
+    "fr": "Férocité d’Esu"
+  },
+  "Evasive": {
+    "de": "Ausweichend",
+    "fr": "Fugace"
+  },
+  "Evocation": {
+    "de": "Hervorrufung",
+    "fr": "Évocation"
+  },
+  "Evulsion": {
+    "de": "Ausreißen",
+    "fr": "Évulsion"
+  },
+  "Exalted Devourer": {
+    "de": "Erhabener Verschlinger",
+    "fr": "Dévoreur exalté"
+  },
+  "Exalted Hunter": {
+    "de": "Erhabenes Raubtier",
+    "fr": "Chasseur exalté"
+  },
+  "Exalted Protector": {
+    "de": "Erhabener Beschützer",
+    "fr": "Protection exaltée"
+  },
+  "Exalted Seeker": {
+    "de": "Erhabener Sucher",
+    "fr": "Traqueur exalté"
+  },
+  "Exhaustion": {
+    "de": "Erschöpfung",
+    "fr": "Épuisement"
+  },
+  "Exploit": {
+    "de": "Ausbeuten",
+    "fr": "Exploitation"
+  },
+  "Explosive Charge": {
+    "de": "Sprengladung",
+    "fr": "Charge explosive"
+  },
+  "Expose Vulnerability": {
+    "de": "Verwundbarkeit aufdecken",
+    "fr": "Perce-vulnérabilité"
+  },
+  "Exposure": {
+    "de": "Belastung",
+    "fr": "Exposition"
+  },
+  "Familiar": {
+    "de": "Vertrauter",
+    "fr": "Familier"
+  },
+  "Feral Aptitude ": {
+    "de": "Wilde Eignung ",
+    "fr": "Aptitude sauvage "
+  },
+  "Ferocious Poison Creeper": {
+    "de": "Grausame Giftranke",
+    "fr": "Lierre empoisonné farouche"
+  },
+  "Ferocious Ravens": {
+    "de": "Grausame Raben",
+    "fr": "Corbeaux farouches"
+  },
+  "Ferocious Wolf Pack": {
+    "de": "Grausames Wolfsrudel",
+    "fr": "Meute de loups farouches"
+  },
+  "Field of Languish": {
+    "de": "Feld des Siechens",
+    "fr": "Champ de langueur"
+  },
+  "Fierce Claw": {
+    "de": "Grimmige Klaue",
+    "fr": "Griffe féroce"
+  },
+  "Fierce Earth Spike": {
+    "de": "Grimmiger Erdspieß",
+    "fr": "Pointe de terre féroce"
+  },
+  "Fierce Maul": {
+    "de": "Grimmiges Anfallen",
+    "fr": "Mutilation féroce"
+  },
+  "Fierce Storm Strike": {
+    "de": "Grimmiger Sturmschlag",
+    "fr": "Coup de tonnerre féroce"
+  },
+  "Fierce Wind Shear": {
+    "de": "Grimmige Windschere",
+    "fr": "Vent cisaillant féroce"
+  },
+  "Fiery Surge": {
+    "de": "Feurige Woge",
+    "fr": "Déferlement ardent"
+  },
+  "Fighter's Death Blow": {
+    "de": "Todesstoß des Kämpfers",
+    "fr": "Coup de grâce de duelliste"
+  },
+  "Fighter's Mighty Throw": {
+    "de": "Mächtiger Wurf des Kämpfers",
+    "fr": "Jet puissant de combat"
+  },
+  "Fighter's Rupture": {
+    "de": "Blutspieß des Kämpfers",
+    "fr": "Rupture de duelliste"
+  },
+  "Fighter's Steel Grasp": {
+    "de": "Stahlgriff des Kämpfers",
+    "fr": "Poigne de fer de duelliste"
+  },
+  "Finality": {
+    "de": "Endgültigkeit",
+    "fr": "Finalité"
+  },
+  "Fire Bolt": {
+    "de": "Feuerblitz",
+    "fr": "Éclair de feu"
+  },
+  "Fireball": {
+    "de": "Feuerball",
+    "fr": "Boule de feu"
+  },
+  "Firewall": {
+    "de": "Feuerwand",
+    "fr": "Mur de feu"
+  },
+  "Flame Shield": {
+    "de": "Flammenschild",
+    "fr": "Bouclier de feu"
+  },
+  "Flame Surge": {
+    "de": "Flammenwoge",
+    "fr": "Déferlement de flammes"
+  },
+  "Flay": {
+    "de": "Schinden",
+    "fr": "Écorchement"
+  },
+  "Flickering Arc Lash": {
+    "de": "Flackernde Elektropeitsche",
+    "fr": "Fouet électrique fulgurant"
+  },
+  "Flickering Fire Bolt": {
+    "de": "Flackernder Feuerblitz",
+    "fr": "Éclair de feu fulgurant"
+  },
+  "Flickering Frost Bolt": {
+    "de": "Flackernder Frostblitz",
+    "fr": "Éclair de givre fulgurant"
+  },
+  "Flickering Spark": {
+    "de": "Flackernder Funke",
+    "fr": "Étincelle fulgurante"
+  },
+  "Flurry": {
+    "de": "Klingensturm",
+    "fr": "Rafale"
+  },
+  "Focal Point": {
+    "de": "Brennpunkt",
+    "fr": "Point de fixation"
+  },
+  "Follow Through": {
+    "de": "Durchziehen",
+    "fr": "Entêtement"
+  },
+  "Forceful Arrow": {
+    "de": "Kraftvoller Pfeil",
+    "fr": "Flèche puissante"
+  },
+  "Frenzy": {
+    "de": "Raserei",
+    "fr": "Frénésie"
+  },
+  "Frigid Breeze": {
+    "de": "Eisige Brise",
+    "fr": "Brise glaciale"
+  },
+  "Frigid Finesse": {
+    "de": "Frostige Finesse",
+    "fr": "Finesse glaciale"
+  },
+  "Frost Bolt": {
+    "de": "Frostblitz",
+    "fr": "Éclair de givre"
+  },
+  "Frost Nova": {
+    "de": "Frostnova",
+    "fr": "Nova de givre"
+  },
+  "Frozen Orb": {
+    "de": "Gefrorene Kugel",
+    "fr": "Orbe gelé"
+  },
+  "Fueled": {
+    "de": "Angetrieben",
+    "fr": "Revigorement"
+  },
+  "Fueled by Death": {
+    "de": "Kraftbringender Tod",
+    "fr": "Vol de mort"
+  },
+  "Fundamental Blade Shift": {
+    "de": "Fundamentale Gleitklinge",
+    "fr": "Passage des lames fondamental"
+  },
+  "Fundamental Forceful Arrow": {
+    "de": "Fundamentaler Kraftvoller Pfeil",
+    "fr": "Flèche puissante fondamentale"
+  },
+  "Fundamental Heartseeker": {
+    "de": "Fundamentaler Herzsucher",
+    "fr": "Crève-cœur fondamental"
+  },
+  "Fundamental Invigorating Strike": {
+    "de": "Fundamentaler Belebender Schlag",
+    "fr": "Frappe revigorante fondamentale"
+  },
+  "Fundamental Puncture": {
+    "de": "Fundamentaler Einstich",
+    "fr": "Perforation fondamentale"
+  },
+  "Furious Double Swing": {
+    "de": "Furioser Doppelschwung",
+    "fr": "Coup double furieux"
+  },
+  "Furious Hammer of the Ancients": {
+    "de": "Furioser Hammer der Urahnen",
+    "fr": "Marteau des Anciens furieux"
+  },
+  "Furious Impulse": {
+    "de": "Wütender Impuls",
+    "fr": "Impulsion furieuse"
+  },
+  "Furious Rend": {
+    "de": "Furioses Zerfleischen",
+    "fr": "Déchirure furieuse"
+  },
+  "Furious Upheaval": {
+    "de": "Furioses Aufwühlen",
+    "fr": "Soulèvement furieux"
+  },
+  "Furious Whirlwind": {
+    "de": "Furioser Wirbelwind",
+    "fr": "Tourbillon furieux"
+  },
+  "Furnace": {
+    "de": "Schmelzofen",
+    "fr": "Fournaise"
+  },
+  "Ghastly Blood Mist": {
+    "de": "Grässlicher Blutnebel",
+    "fr": "Brume de sang funèbre"
+  },
+  "Ghastly Bone Prison": {
+    "de": "Grässliches Knochengefängnis",
+    "fr": "Prison d’os funèbre"
+  },
+  "Ghastly Bone Spirit": {
+    "de": "Grässlicher Knochengeist",
+    "fr": "Esprit d’os funèbre"
+  },
+  "Glass Cannon": {
+    "de": "Glaskanone",
+    "fr": "Dragon de papier"
+  },
+  "Glinting Arc Lash": {
+    "de": "Funkelnde Elektropeitsche",
+    "fr": "Fouet électrique étincelant"
+  },
+  "Glinting Fire Bolt": {
+    "de": "Funkelnder Feuerblitz",
+    "fr": "Éclair de feu étincelant"
+  },
+  "Glinting Frost Bolt": {
+    "de": "Funkelnder Frostblitz",
+    "fr": "Éclair de givre étincelant"
+  },
+  "Glinting Spark": {
+    "de": "Funkelnder Funke",
+    "fr": "Étincelle étincelante"
+  },
+  "Gloom": {
+    "de": "Schwermut",
+    "fr": "Obscurité"
+  },
+  "Golem": {
+    "de": "Golem",
+    "fr": "Golem"
+  },
+  "Golem Mastery": {
+    "de": "Beherrschung von Golems",
+    "fr": "Maîtrise des golems"
+  },
+  "Greater Chain Lightning": {
+    "de": "Großer Kettenblitz",
+    "fr": "Chaîne d’éclairs supérieure"
+  },
+  "Greater Charged Bolts": {
+    "de": "Große Comboblitze",
+    "fr": "Décharge électrique supérieure"
+  },
+  "Greater Fireball": {
+    "de": "Großer Feuerball",
+    "fr": "Boule de feu supérieure"
+  },
+  "Greater Frozen Orb": {
+    "de": "Große Gefrorene Kugel",
+    "fr": "Orbe gelé supérieur"
+  },
+  "Greater Ice Shards": {
+    "de": "Große Eissplitter",
+    "fr": "Éclats de glace supérieurs"
+  },
+  "Greater Incinerate": {
+    "de": "Großer Flammentod",
+    "fr": "Incinération supérieure"
+  },
+  "Grim Harvest": {
+    "de": "Grausige Ernte",
+    "fr": "Moisson sinistre"
+  },
+  "Grizzly Rage": {
+    "de": "Grizzlyzorn",
+    "fr": "Rage du grizzly"
+  },
+  "Ground Slam": {
+    "de": "Bodenschmettern",
+    "fr": "Frappe au sol"
+  },
+  "Ground Stomp": {
+    "de": "Aufstampfen",
+    "fr": "Choc terrestre"
+  },
+  "Gruesome Mending": {
+    "de": "Grausige Heilung",
+    "fr": "Convalescence macabre"
+  },
+  "Gushing Wounds": {
+    "de": "Klaffende Wunden",
+    "fr": "Plaies béantes"
+  },
+  "Guttural Yell": {
+    "de": "Kehliger Schrei",
+    "fr": "Hurlement guttural"
+  },
+  "Hammer of the Ancients": {
+    "de": "Hammer der Urahnen",
+    "fr": "Marteau des Anciens"
+  },
+  "Hamstring": {
+    "de": "Lähmung",
+    "fr": "Brise-genou"
+  },
+  "Harmonious Devourer": {
+    "de": "Harmonischer Verschlinger",
+    "fr": "Dévoreur harmonieux"
+  },
+  "Harmonious Hunter": {
+    "de": "Harmonisches Raubtier",
+    "fr": "Chasseur harmonieux"
+  },
+  "Harmonious Protector": {
+    "de": "Harmonischer Beschützer",
+    "fr": "Protection harmonieuse"
+  },
+  "Harmonious Seeker": {
+    "de": "Harmonischer Sucher",
+    "fr": "Traqueur harmonieux"
+  },
+  "Haste": {
+    "de": "Hast",
+    "fr": "Hâte"
+  },
+  "Haunt": {
+    "de": "Heimsuchung",
+    "fr": "Hantise"
+  },
+  "Heart of the Wild": {
+    "de": "Herz der Wildnis",
+    "fr": "Cœur de fauve"
+  },
+  "Heartseeker": {
+    "de": "Herzsucher",
+    "fr": "Crève-cœur"
+  },
+  "Heavy Handed": {
+    "de": "Viel hilft viel",
+    "fr": "Main lourde"
+  },
+  "Heavy Hitter": {
+    "de": "Kraftprotz",
+    "fr": "Gros bras"
+  },
+  "Heightened Senses": {
+    "de": "Geschärfte Sinne",
+    "fr": "Sens aiguisés"
+  },
+  "Hellbent Commander": {
+    "de": "Versessener Kommandant",
+    "fr": "Capitaine des troupes"
+  },
+  "Hemorrhage": {
+    "de": "Blutsturz",
+    "fr": "Saignée"
+  },
+  "Hewed Flesh": {
+    "de": "Geschundenes Fleisch",
+    "fr": "Chair dépecée"
+  },
+  "Hoarfrost": {
+    "de": "Raureif",
+    "fr": "Gelée blanche"
+  },
+  "Horrid Decrepify": {
+    "de": "Entsetzliches Altern",
+    "fr": "Décrépitude horrible"
+  },
+  "Horrid Iron Maiden": {
+    "de": "Entsetzliche Eiserne Jungfrau",
+    "fr": "Vierge de fer horrible"
+  },
+  "Humanity": {
+    "de": "Menschlichkeit",
+    "fr": "Humanité"
+  },
+  "Hurricane": {
+    "de": "Hurrikan",
+    "fr": "Ouragan"
+  },
+  "Hydra": {
+    "de": "Hydra",
+    "fr": "Hydre"
+  },
+  "Hysteria": {
+    "de": "Hysterie",
+    "fr": "Hystérie"
+  },
+  "Ice Armor": {
+    "de": "Eisrüstung",
+    "fr": "Armure de glace"
+  },
+  "Ice Blades": {
+    "de": "Eisklingen",
+    "fr": "Lames de glace"
+  },
+  "Ice Shards": {
+    "de": "Eissplitter",
+    "fr": "Éclats de glace"
+  },
+  "Icy Touch": {
+    "de": "Eisige Berührung",
+    "fr": "Toucher de glace"
+  },
+  "Icy Veil": {
+    "de": "Eisiger Schleier",
+    "fr": "Voile de glace"
+  },
+  "Imperfectly Balanced": {
+    "de": "Aus dem Gleichgewicht",
+    "fr": "Équilibre imparfait"
+  },
+  "Impetus": {
+    "de": "Anlauf",
+    "fr": "Stimulus"
+  },
+  "Imposing Presence ": {
+    "de": "Imposante Erscheinung ",
+    "fr": "Présence imposante "
+  },
+  "Improved Barrage": {
+    "de": "Geübtes Sperrfeuer",
+    "fr": "Déluge amélioré"
+  },
+  "Improved Flurry": {
+    "de": "Geübter Klingensturm",
+    "fr": "Rafale améliorée"
+  },
+  "Improved Penetrating Shot": {
+    "de": "Geübter Durchschlagender Schuss",
+    "fr": "Tir pénétrant amélioré"
+  },
+  "Improved Rapid Fire": {
+    "de": "Geübtes Schnellfeuer",
+    "fr": "Tir rapide amélioré"
+  },
+  "Improved Twisting Blades": {
+    "de": "Geübte Schraubklingen",
+    "fr": "Lames sournoises améliorées"
+  },
+  "Incendiary Bolt": {
+    "de": "Zündbolzen",
+    "fr": "Carreau incendiaire"
+  },
+  "Incinerate": {
+    "de": "Flammentod",
+    "fr": "Incinération"
+  },
+  "Inferno": {
+    "de": "Inferno",
+    "fr": "Inferno"
+  },
+  "Initiate's Bone Splinters": {
+    "de": "Knochensplitter des Initianden",
+    "fr": "Éclats d’os d’adepte"
+  },
+  "Initiate's Decompose": {
+    "de": "Zersetzung des Initianden",
+    "fr": "Décomposition d’adepte"
+  },
+  "Initiate's Hemorrhage": {
+    "de": "Blutsturz des Initianden",
+    "fr": "Saignée d’adepte"
+  },
+  "Initiate's Reap": {
+    "de": "Blutige Ernte des Initianden",
+    "fr": "Fauchage d’adepte"
+  },
+  "Initiative": {
+    "de": "Initiative",
+    "fr": "Initiative"
+  },
+  "Innate Blood Howl": {
+    "de": "Angeborenes Blutgeheul",
+    "fr": "Hurlement sanglant inné"
+  },
+  "Innate Cyclone Armor": {
+    "de": "Angeborene Zyklonrüstung",
+    "fr": "Armure cyclonique innée"
+  },
+  "Innate Debilitating Roar": {
+    "de": "Angeborenes Schwächendes Gebrüll",
+    "fr": "Rugissement débilitant inné"
+  },
+  "Innate Earthen Bulwark": {
+    "de": "Angeborenes Irdenes Bollwerk",
+    "fr": "Rempart de terre inné"
+  },
+  "Inner Flames": {
+    "de": "Innere Flammen",
+    "fr": "Flammes intérieures"
+  },
+  "Innervation": {
+    "de": "Anregung",
+    "fr": "Innervation"
+  },
+  "Inspiration": {
+    "de": "Inspiration",
+    "fr": "Inspiration"
+  },
+  "Inspiring Leader": {
+    "de": "Inspirierender Anführer",
+    "fr": "Leader charismatique"
+  },
+  "Intimidated": {
+    "de": "Eingeschüchtert",
+    "fr": "Intimidation"
+  },
+  "Intricacy": {
+    "de": "Komplexität",
+    "fr": "Complexité"
+  },
+  "Invasive Payback": {
+    "de": "Invasives Heimzahlen",
+    "fr": "Revanche invasive"
+  },
+  "Invasive Razor Wings": {
+    "de": "Invasive Schneidschwingen",
+    "fr": "Ailes acérées invasives"
+  },
+  "Invasive Rushing Claw": {
+    "de": "Invasive Rasende Klaue",
+    "fr": "Griffe véloce invasive"
+  },
+  "Invasive Touch of Death": {
+    "de": "Invasive Berührung des Todes",
+    "fr": "Toucher mortel invasif"
+  },
+  "Invigorating Conduit": {
+    "de": "Belebende Verbindung",
+    "fr": "Conduction revigorante"
+  },
+  "Invigorating Fury": {
+    "de": "Belebende Wut",
+    "fr": "Fureur revigorante"
+  },
+  "Invigorating Strike": {
+    "de": "Belebender Schlag",
+    "fr": "Frappe revigorante"
+  },
+  "Invoked Familiar": {
+    "de": "Anrufung eines Vertrauten",
+    "fr": "Familier invoqué"
+  },
+  "Invoked Hydra": {
+    "de": "Herbeigerufene Hydra",
+    "fr": "Hydre invoquée"
+  },
+  "Invoked Ice Blades": {
+    "de": "Herbeigerufene Eisklingen",
+    "fr": "Lames de glace invoquées"
+  },
+  "Invoked Lightning Spear": {
+    "de": "Herbeigerufener Blitzspeer",
+    "fr": "Lance de foudre invoquée"
+  },
+  "Iron Fur": {
+    "de": "Eisenpelz",
+    "fr": "Poil de fer"
+  },
+  "Iron Grip": {
+    "de": "Eisengriff",
+    "fr": "Poigne de fer"
+  },
+  "Iron Maelstrom": {
+    "de": "Eiserner Mahlstrom",
+    "fr": "Maelström d’acier"
+  },
+  "Iron Maiden": {
+    "de": "Eiserne Jungfrau",
+    "fr": "Vierge de fer"
+  },
+  "Iron Skin": {
+    "de": "Eisenhaut",
+    "fr": "Galvanisation"
+  },
+  "Iron Wolf's Arrival": {
+    "de": "Ankunft des Eisenwolfs",
+    "fr": "Arrivée des Loups de fer"
+  },
+  "Iron Wolf's Call": {
+    "de": "Ruf des Eisenwolfs",
+    "fr": "Appel des Loups de fer"
+  },
+  "Iron Wolf's Virtue": {
+    "de": "Tugend des Eisenwolfs",
+    "fr": "Vertu des Loups de fer"
+  },
+  "Iron Wolf's Ward": {
+    "de": "Schutz des Eisenwolfs",
+    "fr": "Protection des Loups de fer"
+  },
+  "Irrepressible ": {
+    "de": "Ununterdrückbar ",
+    "fr": "Irrépressible "
+  },
+  "Kalan's Edict": {
+    "de": "Kalans Edikt",
+    "fr": "Décret de Kalan"
+  },
+  "Kick": {
+    "de": "Tritt",
+    "fr": "Coup de pied"
+  },
+  "Lacerate": {
+    "de": "Zerreißen",
+    "fr": "Lacération"
+  },
+  "Landslide": {
+    "de": "Erdrutsch",
+    "fr": "Éboulement"
+  },
+  "Leap": {
+    "de": "Sprung",
+    "fr": "Bond"
+  },
+  "Lightning Spear": {
+    "de": "Blitzspeer",
+    "fr": "Lance de foudre"
+  },
+  "Lightning Spears": {
+    "de": "Blitzspeer",
+    "fr": "Lance de foudre"
+  },
+  "Lightning Storm": {
+    "de": "Gewittersturm",
+    "fr": "Orage"
+  },
+  "Loaded Munitions": {
+    "de": "Geladen und entsichert",
+    "fr": "Munitions chargées"
+  },
+  "Lunging Strike": {
+    "de": "Sprungschlag",
+    "fr": "Fente"
+  },
+  "Lupine Ferocity": {
+    "de": "Wölfische Wildheit",
+    "fr": "Férocité lupine"
+  },
+  "Mage's Ball Lightning": {
+    "de": "Kugelblitz des Magiers",
+    "fr": "Sphère foudroyante de magie"
+  },
+  "Mage's Blizzard": {
+    "de": "Blizzard des Magiers",
+    "fr": "Blizzard de magie"
+  },
+  "Mage's Firewall": {
+    "de": "Feuerwand des Magiers",
+    "fr": "Mur de feu de magie"
+  },
+  "Mage's Meteor": {
+    "de": "Meteor des Magiers",
+    "fr": "Météore de magie"
+  },
+  "Malice": {
+    "de": "Bösartigkeit",
+    "fr": "Malveillance"
+  },
+  "Mana Shield": {
+    "de": "Manaschild",
+    "fr": "Bouclier de mana"
+  },
+  "Martial Vigor": {
+    "de": "Kampfkraft",
+    "fr": "Vigueur martiale"
+  },
+  "Massacre": {
+    "de": "Massaker",
+    "fr": "Massacre"
+  },
+  "Mastermind": {
+    "de": "Drahtzieher",
+    "fr": "Véritable génie"
+  },
+  "Maul": {
+    "de": "Anfallen",
+    "fr": "Mutilation"
+  },
+  "Measured Ravager": {
+    "de": "Gezügelter Verwüster",
+    "fr": "Ravage modéré"
+  },
+  "Measured Soar": {
+    "de": "Gezügeltes Segeln",
+    "fr": "Élévation modérée"
+  },
+  "Measured Toxic Skin": {
+    "de": "Gezügelte Gifthaut",
+    "fr": "Derme toxique modéré"
+  },
+  "Measured Vortex": {
+    "de": "Gezügelter Vortex",
+    "fr": "Vortex modéré"
+  },
+  "Memento Mori": {
+    "de": "Memento Mori",
+    "fr": "Memento mori"
+  },
+  "Mending": {
+    "de": "Zusammensetzen",
+    "fr": "Convalescence"
+  },
+  "Mending Obscurity": {
+    "de": "Lindernde Dunkelheit",
+    "fr": "Obscurité réparatrice"
+  },
+  "Meteor": {
+    "de": "Meteor",
+    "fr": "Météore"
+  },
+  "Methodical Caltrops": {
+    "de": "Methodische Krähenfüße",
+    "fr": "Chausse-trappe méthodique"
+  },
+  "Methodical Dance of Knives": {
+    "de": "Methodischer Tanz der Messer",
+    "fr": "Danse des poignards méthodique"
+  },
+  "Methodical Dash": {
+    "de": "Methodisches Preschen",
+    "fr": "Célérité méthodique"
+  },
+  "Methodical Shadow Step": {
+    "de": "Methodischer Schattenschritt",
+    "fr": "Pas de l’ombre méthodique"
+  },
+  "Mighty Charge": {
+    "de": "Mächtiger Ansturm",
+    "fr": "Charge puissante"
+  },
+  "Mighty Kick": {
+    "de": "Mächtiger Tritt",
+    "fr": "Coup de pied puissant"
+  },
+  "Mighty Leap": {
+    "de": "Mächtiger Sprung",
+    "fr": "Bond puissant"
+  },
+  "Mighty Throw": {
+    "de": "Mächtiger Wurf",
+    "fr": "Jet puissant"
+  },
+  "Mighty War Cry": {
+    "de": "Mächtiger Kriegsschrei",
+    "fr": "Cri de guerre puissant"
+  },
+  "Mirage": {
+    "de": "Trugbild",
+    "fr": "Hallucination"
+  },
+  "Mixed Cold Imbuement": {
+    "de": "Gemischte Kälteinfusion",
+    "fr": "Imprégnation de givre mixte"
+  },
+  "Mixed Poison Imbuement": {
+    "de": "Gemischte Giftinfusion",
+    "fr": "Imprégnation de poison mixte"
+  },
+  "Mixed Shadow Imbuement": {
+    "de": "Gemischte Schatteninfusion",
+    "fr": "Imprégnation d’ombre mixte"
+  },
+  "Mocking Lure": {
+    "de": "Höhnischer Köder",
+    "fr": "Leurre railleur"
+  },
+  "Molotov": {
+    "de": "Molotow",
+    "fr": "Bouteille incendiaire"
+  },
+  "Momentum": {
+    "de": "Schwung",
+    "fr": "Élan"
+  },
+  "Mystical Flame Shield": {
+    "de": "Mystischer Flammenschild",
+    "fr": "Bouclier de feu mystique"
+  },
+  "Mystical Frost Nova": {
+    "de": "Mystische Frostnova",
+    "fr": "Nova de givre mystique"
+  },
+  "Mystical Ice Armor": {
+    "de": "Mystische Eisrüstung",
+    "fr": "Armure de glace mystique"
+  },
+  "Mystical Teleport": {
+    "de": "Mystische Teleportation",
+    "fr": "Téléportation mystique"
+  },
+  "Natural Boulder": {
+    "de": "Natürlicher Felsbrocken",
+    "fr": "Rocher naturel"
+  },
+  "Natural Disaster": {
+    "de": "Naturkatastrophe",
+    "fr": "Catastrophe naturelle"
+  },
+  "Natural Fortitude": {
+    "de": "Natürliche Stärke",
+    "fr": "Vigueur naturelle"
+  },
+  "Natural Hurricane": {
+    "de": "Natürlicher Hurrikan",
+    "fr": "Ouragan naturel"
+  },
+  "Natural Rabies": {
+    "de": "Natürliche Tollwut",
+    "fr": "Morsure rabique naturelle"
+  },
+  "Natural Trample": {
+    "de": "Natürliches Niedertrampeln",
+    "fr": "Piétinement naturel"
+  },
+  "Nature's Fury": {
+    "de": "Zorn der Natur",
+    "fr": "Fureur de la Nature"
+  },
+  "Nature's Reach": {
+    "de": "Reichweite der Natur",
+    "fr": "Allonge de la Nature"
+  },
+  "Nature's Resolve": {
+    "de": "Entschlossenheit der Natur",
+    "fr": "Volonté de la Nature"
+  },
+  "Necrotic Carapace": {
+    "de": "Nekrotischer Panzer",
+    "fr": "Carapace nécrotique"
+  },
+  "Necrotic Fortitude": {
+    "de": "Nekrotische Stärke",
+    "fr": "Vigueur nécrotique"
+  },
+  "Neurotoxin": {
+    "de": "Nervengift",
+    "fr": "Neurotoxine"
+  },
+  "No Escape": {
+    "de": "Kein Entkommen",
+    "fr": "Sans issue"
+  },
+  "No Mercy": {
+    "de": "Keine Gnade",
+    "fr": "Sans pitié"
+  },
+  "Nourishment": {
+    "de": "Nahrung",
+    "fr": "Rapacité"
+  },
+  "Noxious Resonance": {
+    "de": "Schädliche Resonanz",
+    "fr": "Résonance toxique"
+  },
+  "One With Nature": {
+    "de": "Eins mit der Natur",
+    "fr": "Communion avec la nature"
+  },
+  "Opening Fire": {
+    "de": "Feuer frei",
+    "fr": "Feu nourri"
+  },
+  "Oppressive": {
+    "de": "Unterdrückend",
+    "fr": "Oppression"
+  },
+  "Ossified Essence": {
+    "de": "Knöcherne Essenz",
+    "fr": "Essence ossifiée"
+  },
+  "Outburst": {
+    "de": "Wutausbruch",
+    "fr": "Accès de colère"
+  },
+  "Overflowing Energy": {
+    "de": "Überschüssige Energie",
+    "fr": "Énergie débordante"
+  },
+  "Paranoia": {
+    "de": "Paranoia",
+    "fr": "Paranoïa"
+  },
+  "Paranormal Blight": {
+    "de": "Paranormale Pest",
+    "fr": "Chancre paranormal"
+  },
+  "Paranormal Blood Lance": {
+    "de": "Paranormale Blutlanze",
+    "fr": "Prélèvement paranormal"
+  },
+  "Paranormal Blood Surge": {
+    "de": "Paranormale Blutwoge",
+    "fr": "Afflux sanguin paranormal"
+  },
+  "Paranormal Bone Spear": {
+    "de": "Paranormaler Knochenspeer",
+    "fr": "Lance d’os paranormale"
+  },
+  "Paranormal Sever": {
+    "de": "Paranormaler Schnitter",
+    "fr": "Section paranormale"
+  },
+  "Patient Guard": {
+    "de": "Geduldiger Schutz",
+    "fr": "Patience du gardien"
+  },
+  "Payback": {
+    "de": "Heimzahlen",
+    "fr": "Revanche"
+  },
+  "Penetrating Shot": {
+    "de": "Durchschlagender Schuss",
+    "fr": "Tir pénétrant"
+  },
+  "Perfect Storm": {
+    "de": "Perfekter Sturm",
+    "fr": "Tempête parfaite"
+  },
+  "Permafrost": {
+    "de": "Permafrost",
+    "fr": "Gel prolongé"
+  },
+  "Perseverance": {
+    "de": "Beharrlichkeit",
+    "fr": "Persévérance"
+  },
+  "Petrify": {
+    "de": "Versteinern",
+    "fr": "Pétrification"
+  },
+  "Piercing Arrows": {
+    "de": "Durchbohrende Pfeile",
+    "fr": "Flèches perçantes"
+  },
+  "Pin Cushion": {
+    "de": "Nadelkissen",
+    "fr": "Pelote d’épingles"
+  },
+  "Pit Fighter": {
+    "de": "Grubenkämpfer",
+    "fr": "Combat de fosse"
+  },
+  "Plagued Corpse Explosion": {
+    "de": "Verseuchte Leichenexplosion",
+    "fr": "Explosion macabre pestiférée"
+  },
+  "Plagued Corpse Tendrils": {
+    "de": "Verseuchte Leichenranken",
+    "fr": "Vrilles nécrophages pestiférées"
+  },
+  "Poised Payback": {
+    "de": "Souveränes Heimzahlen",
+    "fr": "Revanche équilibrée"
+  },
+  "Poised Razor Wings": {
+    "de": "Souveräne Schneidschwingen",
+    "fr": "Ailes acérées équilibrées"
+  },
+  "Poised Rushing Claw": {
+    "de": "Souveräne Rasende Klaue",
+    "fr": "Griffe véloce équilibrée"
+  },
+  "Poised Touch of Death": {
+    "de": "Souveräne Berührung des Todes",
+    "fr": "Toucher mortel équilibré"
+  },
+  "Poison Creeper": {
+    "de": "Giftranke",
+    "fr": "Lierre empoisonné"
+  },
+  "Poison Imbuement": {
+    "de": "Giftinfusion",
+    "fr": "Imprégnation de poison"
+  },
+  "Poison Trap": {
+    "de": "Giftfalle",
+    "fr": "Piège de poison"
+  },
+  "Potent": {
+    "de": "Kraftvoll",
+    "fr": "Puissance"
+  },
+  "Potent Warding": {
+    "de": "Mächtige Abwehr",
+    "fr": "Protection puissante"
+  },
+  "Power Charge": {
+    "de": "Starker Ansturm",
+    "fr": "Charge énergique"
+  },
+  "Power Kick": {
+    "de": "Starker Tritt",
+    "fr": "Coup de pied énergique"
+  },
+  "Power Leap": {
+    "de": "Starker Sprung",
+    "fr": "Bond énergique"
+  },
+  "Power War Cry": {
+    "de": "Starker Kriegsschrei",
+    "fr": "Cri de guerre énergique"
+  },
+  "Precision": {
+    "de": "Präzision",
+    "fr": "Précision"
+  },
+  "Precision Decay": {
+    "de": "Präzisionsverfall",
+    "fr": "Pestilence précise"
+  },
+  "Precision Imbuement": {
+    "de": "Präzisionsinfusion",
+    "fr": "Enduisage précis"
+  },
+  "Precision Magic": {
+    "de": "Präzisionsmagie",
+    "fr": "Magie de précision"
+  },
+  "Predatory Instinct": {
+    "de": "Raubtierinstinkt",
+    "fr": "Instinct du prédateur"
+  },
+  "Preserving Blood Howl": {
+    "de": "Bewahrendes Blutgeheul",
+    "fr": "Hurlement sanglant préservateur"
+  },
+  "Preserving Cyclone Armor": {
+    "de": "Bewahrende Zyklonrüstung",
+    "fr": "Armure cyclonique préservatrice"
+  },
+  "Preserving Debilitating Roar": {
+    "de": "Bewahrendes Schwächendes Gebrüll",
+    "fr": "Rugissement débilitant préservateur"
+  },
+  "Preserving Earthen Bulwark": {
+    "de": "Bewahrendes Irdenes Bollwerk",
+    "fr": "Rempart de terre préservateur"
+  },
+  "Pressure Point": {
+    "de": "Druckpunkt",
+    "fr": "Point de pression"
+  },
+  "Primal Landslide": {
+    "de": "Urtümlicher Erdrutsch",
+    "fr": "Éboulement primordial"
+  },
+  "Primal Lightning Storm": {
+    "de": "Urtümlicher Gewittersturm",
+    "fr": "Orage primordial"
+  },
+  "Primal Pulverize": {
+    "de": "Urtümliches Pulverisieren",
+    "fr": "Pulvérisation primordiale"
+  },
+  "Primal Shred": {
+    "de": "Urtümliches Zerfetzen",
+    "fr": "Déchiquetage primordial"
+  },
+  "Primal Stone Burst": {
+    "de": "Ursteinsalve",
+    "fr": "Explosion de pierres primale"
+  },
+  "Primal Tornado": {
+    "de": "Urtümlicher Tornado",
+    "fr": "Tornade primordiale"
+  },
+  "Primary Blade Shift": {
+    "de": "Primäre Gleitklinge",
+    "fr": "Passage des lames primaire"
+  },
+  "Primary Forceful Arrow": {
+    "de": "Primärer Kraftvoller Pfeil",
+    "fr": "Flèche puissante primaire"
+  },
+  "Primary Heartseeker": {
+    "de": "Primärer Herzsucher",
+    "fr": "Crève-cœur primaire"
+  },
+  "Primary Invigorating Strike": {
+    "de": "Primärer Belebender Schlag",
+    "fr": "Frappe revigorante primaire"
+  },
+  "Primary Puncture": {
+    "de": "Primärer Einstich",
+    "fr": "Perforation primaire"
+  },
+  "Prime Army of the Dead": {
+    "de": "Oberste Armee der Toten",
+    "fr": "Armée de morts primordiale"
+  },
+  "Prime Blood Wave": {
+    "de": "Oberste Blutwelle",
+    "fr": "Vague de sang primordiale"
+  },
+  "Prime Bone Storm": {
+    "de": "Oberster Knochensturm",
+    "fr": "Tempête d’os primordiale"
+  },
+  "Prime Call of the Ancients": {
+    "de": "Oberste Anrufung der Urahnen",
+    "fr": "Appel des Anciens primordial"
+  },
+  "Prime Cataclysm": {
+    "de": "Oberster Kataklysmus",
+    "fr": "Cataclysme primordial"
+  },
+  "Prime Death Trap": {
+    "de": "Oberste Todesfalle",
+    "fr": "Piège mortel primordial"
+  },
+  "Prime Deep Freeze": {
+    "de": "Oberstes Tieffrieren",
+    "fr": "Froid intense primordial"
+  },
+  "Prime Grizzly Rage": {
+    "de": "Oberster Grizzlyzorn",
+    "fr": "Rage du grizzly primordiale"
+  },
+  "Prime Inferno": {
+    "de": "Oberstes Inferno",
+    "fr": "Inferno primordial"
+  },
+  "Prime Iron Maelstrom": {
+    "de": "Oberster Eiserner Mahlstrom",
+    "fr": "Maelström d’acier primordial"
+  },
+  "Prime Lacerate": {
+    "de": "Oberstes Zerreißen",
+    "fr": "Lacération primordiale"
+  },
+  "Prime Petrify": {
+    "de": "Oberstes Versteinern",
+    "fr": "Pétrification primordiale"
+  },
+  "Prime Rain of Arrows": {
+    "de": "Oberster Pfeilhagel",
+    "fr": "Pluie de flèches primordiale"
+  },
+  "Prime Shadow Clone": {
+    "de": "Primärer Schattenklon",
+    "fr": "Clone d’ombre primordial"
+  },
+  "Prime Soulrift": {
+    "de": "Oberster Seelenriss",
+    "fr": "Faille des âmes primordiale"
+  },
+  "Prime Unstable Currents": {
+    "de": "Primäre Instabile Strömung",
+    "fr": "Courant instable primordial"
+  },
+  "Prime Wrath of the Berserker": {
+    "de": "Oberster Zorn des Berserkers",
+    "fr": "Courroux du berserker primordial"
+  },
+  "Primordial Binding": {
+    "de": "Urzeitbindung",
+    "fr": "Lien primordial"
+  },
+  "Prodigy's Tempo": {
+    "de": "Tempo des Wunderkinds",
+    "fr": "Tempo virtuose"
+  },
+  "Prolific Fury": {
+    "de": "Fruchtender Furor",
+    "fr": "Fureur prolifique"
+  },
+  "Protection": {
+    "de": "Schutz",
+    "fr": "Protection"
+  },
+  "Provocation": {
+    "de": "Provokation",
+    "fr": "Provocation"
+  },
+  "Provoke": {
+    "de": "Provozieren",
+    "fr": "Raillerie"
+  },
+  "Pulverize": {
+    "de": "Pulverisieren",
+    "fr": "Pulvérisation"
+  },
+  "Puncture": {
+    "de": "Einstich",
+    "fr": "Perforation"
+  },
+  "Quick Impulses": {
+    "de": "Reaktionsschnell",
+    "fr": "Impulsions rapides"
+  },
+  "Quickshift": {
+    "de": "Schnellwandlung",
+    "fr": "Métamorphose rapide"
+  },
+  "Quill Volley": {
+    "de": "Stachelsalve",
+    "fr": "Volée de plumes"
+  },
+  "Rabies": {
+    "de": "Tollwut",
+    "fr": "Morsure rabique"
+  },
+  "Raging Havoc": {
+    "de": "Tobende Verwüstung",
+    "fr": "Dévastation totale"
+  },
+  "Raging Landslide": {
+    "de": "Tobender Erdrutsch",
+    "fr": "Éboulement enragé"
+  },
+  "Raging Lightning Storm": {
+    "de": "Tobender Gewittersturm",
+    "fr": "Orage enragé"
+  },
+  "Raging Pulverize": {
+    "de": "Tobendes Pulverisieren",
+    "fr": "Pulvérisation enragée"
+  },
+  "Raging Shred": {
+    "de": "Tobendes Zerfetzen",
+    "fr": "Déchiquetage enragé"
+  },
+  "Raging Stone Burst": {
+    "de": "Tobende Steinsalve",
+    "fr": "Explosion de pierres tonitruante"
+  },
+  "Raging Tornado": {
+    "de": "Tobender Tornado",
+    "fr": "Tornade enragée"
+  },
+  "Raging Violence": {
+    "de": "Tobende Gewalt",
+    "fr": "Déchaînement de violence"
+  },
+  "Raheir's Aegis": {
+    "de": "Raheirs Aegis",
+    "fr": "Égide de Raheir"
+  },
+  "Raheir's Guard": {
+    "de": "Raheirs Schutz",
+    "fr": "Garde de Raheir"
+  },
+  "Raid Leader": {
+    "de": "Raubzugkommando",
+    "fr": "Commandement d’assaut"
+  },
+  "Rain of Arrows": {
+    "de": "Pfeilhagel",
+    "fr": "Pluie de flèches"
+  },
+  "Raise Skeleton": {
+    "de": "Skelett erwecken",
+    "fr": "Réanimation de squelette"
+  },
+  "Rake": {
+    "de": "Harke",
+    "fr": "Lacération"
+  },
+  "Rallying Cry": {
+    "de": "Schlachtruf",
+    "fr": "Cri de ralliement"
+  },
+  "Rampage": {
+    "de": "Tobsucht",
+    "fr": "Boucherie"
+  },
+  "Rampant Crushing Hand": {
+    "de": "Zügellose Zerschmetternde Hand",
+    "fr": "Main écrasante effrénée"
+  },
+  "Rampant Quill Volley": {
+    "de": "Zügellose Stachelsalve",
+    "fr": "Volée de plumes effrénée"
+  },
+  "Rampant Rake": {
+    "de": "Zügellose Harke",
+    "fr": "Lacération effrénée"
+  },
+  "Rampant Stinger": {
+    "de": "Zügelloser Stachel",
+    "fr": "Piqûre rampante"
+  },
+  "Rapid Fire": {
+    "de": "Schnellfeuer",
+    "fr": "Tir rapide"
+  },
+  "Rapid Gambits": {
+    "de": "Schnelle Schachzüge",
+    "fr": "Manœuvres expéditives"
+  },
+  "Rapid Ossification": {
+    "de": "Rapide Verknöcherung",
+    "fr": "Ossification rapide"
+  },
+  "Rathma's Vigor": {
+    "de": "Rathmas Kraft",
+    "fr": "Vigueur de Rathma"
+  },
+  "Ravager": {
+    "de": "Verwüster",
+    "fr": "Ravage"
+  },
+  "Ravenous": {
+    "de": "Gefräßig",
+    "fr": "Voracité"
+  },
+  "Ravens": {
+    "de": "Raben",
+    "fr": "Corbeaux"
+  },
+  "Razor Wings": {
+    "de": "Schneidschwingen",
+    "fr": "Ailes acérées"
+  },
+  "Reactive Defense": {
+    "de": "Reaktive Verteidigung",
+    "fr": "Défense réactive"
+  },
+  "Ready At Hand": {
+    "de": "Zur Hand",
+    "fr": "À portée de main"
+  },
+  "Reap": {
+    "de": "Blutige Ernte",
+    "fr": "Fauchage"
+  },
+  "Reaper's Pursuit": {
+    "de": "Verfolgung des Schnitters",
+    "fr": "Poursuite de la Faucheuse"
+  },
+  "Recklessness": {
+    "de": "Leichtsinn",
+    "fr": "Imprudence"
+  },
+  "Reinforced Armored Hide": {
+    "de": "Verstärkte Panzerhaut",
+    "fr": "Peau armurée renforcée"
+  },
+  "Reinforced Concussive Stomp": {
+    "de": "Verstärktes Erschütterndes Aufstampfen",
+    "fr": "Choc traumatisant renforcé"
+  },
+  "Reinforced Counterattack": {
+    "de": "Verstärkter Gegenangriff",
+    "fr": "Contre-attaque renforcée"
+  },
+  "Reinforced Scourge": {
+    "de": "Verstärkte Geißel",
+    "fr": "Calamité renforcée"
+  },
+  "Rend": {
+    "de": "Zerfleischen",
+    "fr": "Déchirure"
+  },
+  "Replenishing Ravager": {
+    "de": "Auffüllender Verwüster",
+    "fr": "Ravage revigorant"
+  },
+  "Replenishing Soar": {
+    "de": "Auffüllendes Segeln",
+    "fr": "Élévation revigorante"
+  },
+  "Replenishing Toxic Skin": {
+    "de": "Auffüllende Gifthaut",
+    "fr": "Derme toxique revigorant"
+  },
+  "Replenishing Vortex": {
+    "de": "Auffüllender Vortex",
+    "fr": "Vortex revigorant"
+  },
+  "Reprisal": {
+    "de": "Vergeltung",
+    "fr": "Représailles"
+  },
+  "Resilient": {
+    "de": "Abgehärtet",
+    "fr": "Résilience"
+  },
+  "Resolution": {
+    "de": "Entschluss",
+    "fr": "Résolution"
+  },
+  "Resonance": {
+    "de": "Resonanz",
+    "fr": "Résonance"
+  },
+  "Roaring Familiar": {
+    "de": "Donnernder Vertrauter",
+    "fr": "Familier rugissant"
+  },
+  "Roaring Hydra": {
+    "de": "Donnernde Hydra",
+    "fr": "Hydre rugissante"
+  },
+  "Roaring Ice Blades": {
+    "de": "Donnernde Eisklingen",
+    "fr": "Lames de glace rugissantes"
+  },
+  "Roaring Lightning Spear": {
+    "de": "Donnernder Blitzspeer",
+    "fr": "Lance de foudre rugissante"
+  },
+  "Rock Splitter": {
+    "de": "Felsspalter",
+    "fr": "Bris de roche"
+  },
+  "Rugged": {
+    "de": "Robustheit",
+    "fr": "Opiniâtreté"
+  },
+  "Rupture": {
+    "de": "Blutspieß",
+    "fr": "Rupture"
+  },
+  "Rushing Claw": {
+    "de": "Rasende Klaue",
+    "fr": "Griffe véloce"
+  },
+  "Safeguard": {
+    "de": "Sicherung",
+    "fr": "Protection"
+  },
+  "Savage Boulder": {
+    "de": "Wilder Felsbrocken",
+    "fr": "Rocher sauvage"
+  },
+  "Savage Hurricane": {
+    "de": "Primitiver Hurrikan",
+    "fr": "Ouragan sauvage"
+  },
+  "Savage Rabies": {
+    "de": "Primitive Tollwut",
+    "fr": "Morsure rabique sauvage"
+  },
+  "Savage Trample": {
+    "de": "Primitives Niedertrampeln",
+    "fr": "Piétinement sauvage"
+  },
+  "Scorched Earth": {
+    "de": "Verbrannte Erde",
+    "fr": "Terre calcinée"
+  },
+  "Scourge": {
+    "de": "Geißel",
+    "fr": "Fléau"
+  },
+  "Second Wind": {
+    "de": "Kräfte sammeln",
+    "fr": "Second souffle"
+  },
+  "Seeker": {
+    "de": "Sucher",
+    "fr": "Traqueur"
+  },
+  "Serration": {
+    "de": "Zahnbewehrt",
+    "fr": "Crantage"
+  },
+  "Sever": {
+    "de": "Schnitter",
+    "fr": "Section"
+  },
+  "Shadow Clone": {
+    "de": "Schattenklon",
+    "fr": "Clone d’ombre"
+  },
+  "Shadow Crash": {
+    "de": "Schattensturz",
+    "fr": "Déferlante d’ombre"
+  },
+  "Shadow Imbuement": {
+    "de": "Schatteninfusion",
+    "fr": "Imprégnation d’ombre"
+  },
+  "Shadow Step": {
+    "de": "Schattenschritt",
+    "fr": "Pas de l’ombre"
+  },
+  "Shadowblight": {
+    "de": "Schattenseuche",
+    "fr": "Chancre d’ombre"
+  },
+  "Share a Drink": {
+    "de": "Einen ausgeben",
+    "fr": "Un petit verre ?"
+  },
+  "Shared Pain": {
+    "de": "Geteilter Schmerz",
+    "fr": "Douleur partagée"
+  },
+  "Sharp Rock Splitter": {
+    "de": "Scharfer Felsspalter",
+    "fr": "Bris de roche affirmé"
+  },
+  "Sharp Thrash": {
+    "de": "Scharfes Dreschen",
+    "fr": "Brutale sauvagerie affirmée"
+  },
+  "Sharp Thunderspike": {
+    "de": "Scharfer Donnerstachel",
+    "fr": "Pointe de foudre affirmée"
+  },
+  "Sharp Withering Fist": {
+    "de": "Scharfe Verkümmernde Faust",
+    "fr": "Poing flétrissant affirmé"
+  },
+  "Shatter": {
+    "de": "Zersplittern",
+    "fr": "Fracas"
+  },
+  "Shield Charge": {
+    "de": "Schildsturm",
+    "fr": "Charge au bouclier"
+  },
+  "Shield Throw": {
+    "de": "Schildwurf",
+    "fr": "Jet de bouclier"
+  },
+  "Shimmering Flame Shield": {
+    "de": "Schimmernder Flammenschild",
+    "fr": "Bouclier de feu flamboyant"
+  },
+  "Shimmering Frost Nova": {
+    "de": "Schimmernde Frostnova",
+    "fr": "Nova de givre flamboyante"
+  },
+  "Shimmering Ice Armor": {
+    "de": "Schimmernde Eisrüstung",
+    "fr": "Armure de glace flamboyante"
+  },
+  "Shimmering Teleport": {
+    "de": "Schimmernde Teleportation",
+    "fr": "Téléportation flamboyante"
+  },
+  "Shocking Impact": {
+    "de": "Schockierende Wirkung",
+    "fr": "Impact électrique"
+  },
+  "Shockwave": {
+    "de": "Schockwelle",
+    "fr": "Onde de choc"
+  },
+  "Shred": {
+    "de": "Zerfetzen",
+    "fr": "Déchiquetage"
+  },
+  "Siphoning Strikes": {
+    "de": "Labende Schläge",
+    "fr": "Frappes drainantes"
+  },
+  "Skeletal Mage Mastery": {
+    "de": "Beherrschung von Skelettmagiern",
+    "fr": "Maîtrise des mages squelettes"
+  },
+  "Skeletal Warrior Mastery": {
+    "de": "Beherrschung von Skelettkriegern",
+    "fr": "Maîtrise des guerriers squelettes"
+  },
+  "Slaying Strike": {
+    "de": "Niederstreckender Schlag",
+    "fr": "Frappe fatale"
+  },
+  "Smoke Grenade": {
+    "de": "Rauchgranate",
+    "fr": "Bombe fumigène"
+  },
+  "Snap Freeze": {
+    "de": "Schockfrost",
+    "fr": "Gel intense"
+  },
+  "Snipe": {
+    "de": "Scharfschütze",
+    "fr": "Tir violent"
+  },
+  "Soar": {
+    "de": "Segeln",
+    "fr": "Élévation"
+  },
+  "Soulfire": {
+    "de": "Seelenfeuer",
+    "fr": "Feu de l’âme"
+  },
+  "Soulrift": {
+    "de": "Seelenriss",
+    "fr": "Faille des âmes"
+  },
+  "Spark": {
+    "de": "Funke",
+    "fr": "Étincelle"
+  },
+  "Spiked Armor": {
+    "de": "Stachelbewehrte Rüstung",
+    "fr": "Armure hérissée"
+  },
+  "Spiritual Attunement": {
+    "de": "Spirituelle Einstimmung",
+    "fr": "Harmonie spirituelle"
+  },
+  "Stand Alone": {
+    "de": "Allein stehen",
+    "fr": "Autosuffisance"
+  },
+  "Static Discharge": {
+    "de": "Statische Entladung",
+    "fr": "Décharge statique"
+  },
+  "Steel Grasp": {
+    "de": "Stahlgriff",
+    "fr": "Poigne de fer"
+  },
+  "Stinger": {
+    "de": "Stachel",
+    "fr": "Piqueur"
+  },
+  "Stone Burst": {
+    "de": "Steinsalve",
+    "fr": "Explosion de pierres"
+  },
+  "Stone Guard": {
+    "de": "Steingardist",
+    "fr": "Garde de pierre"
+  },
+  "Storm Strike": {
+    "de": "Sturmschlag",
+    "fr": "Coup de tonnerre"
+  },
+  "Storm of Fire": {
+    "de": "Sturm des Feuers",
+    "fr": "Tempête de feu"
+  },
+  "Strategic Challenging Shout": {
+    "de": "Strategischer Herausforderungsruf",
+    "fr": "Cri provocateur stratégique"
+  },
+  "Strategic Ground Stomp": {
+    "de": "Strategisches Aufstampfen",
+    "fr": "Choc terrestre stratégique"
+  },
+  "Strategic Iron Skin": {
+    "de": "Strategische Eisenhaut",
+    "fr": "Galvanisation stratégique"
+  },
+  "Strategic Rallying Cry": {
+    "de": "Strategischer Schlachtruf",
+    "fr": "Cri de ralliement stratégique"
+  },
+  "Sturdy": {
+    "de": "Robust",
+    "fr": "Robuste"
+  },
+  "Stutter Step": {
+    "de": "Stotterschritt",
+    "fr": "Petits pas"
+  },
+  "Subverting Concealment": {
+    "de": "Zerrüttende Verschleierung",
+    "fr": "Dissimulation subversive"
+  },
+  "Subverting Dark Shroud": {
+    "de": "Zerrüttender Dunkler Schleier",
+    "fr": "Sombre voile subversif"
+  },
+  "Subverting Poison Trap": {
+    "de": "Zerrüttende Giftfalle",
+    "fr": "Piège de poison subversif"
+  },
+  "Subverting Smoke Grenade": {
+    "de": "Zerrüttende Rauchgranate",
+    "fr": "Bombe fumigène subversive"
+  },
+  "Sundering Shield": {
+    "de": "Bröckelnder Schild",
+    "fr": "Bouclier pourfendeur"
+  },
+  "Supernatural Blight": {
+    "de": "Übernatürliche Pest",
+    "fr": "Chancre surnaturel"
+  },
+  "Supernatural Blood Lance": {
+    "de": "Übernatürliche Blutlanze",
+    "fr": "Prélèvement surnaturel"
+  },
+  "Supernatural Blood Surge": {
+    "de": "Übernatürliche Blutwoge",
+    "fr": "Afflux sanguin surnaturel"
+  },
+  "Supernatural Bone Spear": {
+    "de": "Übernatürlicher Knochenspeer",
+    "fr": "Lance d’os surnaturelle"
+  },
+  "Supernatural Sever": {
+    "de": "Übernatürlicher Schnitter",
+    "fr": "Section surnaturelle"
+  },
+  "Supremacy": {
+    "de": "Vorherrschaft",
+    "fr": "Supériorité"
+  },
+  "Supreme Army of the Dead": {
+    "de": "Überlegene Armee der Toten",
+    "fr": "Armée de morts suprême"
+  },
+  "Supreme Blood Wave": {
+    "de": "Überlegene Blutwelle",
+    "fr": "Vague de sang suprême"
+  },
+  "Supreme Bone Storm": {
+    "de": "Überlegener Knochensturm",
+    "fr": "Tempête d’os suprême"
+  },
+  "Supreme Call of the Ancients": {
+    "de": "Überlegene Anrufung der Urahnen",
+    "fr": "Appel des Anciens suprême"
+  },
+  "Supreme Cataclysm": {
+    "de": "Überlegener Kataklysmus",
+    "fr": "Cataclysme suprême"
+  },
+  "Supreme Death Trap": {
+    "de": "Überlegene Todesfalle",
+    "fr": "Piège mortel suprême"
+  },
+  "Supreme Deep Freeze": {
+    "de": "Überlegenes Tieffrieren",
+    "fr": "Froid intense suprême"
+  },
+  "Supreme Grizzly Rage": {
+    "de": "Überlegener Grizzlyzorn",
+    "fr": "Rage du grizzly suprême"
+  },
+  "Supreme Inferno": {
+    "de": "Überlegenes Inferno",
+    "fr": "Inferno suprême"
+  },
+  "Supreme Iron Maelstrom": {
+    "de": "Überlegener Eiserner Mahlstrom",
+    "fr": "Maelström d’acier suprême"
+  },
+  "Supreme Lacerate": {
+    "de": "Überlegenes Zerreißen",
+    "fr": "Lacération suprême"
+  },
+  "Supreme Petrify": {
+    "de": "Überlegenes Versteinern",
+    "fr": "Pétrification suprême"
+  },
+  "Supreme Rain of Arrows": {
+    "de": "Überlegener Pfeilhagel",
+    "fr": "Pluie de flèches suprême"
+  },
+  "Supreme Shadow Clone": {
+    "de": "Überlegener Schattenklon",
+    "fr": "Clone d’ombre suprême"
+  },
+  "Supreme Soulrift": {
+    "de": "Überlegener Seelenriss",
+    "fr": "Faille des âmes suprême"
+  },
+  "Supreme Unstable Currents": {
+    "de": "Überlegene instabile Strömung",
+    "fr": "Courant instable suprême"
+  },
+  "Supreme Wrath of the Berserker": {
+    "de": "Überlegener Zorn des Berserkers",
+    "fr": "Courroux du berserker suprême"
+  },
+  "Sustenance": {
+    "de": "Erhaltung",
+    "fr": "Subsistance"
+  },
+  "Swift": {
+    "de": "Hurtig",
+    "fr": "Rapidité"
+  },
+  "Swiftness": {
+    "de": "Schnelligkeit",
+    "fr": "Vivacité"
+  },
+  "Tactical Challenging Shout": {
+    "de": "Taktischer Herausforderungsruf",
+    "fr": "Cri provocateur tactique"
+  },
+  "Tactical Ground Stomp": {
+    "de": "Taktisches Aufstampfen",
+    "fr": "Choc terrestre tactique"
+  },
+  "Tactical Iron Skin": {
+    "de": "Taktische Eisenhaut",
+    "fr": "Galvanisation tactique"
+  },
+  "Tactical Rallying Cry": {
+    "de": "Taktischer Schlachtruf",
+    "fr": "Cri de ralliement tactique"
+  },
+  "Target Practice": {
+    "de": "Zielübung",
+    "fr": "Entraînement à la visée"
+  },
+  "Taste of Flesh": {
+    "de": "Fleischgeschmack",
+    "fr": "Goût de chair"
+  },
+  "Teleport": {
+    "de": "Teleportation",
+    "fr": "Téléportation"
+  },
+  "Tempered Fury": {
+    "de": "Kanalisierter Furor",
+    "fr": "Fureur mesurée"
+  },
+  "Terrify": {
+    "de": "Entsetzen",
+    "fr": "Terreur"
+  },
+  "Terror": {
+    "de": "Schrecken",
+    "fr": "Terreur"
+  },
+  "The Devourer": {
+    "de": "Der Verschlinger",
+    "fr": "Le dévoreur"
+  },
+  "The Hunter": {
+    "de": "Das Raubtier",
+    "fr": "Chasseur"
+  },
+  "The Protector": {
+    "de": "Der Beschützer",
+    "fr": "Le protecteur"
+  },
+  "The Seeker": {
+    "de": "Der Sucher",
+    "fr": "Traqueur"
+  },
+  "Thick Hide": {
+    "de": "Dickes Fell",
+    "fr": "Peau épaisse"
+  },
+  "Thick Skin": {
+    "de": "Zäh",
+    "fr": "Peau dure"
+  },
+  "Thrash": {
+    "de": "Dreschen",
+    "fr": "Brutale sauvagerie"
+  },
+  "Thrillseeker": {
+    "de": "Abenteuerlustig",
+    "fr": "Grand frisson"
+  },
+  "Thunderspike": {
+    "de": "Donnerstachel",
+    "fr": "Pointe de foudre"
+  },
+  "Tides of Blood": {
+    "de": "Flut des Blutes",
+    "fr": "Vagues de sang"
+  },
+  "Titan's Fall": {
+    "de": "Fall des Titanen",
+    "fr": "Déchéance du titan"
+  },
+  "Tornado": {
+    "de": "Tornado",
+    "fr": "Tornade"
+  },
+  "Touch of Death": {
+    "de": "Berührung des Todes",
+    "fr": "Toucher mortel"
+  },
+  "Tough as Nails": {
+    "de": "Steinhart",
+    "fr": "Robustesse"
+  },
+  "Toxic Claws": {
+    "de": "Toxische Klauen",
+    "fr": "Griffes toxiques"
+  },
+  "Toxic Skin": {
+    "de": "Gifthaut",
+    "fr": "Derme toxique"
+  },
+  "Trample": {
+    "de": "Niedertrampeln",
+    "fr": "Piétinement"
+  },
+  "Transfusion": {
+    "de": "Transfusion",
+    "fr": "Perfusion"
+  },
+  "Trap Mastery": {
+    "de": "Fallenbeherrschung",
+    "fr": "Maîtrise des pièges"
+  },
+  "Trick Attacks": {
+    "de": "Listige Angriffe",
+    "fr": "Attaques trompeuses"
+  },
+  "Trip Mines": {
+    "de": "Stolperminen",
+    "fr": "Mines à déclencheur"
+  },
+  "Twisting Blades": {
+    "de": "Schraubklingen",
+    "fr": "Lames sournoises"
+  },
+  "Unbridled Rage": {
+    "de": "Ungezügelte Wut",
+    "fr": "Rage effrénée"
+  },
+  "Unconstrained": {
+    "de": "Entfesselt",
+    "fr": "Sans contrainte"
+  },
+  "Unliving Energy": {
+    "de": "Unlebende Energie",
+    "fr": "Énergie non vivante"
+  },
+  "Unrestrained": {
+    "de": "Unbändig",
+    "fr": "Sans retenue"
+  },
+  "Unrestrained Power": {
+    "de": "Unbändige Stärke",
+    "fr": "Puissance effrénée"
+  },
+  "Unstable Currents": {
+    "de": "Instabile Strömung",
+    "fr": "Courant instable"
+  },
+  "Unstable Elixirs": {
+    "de": "Instabile Elixiere",
+    "fr": "Élixirs instables"
+  },
+  "Unto Dawn": {
+    "de": "Bis zur Dämmerung",
+    "fr": "Jusqu’à l’aube"
+  },
+  "Upheaval": {
+    "de": "Aufwühlen",
+    "fr": "Soulèvement"
+  },
+  "Ursine Strength": {
+    "de": "Bärenkraft",
+    "fr": "Force ursine"
+  },
+  "Valiance": {
+    "de": "Heldenmut",
+    "fr": "Vaillance"
+  },
+  "Vanguard": {
+    "de": "Vorposten",
+    "fr": "Avant-garde"
+  },
+  "Vehemence": {
+    "de": "Vehemenz",
+    "fr": "Véhémence"
+  },
+  "Velocity": {
+    "de": "Geschwindigkeit",
+    "fr": "Vélocité"
+  },
+  "Victimize": {
+    "de": "Bestrafen",
+    "fr": "Victimisation"
+  },
+  "Vigilance": {
+    "de": "Wachsamkeit",
+    "fr": "Vigilance"
+  },
+  "Vigorous": {
+    "de": "Energisch",
+    "fr": "Vigueur"
+  },
+  "Violent Double Swing": {
+    "de": "Brutaler Doppelschwung",
+    "fr": "Coup double violent"
+  },
+  "Violent Hammer of the Ancients": {
+    "de": "Brutaler Hammer der Urahnen",
+    "fr": "Marteau des Anciens violent"
+  },
+  "Violent Rend": {
+    "de": "Brutales Zerfleischen",
+    "fr": "Déchirure violente"
+  },
+  "Violent Upheaval": {
+    "de": "Brutales Aufwühlen",
+    "fr": "Soulèvement violent"
+  },
+  "Violent Whirlwind": {
+    "de": "Brutaler Wirbelwind",
+    "fr": "Tourbillon violent"
+  },
+  "Vital Strikes": {
+    "de": "Wichtige Treffer",
+    "fr": "Frappes vitales"
+  },
+  "Vortex": {
+    "de": "Vortex",
+    "fr": "Vortex"
+  },
+  "Vyr's Mastery": {
+    "de": "Vyrs Beherrschung",
+    "fr": "Virtuosité de Vyr"
+  },
+  "Walking Arsenal": {
+    "de": "Wandelndes Arsenal",
+    "fr": "Arsenal ambulant"
+  },
+  "Wallop": {
+    "de": "Aufmischen",
+    "fr": "Torgnole"
+  },
+  "War Cry": {
+    "de": "Kriegsschrei",
+    "fr": "Cri de guerre"
+  },
+  "Warmth": {
+    "de": "Wärme",
+    "fr": "Chaleur"
+  },
+  "Warpath": {
+    "de": "Kriegspfad",
+    "fr": "Sentier de la guerre"
+  },
+  "Warrior's Death Blow": {
+    "de": "Todesstoß des Kriegers",
+    "fr": "Coup de grâce de belliciste"
+  },
+  "Warrior's Mighty Throw": {
+    "de": "Mächtiger Wurf des Kriegers",
+    "fr": "Jet puissant de guerre"
+  },
+  "Warrior's Rupture": {
+    "de": "Blutspieß des Kriegers",
+    "fr": "Rupture de belliciste"
+  },
+  "Warrior's Steel Grasp": {
+    "de": "Stahlgriff des Kriegers",
+    "fr": "Poigne de fer de belliciste"
+  },
+  "Wave of Flame": {
+    "de": "Welle der Flammen",
+    "fr": "Vague de flammes"
+  },
+  "Weapon Mastery": {
+    "de": "Waffenbeherrschung",
+    "fr": "Maîtrise d’arme"
+  },
+  "Whirlwind": {
+    "de": "Wirbelwind",
+    "fr": "Tourbillon"
+  },
+  "Wild Claw": {
+    "de": "Wilde Klaue",
+    "fr": "Griffe indomptable"
+  },
+  "Wild Earth Spike": {
+    "de": "Wilder Erdspieß",
+    "fr": "Pointe de terre indomptable"
+  },
+  "Wild Impulses": {
+    "de": "Wilde Impulse",
+    "fr": "Pulsions sauvages"
+  },
+  "Wild Maul": {
+    "de": "Wildes Anfallen",
+    "fr": "Mutilation indomptable"
+  },
+  "Wild Storm Strike": {
+    "de": "Wilder Sturmschlag",
+    "fr": "Coup de tonnerre indomptable"
+  },
+  "Wild Wind Shear": {
+    "de": "Wilde Windschere",
+    "fr": "Vent cisaillant indomptable"
+  },
+  "Wind Shear": {
+    "de": "Windschere",
+    "fr": "Vent cisaillant"
+  },
+  "Wire Trap": {
+    "de": "Drahtfalle",
+    "fr": "Piège câblé"
+  },
+  "Withering Fist": {
+    "de": "Verkümmernde Faust",
+    "fr": "Poing flétrissant"
+  },
+  "Wizard's Ball Lightning": {
+    "de": "Kugelblitz des Zauberers",
+    "fr": "Sphère foudroyante de sorcellerie"
+  },
+  "Wizard's Blizzard": {
+    "de": "Blizzard des Zauberers",
+    "fr": "Blizzard de sorcellerie"
+  },
+  "Wizard's Firewall": {
+    "de": "Feuerwand des Zauberers",
+    "fr": "Mur de feu de sorcellerie"
+  },
+  "Wizard's Meteor": {
+    "de": "Meteor des Zauberers",
+    "fr": "Météore de sorcellerie"
+  },
+  "Wolves": {
+    "de": "Wölfe",
+    "fr": "Loups"
+  },
+  "Wrath of the Berserker": {
+    "de": "Zorn des Berserkers",
+    "fr": "Courroux du berserker"
+  }
+}

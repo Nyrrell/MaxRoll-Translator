@@ -1,0 +1,734 @@
+{
+  "100 000 Steps": {
+    "de": "100.000 Schritte",
+    "fr": "Les 100 000 pas"
+  },
+  "Ahavarion Spear of Lycander": {
+    "de": "Ahavarion Stab von Lycander",
+    "fr": "Ahavarion lance de Lycandre"
+  },
+  "Airidah's Inexorable Will": {
+    "de": "Airidahs unerbittlicher Wille",
+    "fr": "Volonté inébranlable d’Airidah"
+  },
+  "Ancients' Oath": {
+    "de": "Zorn der Urahnen",
+    "fr": "Serment des anciens"
+  },
+  "Andariel's Visage": {
+    "de": "Andariels Antlitz",
+    "fr": "Visage d’Andarielle"
+  },
+  "Arreat's Bearing": {
+    "de": "Arreats Haltung",
+    "fr": "Allure d’Arreat"
+  },
+  "Asheara's Khanjar": {
+    "de": "Asharas Khanjar",
+    "fr": "Kandjar d’Asheara"
+  },
+  "Assassin's Stride": {
+    "de": "Gang des Assassinen",
+    "fr": "Foulée assassine"
+  },
+  "Axial Conduit": {
+    "de": "Axiale Verbindung",
+    "fr": "Conduit axial"
+  },
+  "Azurewrath": {
+    "de": "Blauzorn",
+    "fr": "Irebleue"
+  },
+  "Balazan's Maxtlatl": {
+    "de": "Schutz des Großen",
+    "fr": "Protection de la première"
+  },
+  "Band of First Breath": {
+    "de": "Band des Ersten Atems",
+    "fr": "Bague du Premier Souffle"
+  },
+  "Bands of Ichorous Rose": {
+    "de": "Bande der Ichor-Rose",
+    "fr": "Gants de rose ichoreuse"
+  },
+  "Bane of Ahjad-Den": {
+    "de": "Fluch von Ahjad-Den",
+    "fr": "Plaies d’Ahjad-Den"
+  },
+  "Banished Lord's Talisman": {
+    "de": "Talisman des Verbannten Fürsten",
+    "fr": "Talisman du seigneur banni"
+  },
+  "Battle Trance": {
+    "de": "Kampftrance",
+    "fr": "Transe du combat"
+  },
+  "Beastfall Boots": {
+    "de": "Bestienfall-Stiefel",
+    "fr": "Bottes de morbête"
+  },
+  "Black River": {
+    "de": "Schwarzer Fluss",
+    "fr": "Rivière noire"
+  },
+  "Blood Artisan's Cuirass": {
+    "de": "Kürass des Bluthandwerkers",
+    "fr": "Braies d’artisan du sang"
+  },
+  "Blood Moon Breeches": {
+    "de": "Blutmondbeinlinge",
+    "fr": "Jambières de la lune de sang"
+  },
+  "Bloodless Scream": {
+    "de": "Blutloser Schrei",
+    "fr": "Cri exsangue"
+  },
+  "Blue Rose": {
+    "de": "Blaue Rose",
+    "fr": "Rose bleue"
+  },
+  "Boost Dagger": {
+    "de": "Verstärkungsdolch",
+    "fr": "Dague saturée"
+  },
+  "Boost Helm": {
+    "de": "Verstärkungs­kopfschutz",
+    "fr": "Heaume saturé"
+  },
+  "Boost Pants": {
+    "de": "Verstärkungs­beinschutz",
+    "fr": "Jambières saturées"
+  },
+  "Boost Scythe": {
+    "de": "Verstärkungs­sense",
+    "fr": "Faux saturée"
+  },
+  "Boost Staff": {
+    "de": "Verstärkungsstab",
+    "fr": "Bâton saturé"
+  },
+  "Bucrani's Grip": {
+    "de": "Bucranis Griff",
+    "fr": "Poigne de Bucrani"
+  },
+  "Bucrani's Resolve": {
+    "de": "Bucranis Entschlossenheit",
+    "fr": "Détermination de Bucrani"
+  },
+  "Bucrani's Tread": {
+    "de": "Bucranis Treter",
+    "fr": "Bottines de Bucrani"
+  },
+  "Bucrani's Visage": {
+    "de": "Bucranis Antlitz",
+    "fr": "Visage de Bucrani"
+  },
+  "Bucrani's Will": {
+    "de": "Bucranis Wille",
+    "fr": "Volonté de Bucrani"
+  },
+  "Condemnation": {
+    "de": "Verdammung",
+    "fr": "Condamnation"
+  },
+  "Cowl of the Nameless": {
+    "de": "Gugel des Namenlosen",
+    "fr": "Capuchon de l’Anonyme"
+  },
+  "Craze of the Dead God": {
+    "de": "Wahn des toten Gottes",
+    "fr": "Folies du dieu mort"
+  },
+  "Crown of Lucion": {
+    "de": "Krone von Lucion",
+    "fr": "Couronne de Lucion"
+  },
+  "Cruor's Embrace": {
+    "de": "Cruors Umarmung",
+    "fr": "Étreinte de Cruor"
+  },
+  "Deathless Visage": {
+    "de": "Unsterbliches Antlitz",
+    "fr": "Visage immortel"
+  },
+  "Deathmask of Nirmitruq": {
+    "de": "Gugel des Namenlosen",
+    "fr": "Capuchon de l’Anonyme"
+  },
+  "Deathspeaker's Pendant": {
+    "de": "Anhänger des Todes­sprechers",
+    "fr": "Pendentif de thanaturge"
+  },
+  "Dolmen Stone": {
+    "de": "Dolmenstein",
+    "fr": "Pierre de dolmen"
+  },
+  "Doombringer": {
+    "de": "Verhängnisbringer",
+    "fr": "Condamneuse"
+  },
+  "Eaglehorn": {
+    "de": "Adlerhorn",
+    "fr": "Corne de l’aigle"
+  },
+  "Earthbreaker": {
+    "de": "Erdbrecher",
+    "fr": "Brise-terre"
+  },
+  "Ebonpiercer": {
+    "de": "Ebenstecher",
+    "fr": "Percébène"
+  },
+  "Endurant Faith": {
+    "de": "Ausdauernder Glaube",
+    "fr": "Foi persistante"
+  },
+  "Esadora's Overflowing Cameo": {
+    "de": "Esadoras überfließende Kamee",
+    "fr": "Camée débordant d’Esadora"
+  },
+  "Esu's Heirloom": {
+    "de": "Esus Erbstück",
+    "fr": "Héritage d’Esu"
+  },
+  "Eyes in the Dark": {
+    "de": "Augen in der Dunkelheit",
+    "fr": "Des yeux dans la nuit"
+  },
+  "Fields of Crimson": {
+    "de": "Purpurne Felder",
+    "fr": "Champs écarlates"
+  },
+  "Fists of Fate": {
+    "de": "Fäuste des Schicksals",
+    "fr": "Poings du destin"
+  },
+  "Fists of War": {
+    "de": "Fäuste des Krieges",
+    "fr": "Poings de guerre"
+  },
+  "Flamescar": {
+    "de": "Brandnarbe",
+    "fr": "Cautère"
+  },
+  "Flameweaver": {
+    "de": "Flammenweber",
+    "fr": "Tisse-flammes"
+  },
+  "Fleshrender": {
+    "de": "Fleischwolf",
+    "fr": "Broyeuse"
+  },
+  "Flickerstep": {
+    "de": "Flickerschritt",
+    "fr": "Pas vacillant"
+  },
+  "Fractured Winterglass": {
+    "de": "Zersplittertes Winterglas",
+    "fr": "Éclat d’hiverre"
+  },
+  "Frostburn": {
+    "de": "Frostbrand",
+    "fr": "Engeleurs"
+  },
+  "Galvanic Azurite": {
+    "de": "Galvanischer Azurit",
+    "fr": "Azurite galvanique"
+  },
+  "Gathlen's Birthright": {
+    "de": "Gathlens Geburtsrecht",
+    "fr": "Droit du sang de Gathlen"
+  },
+  "Gloves of the Illuminator": {
+    "de": "Handschuhe des Erleuchters",
+    "fr": "Gants de l’Illuminateur"
+  },
+  "Godslayer Crown": {
+    "de": "Gottestöterkrone",
+    "fr": "Couronne du Tueur de divinités"
+  },
+  "Gohr's Devastating Grips": {
+    "de": "Gohrs Vernichtende Greifer",
+    "fr": "Poignes dévastatrices de Gohr"
+  },
+  "Gospel of the Devotee": {
+    "de": "Verkündung des Anhängers",
+    "fr": "Évangile de fidèle"
+  },
+  "Grasp of Shadow": {
+    "de": "Schatten­berührung",
+    "fr": "Poignes de l’ombre"
+  },
+  "Greatstaff of the Crone": {
+    "de": "Großstab der Vettel",
+    "fr": "Grand bâton de la vieille sorcière"
+  },
+  "Greaves of the Empty Tomb": {
+    "de": "Beinschienen der Leeren Gruft",
+    "fr": "Grèves de la tombe vide"
+  },
+  "Guise of War": {
+    "de": "Mantel des Krieges",
+    "fr": "Atours de guerre"
+  },
+  "Hail of Verglas": {
+    "de": "Gruß von Verglas",
+    "fr": "Appel du verglas"
+  },
+  "Harlequin Crest": {
+    "de": "Harlekinskrone",
+    "fr": "Cimier arlequin"
+  },
+  "Harmony of Ebewaka": {
+    "de": "Harmonie von Ebeweka",
+    "fr": "Harmonie d’Ebewaka"
+  },
+  "Harriers of War": {
+    "de": "Läufer des Krieges",
+    "fr": "Busardes de guerre"
+  },
+  "Heart of War": {
+    "de": "Herz des Krieges",
+    "fr": "Cœur de guerre"
+  },
+  "Heir of Perdition": {
+    "de": "Erbe der Verdammnis",
+    "fr": "Héritier de perdition"
+  },
+  "Hellhammer": {
+    "de": "Höllhammer",
+    "fr": "Martelenfer"
+  },
+  "Hesha e Kesungi": {
+    "de": "Hesha e Kesungi",
+    "fr": "Hesha e Kesungi"
+  },
+  "Hooves of the Mountain God": {
+    "de": "Hooves of the Mountain God",
+    "fr": "Hooves of the Mountain God"
+  },
+  "Howl from Below": {
+    "de": "Gebrüll aus den Tiefen",
+    "fr": "Hurlements des profondeurs"
+  },
+  "Hunter's Zenith": {
+    "de": "Zenit des Jägers",
+    "fr": "Acmé du chasseur"
+  },
+  "Iceheart Brais": {
+    "de": "Eisherzbruch",
+    "fr": "Braies du cœur glacé"
+  },
+  "Indira's Memory": {
+    "de": "Indiras Erinnerung",
+    "fr": "Souvenir d’Indira"
+  },
+  "Insatiable Fury": {
+    "de": "Unersättliche Wut",
+    "fr": "Fureur insatiable"
+  },
+  "Jacinth Shell": {
+    "de": "Hyazinthen­hülle",
+    "fr": "Coquille de hyacinthe"
+  },
+  "Kessime's Legacy": {
+    "de": "Kessimes Vermächtnis",
+    "fr": "Héritage de Kessime"
+  },
+  "Kilt of Blackwing": {
+    "de": "Schwarzschwinges Kilt",
+    "fr": "Kilt d’Ailenoire"
+  },
+  "Legendary Test Gloves": {
+    "de": "TechArtTest Gloves Unique Druid 96",
+    "fr": "TechArtTest Gloves Unique Druid 96"
+  },
+  "Lidless Wall": {
+    "de": "Lidlose Wand",
+    "fr": "Le Mur vigilant"
+  },
+  "Locran's Talisman": {
+    "de": "Locrans Talisman",
+    "fr": "Talisman de Locran"
+  },
+  "Loyalty's Mantle": {
+    "de": "Umhang der Loyalität",
+    "fr": "Mantelet de loyauté"
+  },
+  "Mad Wolf's Glee": {
+    "de": "Entzücken des wahnsinnigen Wolfes",
+    "fr": "Allégresse du Loup Enragé"
+  },
+  "Malefic Crescent": {
+    "de": "Sichel der Boshaftigkeit",
+    "fr": "Croissant maléfique"
+  },
+  "Mantle of Mountain's Fury": {
+    "de": "Umhang des Bergzorns",
+    "fr": "Mantelet de Fureur de la montagne"
+  },
+  "Melted Heart of Selig": {
+    "de": "Geschmolzenes Herz von Selig",
+    "fr": "Cœur fondu de Selig"
+  },
+  "Mjölnic Ryng": {
+    "de": "Mjölnischer Ryng",
+    "fr": "Alliance Mjölnic"
+  },
+  "Mother's Embrace": {
+    "de": "Umarmung der Mutter",
+    "fr": "Étreinte maternelle"
+  },
+  "Mutilator Plate": {
+    "de": "Verstümmlerplatte",
+    "fr": "Harnois de mutilation"
+  },
+  "Nesekem the Herald": {
+    "de": "Nesekem der Herold",
+    "fr": "Nesekem le Héraut"
+  },
+  "Okun's Catalyst": {
+    "de": "Okuns Katalysator",
+    "fr": "Catalyseur d’Okun"
+  },
+  "Ophidian Iris": {
+    "de": "Zersplittertes Winterglas",
+    "fr": "Éclat d’hiverre"
+  },
+  "Orphan Maker": {
+    "de": "Waisenmacherin",
+    "fr": "Orphelineuse"
+  },
+  "Overkill": {
+    "de": "Auslöscher",
+    "fr": "Masse-âcre"
+  },
+  "Pact Amulet": {
+    "de": "Paktamulett",
+    "fr": "Amulette du pacte"
+  },
+  "Paingorger's Gauntlets": {
+    "de": "Panzerhandschuhe des Schmerzschlingers",
+    "fr": "Gantelets du Dévoreur de souffrance"
+  },
+  "Path of Trag'Oul": {
+    "de": "Pfad von Trag'Oul",
+    "fr": "Voie de Trag’Oul"
+  },
+  "Peacemonger's Signet": {
+    "de": "Wappen des Friedensstifters",
+    "fr": "Chevalière de pacifiste"
+  },
+  "Penitent Greaves": {
+    "de": "Beinschienen der Reue",
+    "fr": "Grèves de la Pénitence"
+  },
+  "Pitfighter's Gull": {
+    "de": "Betrug des Grubenkämpfers",
+    "fr": "Mouette des fosses de combat"
+  },
+  "Protection of the Prime": {
+    "de": "Schutz des Großen",
+    "fr": "Protection de la première"
+  },
+  "Rage of Harrogath": {
+    "de": "Zorn von Harrogath",
+    "fr": "Rage d’Harrogath"
+  },
+  "Raiment of the Infinite": {
+    "de": "Gewand des Unendlichen",
+    "fr": "Habit de l’Infini"
+  },
+  "Rakanoth's Wake": {
+    "de": "Rakanoths Wache",
+    "fr": "Veillée de Rakanoth"
+  },
+  "Ramaladni's Magnum Opus": {
+    "de": "Ramaladnis Opus Magnum",
+    "fr": "Chef-d’œuvre de Ramaladni"
+  },
+  "Razorplate": {
+    "de": "Klingenplatte",
+    "fr": "Cotte-de-rasoir"
+  },
+  "Ring of Mendeln": {
+    "de": "Mendelns Ring",
+    "fr": "Anneau de Mendeln"
+  },
+  "Ring of Red Furor": {
+    "de": "Ring des roten Furors",
+    "fr": "Anneau de fureur rouge"
+  },
+  "Ring of Starless Skies": {
+    "de": "Ring der Sternenlosen Himmel",
+    "fr": "Anneau du ciel sans étoiles"
+  },
+  "Ring of Writhing Moon": {
+    "de": "Ring des windenden Mondes",
+    "fr": "Anneau de la lune agonisante"
+  },
+  "Ring of the Midday Hunt": {
+    "de": "Ring der Mittagsjagd",
+    "fr": "Anneau de la chasse méridienne"
+  },
+  "Ring of the Midnight Sun": {
+    "de": "Ring der Mitternachts­sonne",
+    "fr": "Anneau du soleil de minuit"
+  },
+  "Ring of the Ravenous": {
+    "de": "Ring der Gefräßigen",
+    "fr": "Anneau des affamés"
+  },
+  "Ring of the Sacrilegious Soul": {
+    "de": "Ring der Seele des Sakrilegs",
+    "fr": "Anneau de l’âme sacrilège"
+  },
+  "Rod of Kepeleke": {
+    "de": "Stab von Kepeleke",
+    "fr": "Bâton de Kepeleke"
+  },
+  "Rotting Lightbringer": {
+    "de": "Übler Rückenbrecher",
+    "fr": "Brise-échine néfaste"
+  },
+  "Saboteur's Signet": {
+    "de": "Siegel des Saboteurs",
+    "fr": "Chevalière de sabotage"
+  },
+  "Sabre of Tsasgal": {
+    "de": "Säbel von Tsasgal",
+    "fr": "Sabre de Tsasgal"
+  },
+  "Sanguivor Blade of Zir": {
+    "de": "Sanguivor Zirs Klinge",
+    "fr": "Sanguivore lame de Zir"
+  },
+  "Scorn of the Earth": {
+    "de": "Verschmähung der Erde",
+    "fr": "Mépris de la Terre"
+  },
+  "Scoundrel's Kiss": {
+    "de": "Kuss des Gauners",
+    "fr": "Baiser de bandit"
+  },
+  "Scoundrel's Leathers": {
+    "de": "Leder des Gauners",
+    "fr": "Veste de bandit"
+  },
+  "Sepazontec": {
+    "de": "Sepazontec",
+    "fr": "Sepazontec"
+  },
+  "Shard of Verathiel": {
+    "de": "Splitter Verathiels",
+    "fr": "Fragment de Verathiel"
+  },
+  "Shard of Verathiel / The Third Blade": {
+    "de": "Splitter Verathiels / Die Dritte Klinge",
+    "fr": "Fragment de Vérathielle/La Troisième lame"
+  },
+  "Shattered Vow": {
+    "de": "Zerbrochener Schwur",
+    "fr": "Vœu brisé"
+  },
+  "Shroud of False Death": {
+    "de": "Schleier des falschen Todes",
+    "fr": "Voile de la fausse mort"
+  },
+  "Shroud of Khanduras": {
+    "de": "Schleier aus Khanduras",
+    "fr": "Voile de Khanduras"
+  },
+  "Sidhe Bindings": {
+    "de": "Sidhe-Fesseln",
+    "fr": "Liens des Sidhes"
+  },
+  "Skyhunter": {
+    "de": "Himmelsjäger",
+    "fr": "Chasse-cieux"
+  },
+  "Snake Glaive": {
+    "de": "Schlangengleve",
+    "fr": "Couteau de brèche ophidien"
+  },
+  "Soulbrand": {
+    "de": "Seelenbrand",
+    "fr": "Griffe de l’âme"
+  },
+  "Staff of Endless Rage": {
+    "de": "Stab des Endlosen Zorns",
+    "fr": "Bâton de rage éternelle"
+  },
+  "Staff of Lam Esen": {
+    "de": "Stab von Lam Esen",
+    "fr": "Bâton de Lam Esen"
+  },
+  "Starfall Coronet": {
+    "de": "Sternenfall-Diadem",
+    "fr": "Diadème de l’étoile déchue"
+  },
+  "Stone of Vehemen": {
+    "de": "Stein von Vehemen",
+    "fr": "Pierre de Vehemen"
+  },
+  "Storm's Companion": {
+    "de": "Sturmgefährte",
+    "fr": "Compagnon de l’orage"
+  },
+  "Strides of War": {
+    "de": "Schreiter des Krieges",
+    "fr": "Jambières de guerre"
+  },
+  "Strike of Stormhorn": {
+    "de": "Schlag von Sturmhorn",
+    "fr": "Frappe de Corne-Tempête"
+  },
+  "Sunbird's Gorget": {
+    "de": "Gorget des Sonnenvogels",
+    "fr": "Hausse-col de souimanga"
+  },
+  "Sunstained War-Crozier": {
+    "de": "Sonnenbefleckter Kriegskrummstab",
+    "fr": "Crosse de guerre décolorée"
+  },
+  "Tal Rasha's Iridescent Loop": {
+    "de": "Tal Rashas schillernder Reif",
+    "fr": "Boucle irisée de Tal Rasha"
+  },
+  "Tassets of the Dawning Sky": {
+    "de": "Tassetten des Morgenhimmels",
+    "fr": "Tassettes de l’aube"
+  },
+  "Temerity": {
+    "de": "Verwegenheit",
+    "fr": "Témérité"
+  },
+  "Tempest Roar": {
+    "de": "Sturmgebrüll",
+    "fr": "Rugissement de la tempête"
+  },
+  "The Basilisk": {
+    "de": "Der Basilisk",
+    "fr": "Basilic"
+  },
+  "The Butcher's Cleaver": {
+    "de": "Hackbeil des Schlächters",
+    "fr": "Fendoir du Boucher"
+  },
+  "The Grandfather": {
+    "de": "Der Großvater",
+    "fr": "Le Grand-père"
+  },
+  "The Hand of Naz": {
+    "de": "Cruors Umarmung",
+    "fr": "Étreinte de Cruor"
+  },
+  "The Mortacrux": {
+    "de": "Die Mortacrux",
+    "fr": "Mortacrux"
+  },
+  "The Mortacrux / The Umbracrux": {
+    "de": "Die Mortacrux / Die Umbracrux",
+    "fr": "Mortacrux/Umbracrux"
+  },
+  "The Oculus": {
+    "de": "Der Okulus",
+    "fr": "L’Oculus"
+  },
+  "The Third Blade": {
+    "de": "Die Dritte Klinge",
+    "fr": "La Troisième lame"
+  },
+  "The Umbracrux": {
+    "de": "Die Umbracrux",
+    "fr": "Umbracrux"
+  },
+  "The Unmaker": {
+    "de": "Der Zunichtemacher",
+    "fr": "L’Annihilateur"
+  },
+  "Tibault's Will": {
+    "de": "Tibaults Wille",
+    "fr": "Volonté de Tibault"
+  },
+  "Tuskhelm of Joritz the Mighty": {
+    "de": "Hauerhelm von Joritz dem Mächtigen",
+    "fr": "Heaume de défense de Joritz le tout-puissant"
+  },
+  "Twin Strikes": {
+    "de": "Zwillingsschläge",
+    "fr": "Frappes jumelles"
+  },
+  "Tyrael's Might": {
+    "de": "Tyraels Macht",
+    "fr": "Puissance de Tyraël"
+  },
+  "Tyrael's Shopping List": {
+    "de": "Tyrael's Shopping List",
+    "fr": "Tyrael's Shopping List"
+  },
+  "Ugly Bastard Helm": {
+    "de": "Helm des hässlichen Bastards",
+    "fr": "Casque de bâtard hideux"
+  },
+  "Unbroken Chain": {
+    "de": "Ungebrochene Kette",
+    "fr": "Chaîne intègre"
+  },
+  "Unsung Ascetic's Wraps": {
+    "de": "Wickel des unbesungenen Asketen",
+    "fr": "Bandages d’ascète méconnu"
+  },
+  "Vasily's Prayer": {
+    "de": "Vasilys Gebet",
+    "fr": "Prière de Vasily"
+  },
+  "Vox Omnium": {
+    "de": "Vox Omnium",
+    "fr": "Vox Omnium"
+  },
+  "Vox Omnium / The Basilisk": {
+    "de": "Vox Omnium / Der Basilisk",
+    "fr": "Vox Omnium/Basilic"
+  },
+  "Waxing Gibbous": {
+    "de": "Zunehmender Mond",
+    "fr": "Croissant gibbeux"
+  },
+  "Wildheart Hunger": {
+    "de": "Wildherzen­hunger",
+    "fr": "Faim du cœur sauvage"
+  },
+  "Wilted Potential": {
+    "de": "Ichor-Erlösung",
+    "fr": "Salut ichoreux"
+  },
+  "Windforce": {
+    "de": "Windmacht",
+    "fr": "Ouragan"
+  },
+  "Word of Hakan": {
+    "de": "Botschaft Hakans",
+    "fr": "Parole d’Hakan"
+  },
+  "Wound Drinker": {
+    "de": "Wundentrinker",
+    "fr": "Lèche-blessure"
+  },
+  "Writhing Band of Trickery": {
+    "de": "Windendes Band der Irreführung",
+    "fr": "Bague de supercherie mouvante"
+  },
+  "Wushe Nak Pa": {
+    "de": "Wushe Nak Pa",
+    "fr": "Wushe Nak Pa"
+  },
+  "X'Fal's Corroded Signet": {
+    "de": "Rostiger Siegelring von X'Fal",
+    "fr": "Chevalière corrodée d’X’fal"
+  },
+  "Yen's Blessing": {
+    "de": "Yens Segen",
+    "fr": "Bénédiction de Yen"
+  }
+}

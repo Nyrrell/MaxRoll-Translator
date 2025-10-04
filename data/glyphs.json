@@ -1,0 +1,434 @@
+{
+  "Abyssal": {
+    "de": "Abyssal",
+    "fr": "Abysse"
+  },
+  "Adept": {
+    "de": "Geübt",
+    "fr": "Adepte"
+  },
+  "Ambidextrous": {
+    "de": "Beidhändig",
+    "fr": "Ambidextre"
+  },
+  "Ambush": {
+    "de": "Hinterhalt",
+    "fr": "Embuscade"
+  },
+  "Amplify": {
+    "de": "Verstärken",
+    "fr": "Amplification"
+  },
+  "Bane": {
+    "de": "Bann",
+    "fr": "Fléau"
+  },
+  "Blood-drinker": {
+    "de": "Bluttrinker",
+    "fr": "Soif de sang"
+  },
+  "Bloodfeeder": {
+    "de": "Blutfresser",
+    "fr": "Sang nourricier"
+  },
+  "Brawl": {
+    "de": "Rauferei",
+    "fr": "Rixe"
+  },
+  "Canny": {
+    "de": "Besonnen",
+    "fr": "Astuce"
+  },
+  "Challenger": {
+    "de": "Herausforderer",
+    "fr": "Candidature"
+  },
+  "Charged": {
+    "de": "Aufgeladen",
+    "fr": "Surcharge"
+  },
+  "Chip": {
+    "de": "Splitter",
+    "fr": "Sape"
+  },
+  "Cleaver": {
+    "de": "Hackbeil",
+    "fr": "Couperet"
+  },
+  "Closer": {
+    "de": "Nähe",
+    "fr": "Contact"
+  },
+  "Colossal": {
+    "de": "Kolossal",
+    "fr": "Colosse"
+  },
+  "Combat": {
+    "de": "Kampf",
+    "fr": "Combat"
+  },
+  "Conjurer": {
+    "de": "Beschwörer",
+    "fr": "Conjuration"
+  },
+  "Consumption": {
+    "de": "Konsum",
+    "fr": "Consommation"
+  },
+  "Control": {
+    "de": "Kontrolle",
+    "fr": "Contrôle"
+  },
+  "Corporeal": {
+    "de": "Körperlich",
+    "fr": "Physiologique"
+  },
+  "Crusher": {
+    "de": "Zermalmer",
+    "fr": "Broyage"
+  },
+  "Cryopathy": {
+    "de": "Kryopathie",
+    "fr": "Cryopathie"
+  },
+  "Darkness": {
+    "de": "Dunkelheit",
+    "fr": "Noirceur"
+  },
+  "Deadraiser": {
+    "de": "Totenbeleber",
+    "fr": "Résurrection"
+  },
+  "Desecration": {
+    "de": "Schändung",
+    "fr": "Profanation"
+  },
+  "Destruction": {
+    "de": "Zerstörung",
+    "fr": "Destruction"
+  },
+  "Devious": {
+    "de": "Verschlagen",
+    "fr": "Sournoiserie"
+  },
+  "Diminish": {
+    "de": "Verringern",
+    "fr": "Diminution"
+  },
+  "Disembowel": {
+    "de": "Ausweiden",
+    "fr": "Éviscération"
+  },
+  "Dominate": {
+    "de": "Dominieren",
+    "fr": "Domination"
+  },
+  "Earth and Sky": {
+    "de": "Erde und Himmel",
+    "fr": "Terre et Ciel"
+  },
+  "Efficacy": {
+    "de": "Effizienz",
+    "fr": "Efficacité"
+  },
+  "Electrocute": {
+    "de": "Elektrifizieren",
+    "fr": "Électrisation"
+  },
+  "Electrocution": {
+    "de": "Stromschlag",
+    "fr": "Électrocution"
+  },
+  "Elementalist": {
+    "de": "Elementarist",
+    "fr": "Élémentaliste"
+  },
+  "Eliminator": {
+    "de": "Auslöscher",
+    "fr": "Élimination"
+  },
+  "Enchanter": {
+    "de": "Verzauberer",
+    "fr": "Enchantement"
+  },
+  "Essence": {
+    "de": "Essenz",
+    "fr": "Essence"
+  },
+  "Executioner": {
+    "de": "Scharfrichter",
+    "fr": "Bourreau"
+  },
+  "Exhumation": {
+    "de": "Exhumierung",
+    "fr": "Exhumation"
+  },
+  "Exploit": {
+    "de": "Ausbeuten",
+    "fr": "Exploitation"
+  },
+  "Explosive": {
+    "de": "Explosiv",
+    "fr": "Explosion"
+  },
+  "Fang and Claw": {
+    "de": "Reißer und Klaue",
+    "fr": "Crocs et griffes"
+  },
+  "Fester": {
+    "de": "Eitern",
+    "fr": "Suppuration"
+  },
+  "Fitness": {
+    "de": "Fitness",
+    "fr": "Forme physique"
+  },
+  "Flamefeeder": {
+    "de": "Flammenfresser",
+    "fr": "Flamme nourricière"
+  },
+  "Fluidity": {
+    "de": "Fluidität",
+    "fr": "Fluidité"
+  },
+  "Frostbite": {
+    "de": "Frostbeulen",
+    "fr": "Engelure"
+  },
+  "Frostfeeder": {
+    "de": "Frostfresser",
+    "fr": "Givre nourricier"
+  },
+  "Fulminate": {
+    "de": "Entladen",
+    "fr": "Fulmination"
+  },
+  "Golem": {
+    "de": "Golem",
+    "fr": "Golem"
+  },
+  "Gravekeeper": {
+    "de": "Grabhüter",
+    "fr": "Garde des tombes"
+  },
+  "Guzzler": {
+    "de": "Schlinger",
+    "fr": "Consommation"
+  },
+  "Headhunter": {
+    "de": "Kopfjäger",
+    "fr": "Chasse aux têtes"
+  },
+  "Hone": {
+    "de": "Schleifen",
+    "fr": "Perfectionnement"
+  },
+  "Hubris": {
+    "de": "Hybris",
+    "fr": "Outrecuidance"
+  },
+  "Human": {
+    "de": "Mensch",
+    "fr": "Être humain"
+  },
+  "Imbiber": {
+    "de": "Absorbierer",
+    "fr": "Absorption"
+  },
+  "Infusion": {
+    "de": "Infusion",
+    "fr": "Infusion"
+  },
+  "Innate": {
+    "de": "Angeboren",
+    "fr": "Atavisme"
+  },
+  "Invocation": {
+    "de": "Anrufung",
+    "fr": "Invocation"
+  },
+  "Ire": {
+    "de": "Groll",
+    "fr": "Ire"
+  },
+  "Jagged Plume": {
+    "de": "Gezackte Feder",
+    "fr": "Plume irrégulière"
+  },
+  "Keeper": {
+    "de": "Hüter",
+    "fr": "Dépositaire"
+  },
+  "Mage": {
+    "de": "Magier",
+    "fr": "Mage"
+  },
+  "Marshal": {
+    "de": "Marschall",
+    "fr": "Mobilisation"
+  },
+  "Menagerist": {
+    "de": "Menagerist",
+    "fr": "Zoologue"
+  },
+  "Might": {
+    "de": "Macht",
+    "fr": "Puissance"
+  },
+  "Mortal Draw": {
+    "de": "Tödliche Flinkheit",
+    "fr": "Dégainage mortel"
+  },
+  "Nightstalker": {
+    "de": "Nachtpirscher",
+    "fr": "Noctambule"
+  },
+  "Outmatch": {
+    "de": "Übertreffen",
+    "fr": "Surpassement"
+  },
+  "Poise": {
+    "de": "Haltung",
+    "fr": "Équilibre"
+  },
+  "Pride": {
+    "de": "Stolz",
+    "fr": "Orgueil"
+  },
+  "Protector": {
+    "de": "Beschützer",
+    "fr": "Protection"
+  },
+  "Pyromaniac": {
+    "de": "Pyromane",
+    "fr": "Pyromane"
+  },
+  "Ranger": {
+    "de": "Ferne",
+    "fr": "Sentinelle"
+  },
+  "Reinforced": {
+    "de": "Verstärkt",
+    "fr": "Renforcement"
+  },
+  "Revenge": {
+    "de": "Rache",
+    "fr": "Revanche"
+  },
+  "Ritual": {
+    "de": "Ritual",
+    "fr": "Rituel"
+  },
+  "Rumble": {
+    "de": "Poltern",
+    "fr": "Bagarre"
+  },
+  "Sacrificial": {
+    "de": "Aufopferung",
+    "fr": "Sacrifice"
+  },
+  "Scourge": {
+    "de": "Geißel",
+    "fr": "Calamité"
+  },
+  "Seething": {
+    "de": "Brodelnd",
+    "fr": "Bouillonnement"
+  },
+  "Shapeshifter": {
+    "de": "Gestaltwandler",
+    "fr": "Métamorphe"
+  },
+  "Snare": {
+    "de": "Falle",
+    "fr": "Traquenard"
+  },
+  "Spirit": {
+    "de": "Geist",
+    "fr": "Esprit"
+  },
+  "Stalagmite": {
+    "de": "Stalagmit",
+    "fr": "Stalagmite"
+  },
+  "Tactician": {
+    "de": "Taktiker",
+    "fr": "Stratège"
+  },
+  "Talon": {
+    "de": "Klaue",
+    "fr": "Serre"
+  },
+  "Tectonic": {
+    "de": "Tektonisch",
+    "fr": "Séisme"
+  },
+  "Territorial": {
+    "de": "Territorial",
+    "fr": "Territoire"
+  },
+  "Torch": {
+    "de": "Fackel",
+    "fr": "Torche"
+  },
+  "Tracker": {
+    "de": "Verfolger",
+    "fr": "Pistage"
+  },
+  "Turf": {
+    "de": "Torf",
+    "fr": "Secteur"
+  },
+  "Twister": {
+    "de": "Tornado",
+    "fr": "Tourbillon"
+  },
+  "Undaunted": {
+    "de": "Unerschrocken",
+    "fr": "Stoïcisme"
+  },
+  "Unleash": {
+    "de": "Entfesseln",
+    "fr": "Déchaînement"
+  },
+  "Versatility": {
+    "de": "Vielseitigkeit",
+    "fr": "Polyvalence"
+  },
+  "Warding": {
+    "de": "Abschirmend",
+    "fr": "Tutélaire"
+  },
+  "Warrior": {
+    "de": "Krieger",
+    "fr": "Coriace"
+  },
+  "Weapon Master": {
+    "de": "Waffenmeister",
+    "fr": "Maîtrise des armes"
+  },
+  "Werebear": {
+    "de": "Werbär",
+    "fr": "Ursoïde"
+  },
+  "Werewolf": {
+    "de": "Werwolf",
+    "fr": "Lycanthrope"
+  },
+  "Wildfire": {
+    "de": "Lauffeuer",
+    "fr": "Feu grégeois"
+  },
+  "Wilds": {
+    "de": "Wildnis",
+    "fr": "Sauvagerie"
+  },
+  "Winter": {
+    "de": "Winter",
+    "fr": "Hiver"
+  },
+  "Wrath": {
+    "de": "Zorn",
+    "fr": "Colère"
+  }
+}

@@ -10,7 +10,7 @@ module.exports = function (req, res) {
     return res.status(400).json({ error: 'Missing key or type' });
   }
 
-  const filePath = path.join(__dirname, `../data/${lang}/${type}.json`);
+  const filePath = path.join(__dirname, `../data/${type}.json`);
 
   let translations;
   try {
@@ -19,6 +19,6 @@ module.exports = function (req, res) {
     return res.status(404).json({ error: `Translations not found for lang=${lang}, type=${type}` });
   }
 
-  const translation = translations[key] || null;
+  const translation = translations[key][lang] || null;
   res.status(200).json({ key, translation });
 };

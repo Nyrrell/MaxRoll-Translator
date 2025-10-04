@@ -1,0 +1,3070 @@
+{
+  "Abundant Energy": {
+    "de": "Energiefülle",
+    "fr": "Abondance"
+  },
+  "Accelerating": {
+    "de": "Beschleunigender",
+    "fr": "Accélération"
+  },
+  "Accelerating Aspect": {
+    "de": "Aspekt: Beschleunigender",
+    "fr": "Aspect d’accélération"
+  },
+  "Accursed Touch": {
+    "de": "verfluchten Berührung",
+    "fr": "Toucher maudit"
+  },
+  "Adaptability": {
+    "de": "Anpassungsfähigkeit",
+    "fr": "Adaptabilité"
+  },
+  "Agile Wolf": {
+    "de": "Aspekt des agilen Wolfs",
+    "fr": "Loup agile"
+  },
+  "Alacrity": {
+    "de": "Schnelligkeit",
+    "fr": "Alacrité"
+  },
+  "Alpha": {
+    "de": "Aspekt des Alphas",
+    "fr": "Alpha"
+  },
+  "Ancestral Charge": {
+    "de": "Aspekt des Ahnensturms",
+    "fr": "Charge ancestrale"
+  },
+  "Ancestral Echoes": {
+    "de": "Ahnenechos",
+    "fr": "Échos ancestraux"
+  },
+  "Ancestral Force": {
+    "de": "Ahnenmacht",
+    "fr": "Force ancestrale"
+  },
+  "Ancient Flame": {
+    "de": "uralten Flamme",
+    "fr": "Flamme antique"
+  },
+  "Anemia": {
+    "de": "Blutarmut",
+    "fr": "Anémie"
+  },
+  "Anger Management": {
+    "de": "Wutkontrolle",
+    "fr": "Maîtrise de soi"
+  },
+  "Anticline Burst": {
+    "de": "antiklinalen Explosion",
+    "fr": "Explosion anticlinale"
+  },
+  "Aphotic": {
+    "de": "Aphotischer",
+    "fr": "Aphotique"
+  },
+  "Aphotic Aspect": {
+    "de": "Aspekt: Aphotischer",
+    "fr": "Aspect aphotique"
+  },
+  "Apogeic Furor": {
+    "de": "Aspekt des gipfelnden Furors",
+    "fr": "Fureur déchaînée"
+  },
+  "Apprehension": {
+    "de": "fesselnden Furcht",
+    "fr": "Appréhension"
+  },
+  "Armageddon": {
+    "de": "Aspekt des Armageddon",
+    "fr": "Armageddon"
+  },
+  "Arrow Storms": {
+    "de": "Aspekt des Pfeilsturms",
+    "fr": "Tempête de flèches"
+  },
+  "Artful Initiative": {
+    "de": "kunstvollen Initiative",
+    "fr": "Initiative astucieuse"
+  },
+  "Aspect of Abundant Energy": {
+    "de": "Aspekt der Energiefülle",
+    "fr": "Aspect d’abondance"
+  },
+  "Aspect of Accursed Touch": {
+    "de": "Aspekt der verfluchten Berührung",
+    "fr": "Aspect de toucher maudit"
+  },
+  "Aspect of Adaptability": {
+    "de": "Aspekt der Anpassungsfähigkeit",
+    "fr": "Aspect d’adaptabilité"
+  },
+  "Aspect of Alacrity": {
+    "de": "Aspekt der Schnelligkeit",
+    "fr": "Aspect d’alacrité"
+  },
+  "Aspect of Ancestral Charge": {
+    "de": "Aspekt des Ahnensturms",
+    "fr": "Aspect de charge ancestrale"
+  },
+  "Aspect of Ancestral Echoes": {
+    "de": "Aspekt der Ahnenechos",
+    "fr": "Aspect des échos ancestraux"
+  },
+  "Aspect of Ancestral Force": {
+    "de": "Aspekt der Ahnenmacht",
+    "fr": "Aspect de force ancestrale"
+  },
+  "Aspect of Ancient Flame": {
+    "de": "Aspekt der uralten Flamme",
+    "fr": "Aspect de la flamme antique"
+  },
+  "Aspect of Anemia": {
+    "de": "Aspekt der Blutarmut",
+    "fr": "Aspect d’anémie"
+  },
+  "Aspect of Anger Management": {
+    "de": "Aspekt der Wutkontrolle",
+    "fr": "Aspect de maîtrise de soi"
+  },
+  "Aspect of Anticline Burst": {
+    "de": "Aspekt der antiklinalen Explosion",
+    "fr": "Aspect d’explosion anticlinale"
+  },
+  "Aspect of Apogeic Furor": {
+    "de": "Aspekt des gipfelnden Furors",
+    "fr": "Aspect de la fureur déchaînée"
+  },
+  "Aspect of Apprehension": {
+    "de": "Aspekt der fesselnden Furcht",
+    "fr": "Aspect d’appréhension"
+  },
+  "Aspect of Armageddon": {
+    "de": "Aspekt des Armageddon",
+    "fr": "Aspect d’armageddon"
+  },
+  "Aspect of Arrow Storms": {
+    "de": "Aspekt des Pfeilsturms",
+    "fr": "Aspect de tempête de flèches"
+  },
+  "Aspect of Artful Initiative": {
+    "de": "Aspekt der kunstvollen Initiative",
+    "fr": "Aspect d’initiative astucieuse"
+  },
+  "Aspect of Assistance": {
+    "de": "Aspekt der Assistenz",
+    "fr": "Aspect d’assistance"
+  },
+  "Aspect of Audacity": {
+    "de": "Aspekt der Kühnheit",
+    "fr": "Aspect d’audace"
+  },
+  "Aspect of Avoidance": {
+    "de": "Aspekt der Vermeidung",
+    "fr": "Aspect d’évitement"
+  },
+  "Aspect of Berserk Fury": {
+    "de": "Aspekt der Berserkerwut",
+    "fr": "Aspect de fureur du berserker"
+  },
+  "Aspect of Berserk Ripping": {
+    "de": "Aspekt des berserkerhaften Zerreißens",
+    "fr": "Aspect d’hémorragie du berserker"
+  },
+  "Aspect of Binding Embers": {
+    "de": "Aspekt der bindenden Glut",
+    "fr": "Aspect de braises entravantes"
+  },
+  "Aspect of Binding Morass": {
+    "de": "Aspekt des bindenden Morasts",
+    "fr": "Aspect de bourbier entravant"
+  },
+  "Aspect of Biting Cold": {
+    "de": "Aspekt der beißenden Kälte",
+    "fr": "Aspect de froid mordant"
+  },
+  "Aspect of Bitter Infection": {
+    "de": "Aspekt der bitteren Infektion",
+    "fr": "Aspect infectieux"
+  },
+  "Aspect of Branching Volleys": {
+    "de": "Aspekt der abzweigenden Salven",
+    "fr": "Aspect de dispersion"
+  },
+  "Aspect of Bristling Vengeance": {
+    "de": "Aspekt der dornigen Rache",
+    "fr": "Aspect de vengeance hérissée"
+  },
+  "Aspect of Bul-Kathos": {
+    "de": "Aspekt von Bul-Kathos",
+    "fr": "Aspect de Bul-Kathos"
+  },
+  "Aspect of Burning Rage": {
+    "de": "Aspekt der Brennenden Wut",
+    "fr": "Aspect de rage ardente"
+  },
+  "Aspect of Bursting Bones": {
+    "de": "Aspekt der berstenden Knochen",
+    "fr": "Aspect d’explosion osseuse"
+  },
+  "Aspect of Bursting Venoms": {
+    "de": "Aspekt der berstenden Gifte",
+    "fr": "Aspect de venin bouillonnant"
+  },
+  "Aspect of Charged Flash": {
+    "de": "Aspekt des aufgeladenen Blitzes",
+    "fr": "Aspect d’éclair chargé"
+  },
+  "Aspect of Combined Strikes": {
+    "de": "Aspekt der kombinierten Schläge",
+    "fr": "Aspect de frappes combinées"
+  },
+  "Aspect of Concentration": {
+    "de": "Aspekt der Konzentration",
+    "fr": "Aspect de concentration"
+  },
+  "Aspect of Concussive Strikes": {
+    "de": "Aspekt der erschütternden Schläge",
+    "fr": "Aspect de frappes traumatisantes"
+  },
+  "Aspect of Conflagration": {
+    "de": "Aspekt des Funkenschlags",
+    "fr": "Aspect de conflagration"
+  },
+  "Aspect of Contamination": {
+    "de": "Aspekt der Verseuchung",
+    "fr": "Aspect de contamination"
+  },
+  "Aspect of Control": {
+    "de": "Aspekt der Kontrolle",
+    "fr": "Aspect de contrôle"
+  },
+  "Aspect of Corruption": {
+    "de": "Aspekt der Verderbnis",
+    "fr": "Aspect de corruption"
+  },
+  "Aspect of Creeping Cadaver": {
+    "de": "Aspekt des kriechenden Kadavers",
+    "fr": "Aspect de cadavre insidieux"
+  },
+  "Aspect of Creeping Death": {
+    "de": "Aspekt des schleichenden Todes",
+    "fr": "Aspect de la mort insidieuse"
+  },
+  "Aspect of Creeping Mist": {
+    "de": "Aspekt des schleichenden Nebels",
+    "fr": "Aspect de brume insidieuse"
+  },
+  "Aspect of Cruel Sustenance": {
+    "de": "Aspekt der grausamen Versorgung",
+    "fr": "Aspect de subsistance cruelle"
+  },
+  "Aspect of Cyclonic Force": {
+    "de": "Aspekt der Zyklonmacht",
+    "fr": "Aspect de force cyclonique"
+  },
+  "Aspect of Decay": {
+    "de": "Aspekt des Verfalls",
+    "fr": "Aspect de délabrement"
+  },
+  "Aspect of Decaying Humerus": {
+    "de": "Aspekt des verfallenden Humerus",
+    "fr": "Aspect d’humérus putréfié"
+  },
+  "Aspect of Deflection": {
+    "de": "Aspekt der Ablenkung",
+    "fr": "Aspect de déviation"
+  },
+  "Aspect of Delayed Extinction": {
+    "de": "Aspekt des aufgeschobenen Aussterbens",
+    "fr": "Aspect d’extinction retardée"
+  },
+  "Aspect of Disobedience": {
+    "de": "Aspekt des Ungehorsams",
+    "fr": "Aspect de désobéissance"
+  },
+  "Aspect of Distilled Anima": {
+    "de": "Aspekt der destillierten Anima",
+    "fr": "Aspect d’anima distillée"
+  },
+  "Aspect of Earthquakes": {
+    "de": "Aspekt der Erdbeben",
+    "fr": "Aspect de tremblements de terre"
+  },
+  "Aspect of Efficiency": {
+    "de": "Aspekt der Effizienz",
+    "fr": "Aspect d’efficacité"
+  },
+  "Aspect of Electrified Claws": {
+    "de": "Aspekt der elektrischen Klauen",
+    "fr": "Aspect de griffes électriques"
+  },
+  "Aspect of Elemental Acuity": {
+    "de": "Aspekt der Elementarschärfe",
+    "fr": "Aspect d’acuité élémentaire"
+  },
+  "Aspect of Elemental Constellation": {
+    "de": "Aspekt der elementaren Konstellation",
+    "fr": "Aspect de constellation élémentaire"
+  },
+  "Aspect of Elements": {
+    "de": "Aspekt der Elemente",
+    "fr": "Aspect des éléments"
+  },
+  "Aspect of Elusive Menace": {
+    "de": "Aspekt der Flüchtigen Bedrohung",
+    "fr": "Aspect de menace insaisissable"
+  },
+  "Aspect of Empowered Feathers": {
+    "de": "Aspekt der verstärkten Federn",
+    "fr": "Aspect de plumage renforcé"
+  },
+  "Aspect of Empowering Reaper": {
+    "de": "Aspekt des stärkenden Seelenernters",
+    "fr": "Aspect de la faucheuse libératrice"
+  },
+  "Aspect of Encircling Blades": {
+    "de": "Aspekt der umkreisenden Klingen",
+    "fr": "Aspect de cercle de lames"
+  },
+  "Aspect of Encroaching Wrath": {
+    "de": "Aspekt des einnehmenden Zorns",
+    "fr": "Aspect de colère débordante"
+  },
+  "Aspect of Endless Talons": {
+    "de": "Aspekt der endlosen Klauen",
+    "fr": "Aspect des serres éternelles"
+  },
+  "Aspect of Endurance": {
+    "de": "Aspekt der Beständigkeit",
+    "fr": "Aspect d’endurance"
+  },
+  "Aspect of Engulfing Flames": {
+    "de": "Aspekt der verzehrenden Flammen",
+    "fr": "Aspect du brasier ardent"
+  },
+  "Aspect of Exhilaration": {
+    "de": "Aspekt des Hochgefühls",
+    "fr": "Aspect d’euphorie"
+  },
+  "Aspect of Explosive Mist": {
+    "de": "Aspekt des Explosiven Nebels",
+    "fr": "Aspect de brume explosive"
+  },
+  "Aspect of Explosive Verve": {
+    "de": "Aspekt des explosiven Schwungs",
+    "fr": "Aspect de verve explosive"
+  },
+  "Aspect of Exposed Flesh": {
+    "de": "Aspekt des entblößten Fleisches",
+    "fr": "Aspect de chair mise à nu"
+  },
+  "Aspect of Falling Feathers": {
+    "de": "Aspekt der fallenden Federn",
+    "fr": "Aspect de plumes tombantes"
+  },
+  "Aspect of Fel Gluttony": {
+    "de": "Aspekt der teuflischen Völlerei",
+    "fr": "Aspect d’appétit funeste"
+  },
+  "Aspect of Fevered Mauling": {
+    "de": "Aspekt des fieberhaften Anfallens",
+    "fr": "Aspect de mutilation enfiévrée"
+  },
+  "Aspect of Fierce Winds": {
+    "de": "Aspekt der peitschenden Winde",
+    "fr": "Aspect de vents violents"
+  },
+  "Aspect of Fleet Wings": {
+    "de": "Aspekt der flinken Flügel",
+    "fr": "Aspect de ruse ailée"
+  },
+  "Aspect of Forest Power": {
+    "de": "Aspekt der Waldstärke",
+    "fr": "Aspect de puissance des forêts"
+  },
+  "Aspect of Fortune": {
+    "de": "Aspekt der Gunst",
+    "fr": "Aspect de réussite"
+  },
+  "Aspect of Forward Momentum": {
+    "de": "Aspekt der Vorwärtsbewegung",
+    "fr": "Aspect d’élan en avant"
+  },
+  "Aspect of Frenzied Dead": {
+    "de": "Aspekt des rasenden Todes",
+    "fr": "Aspect des morts frénétiques"
+  },
+  "Aspect of Frosty Strides": {
+    "de": "Aspekt der Eisschritte",
+    "fr": "Aspect d’enjambées givrées"
+  },
+  "Aspect of Frozen Memories": {
+    "de": "Aspekt der gefrorenen Erinnerungen",
+    "fr": "Aspect des souvenirs de glace"
+  },
+  "Aspect of Frozen Orbit": {
+    "de": "Aspekt des gefrorenen Orbits",
+    "fr": "Aspect d’orbite gelée"
+  },
+  "Aspect of Giant Strides": {
+    "de": "Aspekt der Riesenschritte",
+    "fr": "Aspect de pas de géant"
+  },
+  "Aspect of Gore Quills": {
+    "de": "Aspekt der Blutstacheln",
+    "fr": "Aspect de pointes d’hémorragie"
+  },
+  "Aspect of Grasping Veins": {
+    "de": "Aspekt der greifenden Adern",
+    "fr": "Aspect des veines rapaces"
+  },
+  "Aspect of Grasping Whirlwind": {
+    "de": "Aspekt des packenden Wirbelwinds",
+    "fr": "Aspect de trombe centripète"
+  },
+  "Aspect of Hardened Bones": {
+    "de": "Aspekt der gehärteten Knochen",
+    "fr": "Aspect d’os durcis"
+  },
+  "Aspect of Haste": {
+    "de": "Aspekt der Hast",
+    "fr": "Aspect de hâte"
+  },
+  "Aspect of Herculean Spectacle": {
+    "de": "Aspekt des herkulischen Spektakels",
+    "fr": "Aspect de spectacle herculéen"
+  },
+  "Aspect of Hungry Blood": {
+    "de": "Aspekt des hungernden Blutes",
+    "fr": "Aspect de sang insatiable"
+  },
+  "Aspect of Imitated Imbuement": {
+    "de": "Aspekt der imitierten Infusion",
+    "fr": "Aspect d’imitation d’imprégnation"
+  },
+  "Aspect of Impending Deluge": {
+    "de": "Aspekt der hereinbrechenden Flut",
+    "fr": "Aspect du déluge imminent"
+  },
+  "Aspect of Incendiary Fissures": {
+    "de": "Aspekt der feurigen Spalten",
+    "fr": "Aspect de fissures incendiaires"
+  },
+  "Aspect of Inevitable Fate": {
+    "de": "Aspekt des unausweichlichen Schicksals",
+    "fr": "Aspect de destin inévitable"
+  },
+  "Aspect of Infestation": {
+    "de": "Aspekt des Befalls",
+    "fr": "Aspect d’infestation"
+  },
+  "Aspect of Inner Calm": {
+    "de": "Aspekt der inneren Ruhe",
+    "fr": "Aspect de calme intérieur"
+  },
+  "Aspect of Interdiction": {
+    "de": "Aspekt der Untersagung",
+    "fr": "Aspect d’interdiction"
+  },
+  "Aspect of Invigorating Will": {
+    "de": "Aspekt des kräftigenden Willens",
+    "fr": "Aspect de volonté revigorante"
+  },
+  "Aspect of Iron Rain": {
+    "de": "Aspekt des Eisernen Regens",
+    "fr": "Aspect de pluie de fer"
+  },
+  "Aspect of Kinetic Suppression": {
+    "de": "Aspekt der kinetischen Unterdrückung",
+    "fr": "Aspect de répression cinétique"
+  },
+  "Aspect of Layered Wards": {
+    "de": "Aspekt der vielschichtigen Schutze",
+    "fr": "Aspect de strates protectrices"
+  },
+  "Aspect of Lethal Dusk": {
+    "de": "Aspekt der tödlichen Dämmerung",
+    "fr": "Aspect de soir funeste"
+  },
+  "Aspect of Limitless Rage": {
+    "de": "Aspekt der Grenzenlosen Wut",
+    "fr": "Aspect de rage infinie"
+  },
+  "Aspect of Mending Stone": {
+    "de": "Aspekt des lindernden Steins",
+    "fr": "Aspect de pierre de guérison"
+  },
+  "Aspect of Metamorphic Stone": {
+    "de": "Aspekt des metamorphen Steins",
+    "fr": "Aspect de roche métamorphique"
+  },
+  "Aspect of Metamorphosis": {
+    "de": "Aspekt der Metamorphose",
+    "fr": "Aspect de métamorphose"
+  },
+  "Aspect of Might": {
+    "de": "Aspekt der Macht",
+    "fr": "Aspect de toute-puissance"
+  },
+  "Aspect of Mind's Awakening": {
+    "de": "Aspekt des erweckten Geistes",
+    "fr": "Aspect de l’éveil spirituel"
+  },
+  "Aspect of Momentum": {
+    "de": "Aspekt des Moments",
+    "fr": "Aspect d’inertie"
+  },
+  "Aspect of Natural Balance": {
+    "de": "Aspekt des natürlichen Gleichgewichts",
+    "fr": "Aspect d’équilibre naturel"
+  },
+  "Aspect of Nature's Savagery": {
+    "de": "Aspekt der Naturgewalt",
+    "fr": "Aspect de la nature sauvage"
+  },
+  "Aspect of Nebulous Brews": {
+    "de": "Aspekt der nebulösen Gebräue",
+    "fr": "Aspect de brassage nébuleux"
+  },
+  "Aspect of Noxious Ice": {
+    "de": "Aspekt des Giftigen Eises",
+    "fr": "Aspect de glace toxique"
+  },
+  "Aspect of Numbing Wrath": {
+    "de": "Aspekt des betäubenden Zorns",
+    "fr": "Aspect de colère anesthésiante"
+  },
+  "Aspect of Occult Dominion": {
+    "de": "Aspekt der okkulten Herrschaft",
+    "fr": "Aspect de domination occulte"
+  },
+  "Aspect of Overheating": {
+    "de": "Aspekt der Überhitzung",
+    "fr": "Aspect de surchauffe"
+  },
+  "Aspect of Overwhelming Currents": {
+    "de": "Aspekt der überwältigenden Strömung",
+    "fr": "Aspect des courants accablants"
+  },
+  "Aspect of Perpetual Stomping": {
+    "de": "Aspekt des beständigen Stampfens",
+    "fr": "Aspect de piétinement perpétuel"
+  },
+  "Aspect of Pestilence": {
+    "de": "Aspekt der Pestilenz",
+    "fr": "Aspect de pestilence"
+  },
+  "Aspect of Pestilent Points": {
+    "de": "Aspekt der Seuchenspitzen",
+    "fr": "Aspect de poinçons pestilentiels"
+  },
+  "Aspect of Piercing Cold": {
+    "de": "Aspekt der schneidenden Kälte",
+    "fr": "Aspect de froid pénétrant"
+  },
+  "Aspect of Piercing Static": {
+    "de": "Aspekt der durchdringenden Statik",
+    "fr": "Aspect de courant perçant"
+  },
+  "Aspect of Plains Power": {
+    "de": "Aspekt der Ebenenstärke",
+    "fr": "Aspect de puissance des plaines"
+  },
+  "Aspect of Plunging Darkness": {
+    "de": "Aspekt der einbrechenden Dunkelheit",
+    "fr": "Aspect des ténèbres descendantes"
+  },
+  "Aspect of Poisonous Clouds": {
+    "de": "Aspekt der Giftwolken",
+    "fr": "Aspect de miasmes toxiques"
+  },
+  "Aspect of Potent Blood": {
+    "de": "Aspekt des mächtigen Blutes",
+    "fr": "Aspect de sang tout-puissant"
+  },
+  "Aspect of Potent Exchange": {
+    "de": "Aspekt des potenten Austauschs",
+    "fr": "Aspect d’échange marquant"
+  },
+  "Aspect of Quickening Fog": {
+    "de": "Aspekt des stimulierenden Nebels",
+    "fr": "Aspect de la brume vivace"
+  },
+  "Aspect of Quicksand": {
+    "de": "Aspekt des Treibsands",
+    "fr": "Aspect de sables mouvants"
+  },
+  "Aspect of Rallying Reversal": {
+    "de": "Aspekt des sammelnden Konters",
+    "fr": "Aspect de revers mobilisateur"
+  },
+  "Aspect of Rathma's Chosen": {
+    "de": "Aspekt der Auserwählten Rathmas",
+    "fr": "Aspect de l’émissaire de Rathma"
+  },
+  "Aspect of Reactive Armor": {
+    "de": "Aspekt der reaktiven Rüstung",
+    "fr": "Aspect d’armure réactive"
+  },
+  "Aspect of Reanimation": {
+    "de": "Aspekt der Reanimation",
+    "fr": "Aspect de réanimation"
+  },
+  "Aspect of Recalling Feathers": {
+    "de": "Aspekt der heimkehrenden Federn",
+    "fr": "Aspect de plumes mémorielles"
+  },
+  "Aspect of Redirected Force": {
+    "de": "Aspekt der umgelenkten Macht",
+    "fr": "Aspect de force détournée"
+  },
+  "Aspect of Retaliation": {
+    "de": "Aspekt der Rachsucht",
+    "fr": "Aspect de représailles"
+  },
+  "Aspect of Retribution": {
+    "de": "Aspekt der Vergeltung",
+    "fr": "Aspect de vindicte"
+  },
+  "Aspect of Searing Wards": {
+    "de": "Aspekt des sengenden Schutzes",
+    "fr": "Aspect de protections ardentes"
+  },
+  "Aspect of Serration": {
+    "de": "Aspekt der Verzahnung",
+    "fr": "Aspect de dents de scie"
+  },
+  "Aspect of Service and Sacrifice": {
+    "de": "Aspekt des Dienstes und der Opfer",
+    "fr": "Aspect de servitude et sacrifice"
+  },
+  "Aspect of Shared Misery": {
+    "de": "Aspekt des geteilten Leids",
+    "fr": "Aspect de misère partagée"
+  },
+  "Aspect of Shattered Defenses": {
+    "de": "Aspekt der gebrochenen Verteidigung",
+    "fr": "Aspect de défenses fracassées"
+  },
+  "Aspect of Shattered Stars": {
+    "de": "Aspekt der zerborstenen Sterne",
+    "fr": "Aspect d’étoiles brisées"
+  },
+  "Aspect of Shattering Steel": {
+    "de": "Aspekt des berstenden Stahls",
+    "fr": "Aspect de fragments d’acier"
+  },
+  "Aspect of Shielding Storm": {
+    "de": "Aspekt des schützenden Sturms",
+    "fr": "Aspect de la tempête protectrice"
+  },
+  "Aspect of Shredding Blades": {
+    "de": "Aspekt der zerfetzenden Klingen",
+    "fr": "Aspect de lames déchirantes"
+  },
+  "Aspect of Simple Reprisal": {
+    "de": "Aspekt der einfachen Vergeltung",
+    "fr": "Aspect de simples représailles"
+  },
+  "Aspect of Singed Extremities": {
+    "de": "Aspekt der versengten Extremitäten",
+    "fr": "Aspect d’extrémités roussies"
+  },
+  "Aspect of Siphoned Victuals": {
+    "de": "Aspekt der abgeschöpften Verpflegung",
+    "fr": "Aspect de vivres siphonnées"
+  },
+  "Aspect of Sky Power": {
+    "de": "Aspekt der Himmelsstärke",
+    "fr": "Aspect de puissance des cieux"
+  },
+  "Aspect of Slaughter": {
+    "de": "Aspekt des Abschlachtens",
+    "fr": "Aspect de carnage"
+  },
+  "Aspect of Sly Steps": {
+    "de": "Aspekt der heimlichen Schritte",
+    "fr": "Aspect d’approche sournoise"
+  },
+  "Aspect of Soil Power": {
+    "de": "Aspekt der Bodenstärke",
+    "fr": "Aspect de puissance du sol"
+  },
+  "Aspect of Splintering Energy": {
+    "de": "Aspekt der zersplitternden Energie",
+    "fr": "Aspect des esquilles d’énergie"
+  },
+  "Aspect of Splintering Shards": {
+    "de": "Aspekt der zersplitternden Scherben",
+    "fr": "Aspect d’éclats dispersés"
+  },
+  "Aspect of Star Shards": {
+    "de": "Aspekt der Sternensplitter",
+    "fr": "Aspect de fragments stellaires"
+  },
+  "Aspect of Stolen Vigor": {
+    "de": "Aspekt des geraubten Elans",
+    "fr": "Aspect de vigueur dérobée"
+  },
+  "Aspect of Sundered Ground": {
+    "de": "Aspekt des gebrochenen Bodens",
+    "fr": "Aspect de terre scindée"
+  },
+  "Aspect of Surprise": {
+    "de": "Aspekt der Überraschung",
+    "fr": "Aspect de surprise"
+  },
+  "Aspect of Swelling Curse": {
+    "de": "Aspekt des schwellenden Fluchs",
+    "fr": "Aspect de la malédiction grandissante"
+  },
+  "Aspect of Synergy": {
+    "de": "Aspekt der Synergie",
+    "fr": "Aspect de synergie"
+  },
+  "Aspect of Tempering Blows": {
+    "de": "Aspekt der härtenden Schläge",
+    "fr": "Aspect de coups calculés"
+  },
+  "Aspect of Temporal Incisions": {
+    "de": "Aspekt der zeitweiligen Schnitte",
+    "fr": "Aspect d’incisions temporelles"
+  },
+  "Aspect of Tenacity": {
+    "de": "Aspekt der Hartnäckigkeit",
+    "fr": "Aspect de ténacité"
+  },
+  "Aspect of Tenuous Agility": {
+    "de": "Aspekt der heiklen Wendigkeit",
+    "fr": "Aspect d’agilité précaire"
+  },
+  "Aspect of Tenuous Destruction": {
+    "de": "Aspekt der schwachen Zerstörung",
+    "fr": "Aspect de destruction précaire"
+  },
+  "Aspect of The Aftershock": {
+    "de": "Aspekt des Nachbebens",
+    "fr": "Aspect de la réplique"
+  },
+  "Aspect of Three Curses": {
+    "de": "Aspekt der drei Flüche",
+    "fr": "Aspect des trois sortilèges"
+  },
+  "Aspect of Torment": {
+    "de": "Aspekt der Qual",
+    "fr": "Aspect de tourment"
+  },
+  "Aspect of True Sight": {
+    "de": "Aspekt der wahren Sicht",
+    "fr": "Aspect de vue perçante"
+  },
+  "Aspect of Turbulence": {
+    "de": "Aspekt der Turbulenz",
+    "fr": "Aspect de turbulence"
+  },
+  "Aspect of Ultimate Shadow": {
+    "de": "Aspekt des Ultimativen Schattens",
+    "fr": "Aspect d’ombre ultime"
+  },
+  "Aspect of Uncanny Treachery": {
+    "de": "Aspekt des unheimlichen Verrats",
+    "fr": "Aspect de traîtrise inouïe"
+  },
+  "Aspect of Unstable Imbuements": {
+    "de": "Aspekt der instabilen Infusionen",
+    "fr": "Aspect d’imprégnations instables"
+  },
+  "Aspect of Untimely Death": {
+    "de": "Aspekt des frühzeitigen Todes",
+    "fr": "Aspect de mort inopinée"
+  },
+  "Aspect of Unyielding Hits": {
+    "de": "Aspekt der unnachgiebigen Treffer",
+    "fr": "Aspect de coups inflexibles"
+  },
+  "Aspect of Vocalized Empowerment": {
+    "de": "Aspekt der ausgesprochenen Ermächtigung",
+    "fr": "Aspect de renforcement exprimé"
+  },
+  "Aspect of Volatile Shadows": {
+    "de": "Aspekt der flüchtigen Schatten",
+    "fr": "Aspect d’ombres volatiles"
+  },
+  "Aspect of Voracious Rage": {
+    "de": "Aspekt der unersättlichen Rage",
+    "fr": "Aspect de rage vorace"
+  },
+  "Aspect of Wild Claws": {
+    "de": "Aspekt der wilden Klauen",
+    "fr": "Aspect de griffes indomptables"
+  },
+  "Aspect of Wolf's Rain": {
+    "de": "Aspekt des Wolfssturms",
+    "fr": "Aspect de pluie lupine"
+  },
+  "Aspect of the Agile Wolf": {
+    "de": "Aspekt des agilen Wolfs",
+    "fr": "Aspect du loup agile"
+  },
+  "Aspect of the Alpha": {
+    "de": "Aspekt des Alphas",
+    "fr": "Aspect de l’alpha"
+  },
+  "Aspect of the Blurred Beast": {
+    "de": "Aspekt der verschwommenen Bestie",
+    "fr": "Aspect de la bête trouble"
+  },
+  "Aspect of the Bounding Conduit": {
+    "de": "Aspekt der zügigen Verbindung",
+    "fr": "Aspect de conduction bondissante"
+  },
+  "Aspect of the Calm Breeze": {
+    "de": "Aspekt der sanften Brise",
+    "fr": "Aspect de la brise légère"
+  },
+  "Aspect of the Changeling's Debt": {
+    "de": "Aspekt der Schuld des Wechselbalgs",
+    "fr": "Aspect de la dette du métamorphe"
+  },
+  "Aspect of the Crowded Sage": {
+    "de": "Aspekt des umringten Weisen",
+    "fr": "Aspect de sagesse par le nombre"
+  },
+  "Aspect of the Cursed Aura": {
+    "de": "Aspekt der verfluchten Aura",
+    "fr": "Aspect d’aura maudite"
+  },
+  "Aspect of the Damned": {
+    "de": "Aspekt der Verdammten",
+    "fr": "Aspect des damnés"
+  },
+  "Aspect of the Dark Dance": {
+    "de": "Aspekt des dunklen Tanzes",
+    "fr": "Aspect de la sombre danse"
+  },
+  "Aspect of the Dark Howl": {
+    "de": "Aspekt des dunklen Heulens",
+    "fr": "Aspect du sombre hurlement"
+  },
+  "Aspect of the Deflecting Barrier": {
+    "de": "Aspekt der ablenkenden Barriere",
+    "fr": "Aspect de barrière réfléchissante"
+  },
+  "Aspect of the Dire Whirlwind": {
+    "de": "Aspekt des schrecklichen Wirbelwinds",
+    "fr": "Aspect de trombe mortelle"
+  },
+  "Aspect of the Embalmer": {
+    "de": "Aspekt des Einbalsamierens",
+    "fr": "Aspect d’embaumement"
+  },
+  "Aspect of the Expectant": {
+    "de": "Aspekt der Erwartungsvollen",
+    "fr": "Aspect de l’attente"
+  },
+  "Aspect of the Firebird": {
+    "de": "Aspekt des Feuervogels",
+    "fr": "Aspect d’oiseau de feu"
+  },
+  "Aspect of the Flaming Rampage": {
+    "de": "Aspekt der brennenden Tobsucht",
+    "fr": "Aspect d’incendie dévastateur"
+  },
+  "Aspect of the Fortress": {
+    "de": "Aspekt der Festung",
+    "fr": "Aspect de la forteresse"
+  },
+  "Aspect of the Frozen Tundra": {
+    "de": "Aspekt der gefrorenen Tundra",
+    "fr": "Aspect de la toundra Glacée"
+  },
+  "Aspect of the Frozen Wake": {
+    "de": "Aspekt des Gefrorenen Sogs",
+    "fr": "Aspect du sillage glacial"
+  },
+  "Aspect of the Great Feast": {
+    "de": "Aspekt des großen Festmahls",
+    "fr": "Aspect du grand festin"
+  },
+  "Aspect of the Iron Warrior": {
+    "de": "Aspekt des eisernen Kriegers",
+    "fr": "Aspect de défense de fer"
+  },
+  "Aspect of the Long Shadow": {
+    "de": "Aspekt des langen Schattens",
+    "fr": "Aspect de l’ombre éternelle"
+  },
+  "Aspect of the Moonrise": {
+    "de": "Aspekt des Mondaufgangs",
+    "fr": "Aspect du crépuscule"
+  },
+  "Aspect of the Orange Herald": {
+    "de": "Aspekt des orangefarbenen Herolds",
+    "fr": "Aspect de héraut orange"
+  },
+  "Aspect of the Protector": {
+    "de": "Aspekt des Beschützers",
+    "fr": "Aspect du Protecteur"
+  },
+  "Aspect of the Prudent Heart": {
+    "de": "Aspekt des besonnenen Herzens",
+    "fr": "Aspect du cœur prudent"
+  },
+  "Aspect of the Rabid Bear": {
+    "de": "Aspekt des tollwütigen Bären",
+    "fr": "Aspect de l’ours enragé"
+  },
+  "Aspect of the Rampaging Werebeast": {
+    "de": "Aspekt der tobenden Werbestie",
+    "fr": "Aspect de la bête humaine enragée"
+  },
+  "Aspect of the Relentless Armsmaster": {
+    "de": "Aspekt des unerbittlichen Waffenmeisters",
+    "fr": "Aspect du maître d’armes intransigeant"
+  },
+  "Aspect of the Rushing Wilds": {
+    "de": "Aspekt der rauschenden Wildnis",
+    "fr": "Aspect de sauvagerie précipitée"
+  },
+  "Aspect of the Stampede": {
+    "de": "Aspekt der Stampede",
+    "fr": "Aspect de cavalcade"
+  },
+  "Aspect of the Tempest": {
+    "de": "Aspekt des wütenden Sturms",
+    "fr": "Aspect de la tempête"
+  },
+  "Aspect of the Trampled Earth": {
+    "de": "Aspekt der zertrampelten Erde",
+    "fr": "Aspect de la terre piétinée"
+  },
+  "Aspect of the Umbral": {
+    "de": "Aspekt des Schattens",
+    "fr": "Aspect de l’ombre"
+  },
+  "Aspect of the Unbroken Tether": {
+    "de": "Aspekt der ungebrochenen Kette",
+    "fr": "Aspect du lien intact"
+  },
+  "Aspect of the Unholy Tether": {
+    "de": "Aspekt der unheiligen Fesseln",
+    "fr": "Aspect du lien impie"
+  },
+  "Aspect of the Unsatiated": {
+    "de": "Aspekt der Unersättlichen",
+    "fr": "Aspect de l’insatiable"
+  },
+  "Aspect of the Unwavering": {
+    "de": "Aspekt des Unerschütterlichen",
+    "fr": "Aspect de l’inébranlable"
+  },
+  "Aspect of the Ursine Horror": {
+    "de": "Aspekt des Bärenschreckens",
+    "fr": "Aspect de la terreur ursine"
+  },
+  "Aspect of the Void": {
+    "de": "Aspekt der Leere",
+    "fr": "Aspect du vide"
+  },
+  "Aspect of the Wildrage": {
+    "de": "Aspekt des Wildzorns",
+    "fr": "Aspect de sauvagerie"
+  },
+  "Assimilation": {
+    "de": "Assimilierender",
+    "fr": "Assimilation"
+  },
+  "Assimilation Aspect": {
+    "de": "Aspekt: Assimilierender",
+    "fr": "Aspect d’assimilation"
+  },
+  "Assistance": {
+    "de": "Assistenz",
+    "fr": "Assistance"
+  },
+  "Audacity": {
+    "de": "Kühnheit",
+    "fr": "Audace"
+  },
+  "Avoidance": {
+    "de": "Vermeidung",
+    "fr": "Évitement"
+  },
+  "Balanced": {
+    "de": "Ausbalancierter",
+    "fr": "Équilibré"
+  },
+  "Balanced Aspect": {
+    "de": "Aspekt: Ausbalancierter",
+    "fr": "Aspect équilibré"
+  },
+  "Ballistic": {
+    "de": "Ballistischer",
+    "fr": "Balistique"
+  },
+  "Ballistic Aspect": {
+    "de": "Aspekt: Ballistischer",
+    "fr": "Aspect balistique"
+  },
+  "Battle Caster's": {
+    "de": "Des Kampfmagiers",
+    "fr": "Sorcellerie de combat"
+  },
+  "Battle Caster's Aspect": {
+    "de": "Aspekt: Des Kampfmagiers",
+    "fr": "Aspect de sorcellerie de combat"
+  },
+  "Battle-Mad": {
+    "de": "Kampfwütiger",
+    "fr": "Folie guerrière"
+  },
+  "Battle-Mad Aspect": {
+    "de": "Aspekt: Kampfwütiger",
+    "fr": "Aspect de folie guerrière"
+  },
+  "Bear Clan Berserker's": {
+    "de": "Bärenklan-Berserkers",
+    "fr": "Berserker de l’Ours"
+  },
+  "Bear Clan Berserker's Aspect": {
+    "de": "Aspekt: Bärenklan-Berserkers",
+    "fr": "Aspect du berserker de l’Ours"
+  },
+  "Berserk Fury": {
+    "de": "Berserkerwut",
+    "fr": "Fureur du berserker"
+  },
+  "Berserk Ripping": {
+    "de": "Aspekt des berserkerhaften Zerreißens",
+    "fr": "Hémorragie du berserker"
+  },
+  "Binding Embers": {
+    "de": "bindenden Glut",
+    "fr": "Braises entravantes"
+  },
+  "Binding Morass": {
+    "de": "Aspekt des bindenden Morasts",
+    "fr": "Bourbier entravant"
+  },
+  "Biting Cold": {
+    "de": "beißenden Kälte",
+    "fr": "Froid mordant"
+  },
+  "Bitter Infection": {
+    "de": "bitteren Infektion",
+    "fr": "Infectieux"
+  },
+  "Bladedancer's": {
+    "de": "Klingentanzender",
+    "fr": "Danse des lames"
+  },
+  "Bladedancer's Aspect": {
+    "de": "Aspekt: Klingentanzender",
+    "fr": "Aspect de la danse des lames"
+  },
+  "Blast-Trapper's": {
+    "de": "Sprengfallenstellender",
+    "fr": "Piège explosif"
+  },
+  "Blast-Trapper's Aspect": {
+    "de": "Aspekt: Sprengfallenstellender",
+    "fr": "Aspect de piège explosif"
+  },
+  "Blighted": {
+    "de": "Verpesteter",
+    "fr": "Putrescent"
+  },
+  "Blighted Aspect": {
+    "de": "Aspekt: Verpesteter",
+    "fr": "Aspect putrescent"
+  },
+  "Blood Boiling": {
+    "de": "Hitzblütiger",
+    "fr": "Sang bouillonnant"
+  },
+  "Blood Boiling Aspect": {
+    "de": "Aspekt: Hitzblütiger",
+    "fr": "Aspect de sang bouillonnant"
+  },
+  "Blood Getter's": {
+    "de": "Blutholender",
+    "fr": "Cherche-sangs"
+  },
+  "Blood Getter's Aspect": {
+    "de": "Aspekt: Blutholender",
+    "fr": "Aspect des cherche-sangs"
+  },
+  "Blood Seeker's": {
+    "de": "Blutsuchender",
+    "fr": "Traqueur de sang"
+  },
+  "Blood Seeker's Aspect": {
+    "de": "Aspekt: Blutsuchender",
+    "fr": "Aspect du traqueur de sang"
+  },
+  "Blood-bathed": {
+    "de": "Blutgebadeter",
+    "fr": "Baigné de sang"
+  },
+  "Blood-bathed Aspect": {
+    "de": "Aspekt: Blutgebadeter",
+    "fr": "Aspect baigné de sang"
+  },
+  "Blood-soaked": {
+    "de": "Blutgetränkter",
+    "fr": "Bain de sang"
+  },
+  "Blood-soaked Aspect": {
+    "de": "Aspekt: Blutgetränkter",
+    "fr": "Aspect de bain de sang"
+  },
+  "Blurred Beast": {
+    "de": "verschwommenen Bestie",
+    "fr": "Bête trouble"
+  },
+  "Bold Chieftain's": {
+    "de": "Schlachthäuptlings",
+    "fr": "Chef de guerre"
+  },
+  "Bold Chieftain's Aspect": {
+    "de": "Aspekt: Schlachthäuptlings",
+    "fr": "Aspect du chef de guerre"
+  },
+  "Bone Duster's": {
+    "de": "Knochenzerstäubender",
+    "fr": "Désossement"
+  },
+  "Bone Duster's Aspect": {
+    "de": "Aspekt: Knochenzerstäubender",
+    "fr": "Aspect de désossement"
+  },
+  "Bounding Conduit": {
+    "de": "zügigen Verbindung",
+    "fr": "Conduction bondissante"
+  },
+  "Branching Volleys": {
+    "de": "abzweigenden Salven",
+    "fr": "Dispersion"
+  },
+  "Brawler's": {
+    "de": "Rauffreudiger",
+    "fr": "Combat"
+  },
+  "Brawler's Aspect": {
+    "de": "Aspekt: Rauffreudiger",
+    "fr": "Aspect du combat"
+  },
+  "Breakneck Bandit's": {
+    "de": "Halsbrecherischer",
+    "fr": "Banditisme téméraire"
+  },
+  "Breakneck Bandit's Aspect": {
+    "de": "Aspekt: Halsbrecherischer",
+    "fr": "Aspect de banditisme téméraire"
+  },
+  "Bristleback": {
+    "de": "Kratzbürstiger",
+    "fr": "Hérissé"
+  },
+  "Bristleback Aspect": {
+    "de": "Aspekt: Kratzbürstiger",
+    "fr": "Aspect hérissé"
+  },
+  "Bristling Vengeance": {
+    "de": "dornigen Rache",
+    "fr": "Vengeance hérissée"
+  },
+  "Bruiser's": {
+    "de": "Prellender",
+    "fr": "Solidité"
+  },
+  "Bruiser's Aspect": {
+    "de": "Aspekt: Prellender",
+    "fr": "Aspect de solidité"
+  },
+  "Bul-Kathos": {
+    "de": "Aspekt von Bul-Kathos",
+    "fr": "Bul-Kathos"
+  },
+  "Burning Rage": {
+    "de": "Brennenden Wut",
+    "fr": "Rage ardente"
+  },
+  "Bursting Bones": {
+    "de": "berstenden Knochen",
+    "fr": "Explosion osseuse"
+  },
+  "Bursting Venoms": {
+    "de": "berstenden Gifte",
+    "fr": "Venin bouillonnant"
+  },
+  "Cadaverous": {
+    "de": "Leichenhafter",
+    "fr": "Cadavérique"
+  },
+  "Cadaverous Aspect": {
+    "de": "Aspekt: Leichenhafter",
+    "fr": "Aspect cadavérique"
+  },
+  "Calm Breeze": {
+    "de": "sanften Brise",
+    "fr": "Brise légère"
+  },
+  "Changeling's Debt": {
+    "de": "Schuld des Wechselbalgs",
+    "fr": "Dette du métamorphe"
+  },
+  "Charged": {
+    "de": "Geladener",
+    "fr": "Chargé"
+  },
+  "Charged Aspect": {
+    "de": "Aspekt: Geladener",
+    "fr": "Aspect chargé"
+  },
+  "Charged Flash": {
+    "de": "Aspekt des aufgeladenen Blitzes",
+    "fr": "Éclair chargé"
+  },
+  "Cheat's": {
+    "de": "Betrügender",
+    "fr": "Tromperie"
+  },
+  "Cheat's Aspect": {
+    "de": "Aspekt: Betrügender",
+    "fr": "Aspect de tromperie"
+  },
+  "Clandestine": {
+    "de": "Verborgener",
+    "fr": "Clandestinité"
+  },
+  "Clandestine Aspect": {
+    "de": "Aspekt: Verborgener",
+    "fr": "Aspect Clandestinité"
+  },
+  "Coldbringer's": {
+    "de": "Kältebringender",
+    "fr": "Porte-froid"
+  },
+  "Coldbringer's Aspect": {
+    "de": "Aspekt: Kältebringender",
+    "fr": "Aspect du porte-froid"
+  },
+  "Coldclip": {
+    "de": "Eisgriffs",
+    "fr": "Froid mordant"
+  },
+  "Coldclip Aspect": {
+    "de": "Aspekt: Eisgriffs",
+    "fr": "Aspect de froid mordant"
+  },
+  "Combined Strikes": {
+    "de": "kombinierten Schläge",
+    "fr": "Frappes combinées"
+  },
+  "Conceited": {
+    "de": "Eitler",
+    "fr": "Arrogance"
+  },
+  "Conceited Aspect": {
+    "de": "Aspekt: Eitler",
+    "fr": "Aspect d’arrogance"
+  },
+  "Concentration": {
+    "de": "Konzentration",
+    "fr": "Concentration"
+  },
+  "Concussive Strikes": {
+    "de": "erschütternden Schläge",
+    "fr": "Frappes traumatisantes"
+  },
+  "Conflagration": {
+    "de": "Aspekt des Funkenschlags",
+    "fr": "Conflagration"
+  },
+  "Control": {
+    "de": "Kontrolle",
+    "fr": "Contrôle"
+  },
+  "Corruption": {
+    "de": "Verderbnis",
+    "fr": "Corruption"
+  },
+  "Crashstone": {
+    "de": "Steinbrüchiger",
+    "fr": "Roche écrasante"
+  },
+  "Crashstone Aspect": {
+    "de": "Aspekt: Steinbrüchiger",
+    "fr": "Aspect de roche écrasante"
+  },
+  "Craven": {
+    "de": "Feiger",
+    "fr": "Lâche"
+  },
+  "Craven Aspect": {
+    "de": "Aspekt: Feiger",
+    "fr": "Aspect lâche"
+  },
+  "Creeping Death": {
+    "de": "Aspekt des schleichenden Todes",
+    "fr": "Mort insidieuse"
+  },
+  "Creeping Mist": {
+    "de": "Aspekt des schleichenden Nebels",
+    "fr": "Brume insidieuse"
+  },
+  "Crowded Sage": {
+    "de": "Aspekt des umringten Weisen",
+    "fr": "Sagesse par le nombre"
+  },
+  "Cruel Sustenance": {
+    "de": "grausamen Versorgung",
+    "fr": "Subsistance cruelle"
+  },
+  "Cursed Aura": {
+    "de": "Verfluchte Aura",
+    "fr": "Aura maudite"
+  },
+  "Cyclonic Force": {
+    "de": "Zyklonmacht",
+    "fr": "Force cyclonique"
+  },
+  "Damned": {
+    "de": "Verdammten",
+    "fr": "Damnés"
+  },
+  "Dark Dance": {
+    "de": "dunklen Tanzes",
+    "fr": "Sombre danse"
+  },
+  "Dark Dance Aspect": {
+    "de": "Aspekt des dunklen Tanzes",
+    "fr": "Aspect de la sombre danse"
+  },
+  "Dark Howl": {
+    "de": "Aspekt des dunklen Heulens",
+    "fr": "Sombre hurlement"
+  },
+  "Death Wish": {
+    "de": "Todessehnsüchtiger",
+    "fr": "Pulsion de mort"
+  },
+  "Death Wish Aspect": {
+    "de": "Aspekt: Todessehnsüchtiger",
+    "fr": "Aspect de pulsion de mort"
+  },
+  "Decay": {
+    "de": "Aspekt des Verfalls",
+    "fr": "Délabrement"
+  },
+  "Deflecting Barrier": {
+    "de": "ablenkenden Barriere",
+    "fr": "Barrière réfléchissante"
+  },
+  "Deflection": {
+    "de": "Ablenkung",
+    "fr": "Déviation"
+  },
+  "Devilish": {
+    "de": "Teuflischer",
+    "fr": "Diabolique"
+  },
+  "Devilish Aspect": {
+    "de": "Aspekt: Teuflischer",
+    "fr": "Aspect diabolique"
+  },
+  "Dire Whirlwind": {
+    "de": "Aspekt des schrecklichen Wirbelwinds",
+    "fr": "Trombe mortelle"
+  },
+  "Dire Wolf's": {
+    "de": "Wölfischer",
+    "fr": "Loup féroce"
+  },
+  "Dire Wolf's Aspect": {
+    "de": "Aspekt: Wölfischer",
+    "fr": "Aspect de loup féroce"
+  },
+  "Disobedience": {
+    "de": "Aspekt des Ungehorsams",
+    "fr": "Désobéissance"
+  },
+  "Distilled Anima": {
+    "de": "destillierten Anima",
+    "fr": "Anima distillée"
+  },
+  "Duelist's": {
+    "de": "Duellierender",
+    "fr": "Duel"
+  },
+  "Duelist's Aspect": {
+    "de": "Aspekt: Duellierender",
+    "fr": "Aspect de duel"
+  },
+  "Dust Devil's": {
+    "de": "Staubteufels",
+    "fr": "Tourbillon de poussière"
+  },
+  "Dust Devil's Aspect": {
+    "de": "Aspekt: Staubteufels",
+    "fr": "Aspect du tourbillon de poussière"
+  },
+  "Earthguard": {
+    "de": "Erdschützender",
+    "fr": "Garde-terre"
+  },
+  "Earthguard Aspect": {
+    "de": "Aspekt: Erdschützender",
+    "fr": "Aspect de garde-terre"
+  },
+  "Earthquakes": {
+    "de": "Erdbeben",
+    "fr": "Tremblements de terre"
+  },
+  "Earthstriker's": {
+    "de": "Erdwüters",
+    "fr": "Frappe-terre"
+  },
+  "Earthstriker's Aspect": {
+    "de": "Aspekt: Erdwüters",
+    "fr": "Aspect du frappe-terre"
+  },
+  "Edgemaster's": {
+    "de": "Klingenmeisters",
+    "fr": "Funambule"
+  },
+  "Edgemaster's Aspect": {
+    "de": "Aspekt: Klingenmeisters",
+    "fr": "Aspect de funambule"
+  },
+  "Efficiency": {
+    "de": "Effizienz",
+    "fr": "Efficacité"
+  },
+  "Electrified Claws": {
+    "de": "elektrischen Klauen",
+    "fr": "Griffes électriques"
+  },
+  "Elemental Acuity": {
+    "de": "Elementarschärfe",
+    "fr": "Acuité élémentaire"
+  },
+  "Elemental Constellation": {
+    "de": "elementaren Konstellation",
+    "fr": "Constellation élémentaire"
+  },
+  "Elementalist's": {
+    "de": "Elementarer",
+    "fr": "Élémentaliste"
+  },
+  "Elementalist's Aspect": {
+    "de": "Aspekt: Elementarer",
+    "fr": "Aspect d’élémentaliste"
+  },
+  "Elements": {
+    "de": "Elemente",
+    "fr": "Éléments"
+  },
+  "Eluding": {
+    "de": "Entwischender",
+    "fr": "Élusif"
+  },
+  "Eluding Aspect": {
+    "de": "Aspekt: Entwischender",
+    "fr": "Aspect élusif"
+  },
+  "Elusive Menace": {
+    "de": "Flüchtigen Bedrohung",
+    "fr": "Menace insaisissable"
+  },
+  "Embalmer": {
+    "de": "Einbalsamieren",
+    "fr": "Embaumement"
+  },
+  "Embalmer Aspect": {
+    "de": "Aspekt des Einbalsamierens",
+    "fr": "Aspect d’embaumement"
+  },
+  "Empowered Feathers": {
+    "de": "verstärkten Federn",
+    "fr": "Plumage renforcé"
+  },
+  "Empowering Reaper": {
+    "de": "Aspekt des stärkenden Seelenernters",
+    "fr": "Faucheuse libératrice"
+  },
+  "Encased": {
+    "de": "Umhüllter",
+    "fr": "Verglacé"
+  },
+  "Encased Aspect": {
+    "de": "Aspekt: Umhüllter",
+    "fr": "Aspect verglacé"
+  },
+  "Encircling Blades": {
+    "de": "umkreisenden Klingen",
+    "fr": "Cercle de lames"
+  },
+  "Encroaching Wrath": {
+    "de": "Aspekt des einnehmenden Zorns",
+    "fr": "Colère débordante"
+  },
+  "Endless Talons": {
+    "de": "endlosen Klauen",
+    "fr": "Serres éternelles"
+  },
+  "Endurance": {
+    "de": "Beständigkeit",
+    "fr": "Endurance"
+  },
+  "Energizing": {
+    "de": "Energiespendender",
+    "fr": "Énergisant"
+  },
+  "Energizing Aspect": {
+    "de": "Aspekt: Energiespendender",
+    "fr": "Aspect énergisant"
+  },
+  "Engulfing Flames": {
+    "de": "verzehrenden Flammen",
+    "fr": "Brasier ardent"
+  },
+  "Enshrouding": {
+    "de": "Verhüllender",
+    "fr": "Embrumé"
+  },
+  "Enshrouding Aspect": {
+    "de": "Aspekt: Verhüllender",
+    "fr": "Aspect embrumé"
+  },
+  "Escape Artist's": {
+    "de": "Entfesselnder",
+    "fr": "Maître de l’évasion"
+  },
+  "Escape Artist's Aspect": {
+    "de": "Aspekt: Entfesselnder",
+    "fr": "Aspect de maître de l’évasion"
+  },
+  "Everliving": {
+    "de": "Ewiglebender",
+    "fr": "Perpétuel"
+  },
+  "Everliving Aspect": {
+    "de": "Aspekt: Ewiglebender",
+    "fr": "Aspect perpétuel"
+  },
+  "Executioner's": {
+    "de": "Scharfrichters",
+    "fr": "Bourreau"
+  },
+  "Executioner's Aspect": {
+    "de": "Aspekt: Scharfrichters",
+    "fr": "Aspect de bourreau"
+  },
+  "Exhilaration": {
+    "de": "Aspekt des Hochgefühls",
+    "fr": "Euphorie"
+  },
+  "Expectant": {
+    "de": "Erwartungsvollen",
+    "fr": "Attente"
+  },
+  "Exploiter's": {
+    "de": "Ausbeutender",
+    "fr": "Abus"
+  },
+  "Exploiter's Aspect": {
+    "de": "Aspekt: Ausbeutender",
+    "fr": "Aspect d’abus"
+  },
+  "Explosive Mist": {
+    "de": "Aspekt des Explosiven Nebels",
+    "fr": "Brume explosive"
+  },
+  "Explosive Verve": {
+    "de": "Aspekt des explosiven Schwungs",
+    "fr": "Verve explosive"
+  },
+  "Exposed Flesh": {
+    "de": "Aspekt des entblößten Fleisches",
+    "fr": "Chair mise à nu"
+  },
+  "Falling Feathers": {
+    "de": "fallenden Federn",
+    "fr": "Plumes tombantes"
+  },
+  "Fastblood": {
+    "de": "Schnellblütiger",
+    "fr": "Hémorragie"
+  },
+  "Fastblood Aspect": {
+    "de": "Aspekt: Schnellblütiger",
+    "fr": "Aspect d’hémorragie"
+  },
+  "Fel Gluttony": {
+    "de": "teuflischen Völlerei",
+    "fr": "Appétit funeste"
+  },
+  "Fell Soothsayer's": {
+    "de": "Grauenwahrsagers",
+    "fr": "Cruel augure"
+  },
+  "Fell Soothsayer's Aspect": {
+    "de": "Aspekt: Grauenwahrsagers",
+    "fr": "Aspect de cruel augure"
+  },
+  "Fevered Mauling": {
+    "de": "Aspekt des fieberhaften Anfallens",
+    "fr": "Mutilation enfiévrée"
+  },
+  "Fierce Winds": {
+    "de": "peitschenden Winde",
+    "fr": "Vents violents"
+  },
+  "Firebird": {
+    "de": "Aspekt des Feuervogels",
+    "fr": "Oiseau de feu"
+  },
+  "Firestarter": {
+    "de": "Brandstiftender",
+    "fr": "Incendie déclenché"
+  },
+  "Firestarter Aspect": {
+    "de": "Aspekt: Brandstiftender",
+    "fr": "Aspect d’incendie déclenché"
+  },
+  "Flamethrower's": {
+    "de": "Flammenwerfers",
+    "fr": "Déflagration"
+  },
+  "Flamethrower's Aspect": {
+    "de": "Aspekt: Flammenwerfers",
+    "fr": "Aspect de déflagration"
+  },
+  "Flamewalker's": {
+    "de": "Flammenwandlers",
+    "fr": "Marche-flammes"
+  },
+  "Flamewalker's Aspect": {
+    "de": "Aspekt: Flammenwandlers",
+    "fr": "Aspect du marche-flammes"
+  },
+  "Flaming Rampage": {
+    "de": "brennenden Tobsucht",
+    "fr": "Incendie dévastateur"
+  },
+  "Flash Fire": {
+    "de": "Heißlodernder",
+    "fr": "Flammèche"
+  },
+  "Flash Fire Aspect": {
+    "de": "Aspekt: Heißlodernder",
+    "fr": "Aspect de flammèche"
+  },
+  "Fleet Wings": {
+    "de": "flinken Flügel",
+    "fr": "Ruse ailée"
+  },
+  "Flesh-Rending": {
+    "de": "Zerfleischender",
+    "fr": "Déchiquetage"
+  },
+  "Flesh-Rending Aspect": {
+    "de": "Aspekt: Zerfleischender",
+    "fr": "Aspect de déchiquetage"
+  },
+  "Forest Power": {
+    "de": "Waldstärke",
+    "fr": "Puissance des forêts"
+  },
+  "Fortress": {
+    "de": "Festung",
+    "fr": "Forteresse"
+  },
+  "Fortune": {
+    "de": "Gunst",
+    "fr": "Réussite"
+  },
+  "Forward Momentum": {
+    "de": "Vorwärtsbewegung",
+    "fr": "Élan en avant"
+  },
+  "Frenzied Dead": {
+    "de": "Aspekt des rasenden Todes",
+    "fr": "Morts frénétiques"
+  },
+  "Frostbitten": {
+    "de": "Frostbeißender",
+    "fr": "Engelure"
+  },
+  "Frostbitten Aspect": {
+    "de": "Aspekt: Frostbeißender",
+    "fr": "Aspect d’engelure"
+  },
+  "Frostblitz": {
+    "de": "Frostblitzender",
+    "fr": "Assaut de givre"
+  },
+  "Frostblitz Aspect": {
+    "de": "Aspekt: Frostblitzender",
+    "fr": "Aspect de l’assaut de givre"
+  },
+  "Frosty Strides": {
+    "de": "Eisschritte",
+    "fr": "Enjambées givrées"
+  },
+  "Frozen Memories": {
+    "de": "gefrorenen Erinnerungen",
+    "fr": "Souvenirs de glace"
+  },
+  "Frozen Orbit": {
+    "de": "Aspekt des gefrorenen Orbits",
+    "fr": "Orbite gelée"
+  },
+  "Frozen Tundra": {
+    "de": "gefrorenen Tundra",
+    "fr": "Toundra Glacée"
+  },
+  "Frozen Wake": {
+    "de": "Gefrorenen Sogs",
+    "fr": "Sillage glacial"
+  },
+  "Frozen Wake Aspect": {
+    "de": "Aspekt des Gefrorenen Sogs",
+    "fr": "Aspect du sillage glacial"
+  },
+  "Galvanized Slasher's": {
+    "de": "Galvanoschlitzers",
+    "fr": "Entaille galvanisée"
+  },
+  "Galvanized Slasher's  Aspect": {
+    "de": "Aspekt: Galvanoschlitzers",
+    "fr": "Aspect d’entaille galvanisée"
+  },
+  "Galvanized Slasher's Aspect": {
+    "de": "Aspekt: Galvanoschlitzers",
+    "fr": "Aspect d’entaille galvanisée"
+  },
+  "Ghostwalker": {
+    "de": "Geistwandelnder",
+    "fr": "Arpenteur spectral"
+  },
+  "Ghostwalker Aspect": {
+    "de": "Aspekt: Geistwandelnder",
+    "fr": "Aspect d’arpenteur spectral"
+  },
+  "Giant Strides": {
+    "de": "Riesenschritte",
+    "fr": "Pas de géant"
+  },
+  "Glacial": {
+    "de": "Vergletscherter",
+    "fr": "Glacial"
+  },
+  "Glacial Aspect": {
+    "de": "Aspekt: Vergletscherter",
+    "fr": "Aspect glacial"
+  },
+  "Gore Quills": {
+    "de": "Blutstacheln",
+    "fr": "Pointes d’hémorragie"
+  },
+  "Grasping Veins": {
+    "de": "greifenden Adern",
+    "fr": "Veines rapaces"
+  },
+  "Grasping Whirlwind": {
+    "de": "Aspekt des packenden Wirbelwinds",
+    "fr": "Trombe centripète"
+  },
+  "Gravitational": {
+    "de": "Gravitativer",
+    "fr": "Gravité"
+  },
+  "Gravitational Aspect": {
+    "de": "Aspekt: Gravitativer",
+    "fr": "Aspect de gravité"
+  },
+  "Great Feast": {
+    "de": "großen Festmahls",
+    "fr": "Grand festin"
+  },
+  "Great Feast Aspect": {
+    "de": "Aspekt des großen Festmahls",
+    "fr": "Aspect du grand festin"
+  },
+  "Hardened Bones": {
+    "de": "gehärteten Knochen",
+    "fr": "Os durcis"
+  },
+  "Haste": {
+    "de": "Hast",
+    "fr": "Hâte"
+  },
+  "Hectic": {
+    "de": "Hektischer",
+    "fr": "Agitation"
+  },
+  "Hectic Aspect": {
+    "de": "Aspekt: Hektischer",
+    "fr": "Aspect d’agitation"
+  },
+  "Herculean Spectacle": {
+    "de": "Aspekt des herkulischen Spektakels",
+    "fr": "Spectacle herculéen"
+  },
+  "High Velocity": {
+    "de": "Hochgeschwindigkeit",
+    "fr": "Haute vélocité"
+  },
+  "High Velocity Aspect": {
+    "de": "Aspekt: Hochgeschwindigkeit",
+    "fr": "Aspect de haute vélocité"
+  },
+  "Hulking": {
+    "de": "Hünenhafter",
+    "fr": "Massif"
+  },
+  "Hulking Aspect": {
+    "de": "Aspekt: Hünenhafter",
+    "fr": "Aspect massif"
+  },
+  "Hungry Blood": {
+    "de": "Aspekt des hungernden Blutes",
+    "fr": "Sang insatiable"
+  },
+  "Icy Alchemist's": {
+    "de": "Eisalchemischer",
+    "fr": "Alchimiste glacial"
+  },
+  "Icy Alchemist's Aspect": {
+    "de": "Aspekt: Eisalchemischer",
+    "fr": "Aspect de l’alchimiste glacial"
+  },
+  "Imitated Imbuement": {
+    "de": "imitierten Infusion",
+    "fr": "Imitation d’imprégnation"
+  },
+  "Imprisoned Spirit's": {
+    "de": "Geistgefangener",
+    "fr": "Esprit incarcéré"
+  },
+  "Imprisoned Spirit's Aspect": {
+    "de": "Aspekt: Geistgefangener",
+    "fr": "Aspect de l’esprit incarcéré"
+  },
+  "Incendiary": {
+    "de": "Zündelnder",
+    "fr": "Incendiaire"
+  },
+  "Incendiary Aspect": {
+    "de": "Aspekt: Zündelnder",
+    "fr": "Aspect incendiaire"
+  },
+  "Incendiary Fissures": {
+    "de": "feurigen Spalten",
+    "fr": "Fissures incendiaires"
+  },
+  "Inevitable Fate": {
+    "de": "Aspekt des unausweichlichen Schicksals",
+    "fr": "Destin inévitable"
+  },
+  "Inexorable Reaper's": {
+    "de": "Ewigschnitters",
+    "fr": "Faucheuse intraitable"
+  },
+  "Inexorable Reaper's Aspect": {
+    "de": "Aspekt: Ewigschnitters",
+    "fr": "Aspect de la Faucheuse intraitable"
+  },
+  "Infestation": {
+    "de": "Aspekt des Befalls",
+    "fr": "Infestation"
+  },
+  "Infiltrator's": {
+    "de": "Eindringender",
+    "fr": "Infiltration"
+  },
+  "Infiltrator's Aspect": {
+    "de": "Aspekt: Eindringender",
+    "fr": "Aspect d’infiltration"
+  },
+  "Inner Calm": {
+    "de": "inneren Ruhe",
+    "fr": "Calme intérieur"
+  },
+  "Insatiable": {
+    "de": "Unersättlicher",
+    "fr": "Insatiable"
+  },
+  "Insatiable Aspect": {
+    "de": "Aspekt: Unersättlicher",
+    "fr": "Aspect insatiable"
+  },
+  "Interdiction": {
+    "de": "Untersagung",
+    "fr": "Interdiction"
+  },
+  "Invigorating Will": {
+    "de": "Aspekt des kräftigenden Willens",
+    "fr": "Volonté revigorante"
+  },
+  "Iron Blood": {
+    "de": "Eisenblütiger",
+    "fr": "Sang de fer"
+  },
+  "Iron Blood Aspect": {
+    "de": "Aspekt: Eisenblütiger",
+    "fr": "Aspect du sang de fer"
+  },
+  "Iron Rain": {
+    "de": "Aspekt des Eisernen Regens",
+    "fr": "Pluie de fer"
+  },
+  "Iron Warrior": {
+    "de": "Aspekt des eisernen Kriegers",
+    "fr": "Défense de fer"
+  },
+  "Jolting": {
+    "de": "Erschütternder",
+    "fr": "Choc"
+  },
+  "Jolting Aspect": {
+    "de": "Aspekt: Erschütternder",
+    "fr": "Aspect de choc"
+  },
+  "Juggernaut's": {
+    "de": "Molochs",
+    "fr": "Mastodonte"
+  },
+  "Juggernaut's Aspect": {
+    "de": "Aspekt: Molochs",
+    "fr": "Aspect de mastodonte"
+  },
+  "Kinetic Suppression": {
+    "de": "kinetischen Unterdrückung",
+    "fr": "Répression cinétique"
+  },
+  "Layered Wards": {
+    "de": "vielschichtigen Schutze",
+    "fr": "Strates protectrices"
+  },
+  "Lethal Dusk": {
+    "de": "tödlichen Dämmerung",
+    "fr": "Soir funeste"
+  },
+  "Lightning Dancer's": {
+    "de": "Blitztänzelnder",
+    "fr": "Virevolte"
+  },
+  "Lightning Dancer's Aspect": {
+    "de": "Aspekt: Blitztänzelnder",
+    "fr": "Aspect de virevolte"
+  },
+  "Lightning Rod": {
+    "de": "Blitzbogens",
+    "fr": "Éclair dirigé"
+  },
+  "Lightning Rod Aspect": {
+    "de": "Aspekt: Blitzbogens",
+    "fr": "Aspect d’éclair dirigé"
+  },
+  "Limitless Rage": {
+    "de": "Grenzenlosen Wut",
+    "fr": "Rage infinie"
+  },
+  "Long Shadow": {
+    "de": "Aspekt des langen Schattens",
+    "fr": "Ombre éternelle"
+  },
+  "Luckbringer": {
+    "de": "Glückbringender",
+    "fr": "Porte-bonheur"
+  },
+  "Luckbringer Aspect": {
+    "de": "Aspekt: Glückbringender",
+    "fr": "Aspect porte-bonheur"
+  },
+  "Mage-Lord's": {
+    "de": "Magierfürstlicher",
+    "fr": "Mage seigneurial"
+  },
+  "Mage-Lord's Aspect": {
+    "de": "Aspekt: Magierfürstlicher",
+    "fr": "Aspect du mage seigneurial"
+  },
+  "Mangled": {
+    "de": "Verstümmelter",
+    "fr": "Mutilé"
+  },
+  "Mangled Aspect": {
+    "de": "Aspekt: Verstümmelter",
+    "fr": "Aspect mutilé"
+  },
+  "Mangler's": {
+    "de": "Zerfleischers",
+    "fr": "Mutilation"
+  },
+  "Mangler's Aspect": {
+    "de": "Aspekt: Zerfleischers",
+    "fr": "Aspect de mutilation"
+  },
+  "Menacing": {
+    "de": "Bedrohlicher",
+    "fr": "Menaçant"
+  },
+  "Menacing Aspect": {
+    "de": "Aspekt: Bedrohlicher",
+    "fr": "Aspect menaçant"
+  },
+  "Mending Stone": {
+    "de": "Aspekt des lindernden Steins",
+    "fr": "Pierre de guérison"
+  },
+  "Metamorphic Stone": {
+    "de": "Aspekt des metamorphen Steins",
+    "fr": "Roche métamorphique"
+  },
+  "Metamorphosis": {
+    "de": "Metamorphose",
+    "fr": "Métamorphose"
+  },
+  "Might": {
+    "de": "Macht",
+    "fr": "Toute-puissance"
+  },
+  "Mighty Storm's": {
+    "de": "Sturmgewaltiger",
+    "fr": "Puissance tempêtueuse"
+  },
+  "Mighty Storm's Aspect": {
+    "de": "Aspekt: Sturmgewaltiger",
+    "fr": "Aspect de la puissance tempêtueuse"
+  },
+  "Mind's Awakening": {
+    "de": "Aspekt des erweckten Geistes",
+    "fr": "Éveil spirituel"
+  },
+  "Mired Sharpshooter's": {
+    "de": "Bolzenschießender",
+    "fr": "Élite empêtré"
+  },
+  "Mired Sharpshooter's  Aspect": {
+    "de": "Aspekt: Bolzenschießender",
+    "fr": "Aspect de tir d’élite empêtré "
+  },
+  "Mired Sharpshooter's Aspect": {
+    "de": "Aspekt: Bolzenschießender",
+    "fr": "Aspect de tir d’élite empêtré"
+  },
+  "Momentum": {
+    "de": "Aspekt des Moments",
+    "fr": "Élan en avant"
+  },
+  "Moonrage": {
+    "de": "Mondzorn",
+    "fr": "Rage lunaire"
+  },
+  "Moonrage Aspect": {
+    "de": "Aspekt: Mondzorn",
+    "fr": "Aspect Rage lunaire"
+  },
+  "Moonrise": {
+    "de": "Aspekt des Mondaufgangs",
+    "fr": "Crépuscule"
+  },
+  "Natural Balance": {
+    "de": "Aspekt des natürlichen Gleichgewichts",
+    "fr": "Équilibre naturel"
+  },
+  "Nature's Savagery": {
+    "de": "Naturgewalt",
+    "fr": "Nature sauvage"
+  },
+  "Nebulous Brews": {
+    "de": "nebulösen Gebräue",
+    "fr": "Brassage nébuleux"
+  },
+  "Needleflare": {
+    "de": "Nadelfeuriger",
+    "fr": "Hirsutisme"
+  },
+  "Needleflare Aspect": {
+    "de": "Aspekt: Nadelfeuriger",
+    "fr": "Aspect d’hirsutisme"
+  },
+  "Nighthowler's": {
+    "de": "Nachtheulers",
+    "fr": "Hurleur nocturne"
+  },
+  "Nighthowler's Aspect": {
+    "de": "Aspekt: Nachtheulers",
+    "fr": "Aspect du hurleur nocturne"
+  },
+  "Noxious Ice": {
+    "de": "Aspekt des Giftigen Eises",
+    "fr": "Glace toxique"
+  },
+  "Numbing Wrath": {
+    "de": "Aspekt des betäubenden Zorns",
+    "fr": "Colère anesthésiante"
+  },
+  "Occult Dominion": {
+    "de": "okkulten Herrschaft",
+    "fr": "Domination occulte"
+  },
+  "Opportunist's": {
+    "de": "Opportuner",
+    "fr": "Opportuniste"
+  },
+  "Opportunist's Aspect": {
+    "de": "Aspekt: Opportuner",
+    "fr": "Aspect de l’opportuniste"
+  },
+  "Orange Herald": {
+    "de": "Orangefarbener Herold",
+    "fr": "Héraut orange"
+  },
+  "Orange Herald Aspect": {
+    "de": "Aspekt des orangefarbenen Herolds",
+    "fr": "Aspect de héraut orange"
+  },
+  "Osseous Gale": {
+    "de": "Knochenstürmender",
+    "fr": "Déluge d’os"
+  },
+  "Osseous Gale Aspect": {
+    "de": "Aspekt: Knochenstürmender",
+    "fr": "Aspect du déluge d’os"
+  },
+  "Overcharged": {
+    "de": "Überladener",
+    "fr": "Surchargé"
+  },
+  "Overcharged Aspect": {
+    "de": "Aspekt: Überladener",
+    "fr": "Aspect surchargé"
+  },
+  "Overheating": {
+    "de": "Überhitzung",
+    "fr": "Surchauffe"
+  },
+  "Overwhelming Currents": {
+    "de": "überwältigenden Strömung",
+    "fr": "Courants accablants"
+  },
+  "Perpetual Stomping": {
+    "de": "Aspekt des beständigen Stampfens",
+    "fr": "Piétinement perpétuel"
+  },
+  "Pestilence": {
+    "de": "Pestilenz",
+    "fr": "Pestilence"
+  },
+  "Pestilent Points": {
+    "de": "Seuchenspitzen",
+    "fr": "Poinçons pestilentiels"
+  },
+  "Phasing Poltergeist's": {
+    "de": "Phasenpoltergeists",
+    "fr": "Esprit phasique"
+  },
+  "Phasing Poltergeist's Aspect": {
+    "de": "Aspekt: Phasenpoltergeists",
+    "fr": "Aspect de l’esprit phasique"
+  },
+  "Piercing Cold": {
+    "de": "schneidenden Kälte",
+    "fr": "Froid pénétrant"
+  },
+  "Piercing Static": {
+    "de": "durchdringenden Statik",
+    "fr": "Courant perçant"
+  },
+  "Plains Power": {
+    "de": "Ebenenstärke",
+    "fr": "Puissance des plaines"
+  },
+  "Plunging Darkness": {
+    "de": "einbrechenden Dunkelheit",
+    "fr": "Ténèbres descendantes"
+  },
+  "Poisonous Clouds": {
+    "de": "Giftwolken",
+    "fr": "Miasmes toxiques"
+  },
+  "Potent Blood": {
+    "de": "Aspekt des mächtigen Blutes",
+    "fr": "Sang tout-puissant"
+  },
+  "Potent Exchange": {
+    "de": "Aspekt des potenten Austauschs",
+    "fr": "Échange marquant"
+  },
+  "Prodigy's": {
+    "de": "Wunderkinds",
+    "fr": "Prodige"
+  },
+  "Prodigy's Aspect": {
+    "de": "Aspekt: Wunderkinds",
+    "fr": "Aspect de prodige"
+  },
+  "Protecting": {
+    "de": "Schützender",
+    "fr": "Protecteur"
+  },
+  "Protecting Aspect": {
+    "de": "Aspekt: Schützender",
+    "fr": "Aspect protecteur"
+  },
+  "Protector": {
+    "de": "Beschützer",
+    "fr": "Protecteur"
+  },
+  "Protector Aspect": {
+    "de": "Aspekt des Beschützers",
+    "fr": "Aspect du Protecteur"
+  },
+  "Prudent Heart": {
+    "de": "Aspekt des besonnenen Herzens",
+    "fr": "Cœur prudent"
+  },
+  "Quickening Fog": {
+    "de": "Aspekt des stimulierenden Nebels",
+    "fr": "Brume vivace"
+  },
+  "Quicksand": {
+    "de": "Aspekt des Treibsands",
+    "fr": "Sables mouvants"
+  },
+  "Rabid Bear": {
+    "de": "Aspekt des tollwütigen Bären",
+    "fr": "Ours enragé"
+  },
+  "Raider's": {
+    "de": "Brandschatzender",
+    "fr": "Appropriation"
+  },
+  "Raider's Aspect": {
+    "de": "Aspekt: Brandschatzender",
+    "fr": "Aspect d’appropriation"
+  },
+  "Rallying Reversal": {
+    "de": "Aspekt des sammelnden Konters",
+    "fr": "Revers mobilisateur"
+  },
+  "Rampaging Werebeast": {
+    "de": "tobenden Werbestie",
+    "fr": "Bête humaine enragée"
+  },
+  "Rapid": {
+    "de": "Schneller",
+    "fr": "Expéditif"
+  },
+  "Rapid Aspect": {
+    "de": "Aspekt: Schneller",
+    "fr": "Aspect expéditif"
+  },
+  "Rathma's Chosen": {
+    "de": "Auserwählten Rathmas",
+    "fr": "Éissaire de Rathma"
+  },
+  "Ravager's": {
+    "de": "Verwüstender",
+    "fr": ""
+  },
+  "Ravager's Aspect": {
+    "de": "Aspekt: Verwüstender",
+    "fr": "Aspect de ravage"
+  },
+  "Ravenous": {
+    "de": "Gefräßiger",
+    "fr": "Vorace"
+  },
+  "Ravenous Aspect": {
+    "de": "Aspekt: Gefräßiger",
+    "fr": "Aspect vorace"
+  },
+  "Raw Might": {
+    "de": "Mächtiger",
+    "fr": "Force brute"
+  },
+  "Raw Might Aspect": {
+    "de": "Aspekt: Mächtiger",
+    "fr": "Aspect de force brute"
+  },
+  "Reactive Armor": {
+    "de": "reaktiven Rüstung",
+    "fr": "Armure réactive"
+  },
+  "Reanimation": {
+    "de": "Reanimation",
+    "fr": "Réanimation"
+  },
+  "Reaper's": {
+    "de": "Seelenerntender",
+    "fr": "Fauchage"
+  },
+  "Reaper's Aspect": {
+    "de": "Aspekt: Seelenerntender",
+    "fr": "Aspect de fauchage"
+  },
+  "Reaping Lotus'": {
+    "de": "Lotuserntender",
+    "fr": "Lotiforme"
+  },
+  "Reaping Lotus' Aspect": {
+    "de": "Aspekt: Lotuserntender",
+    "fr": "Aspect de lotiforme"
+  },
+  "Rebounding": {
+    "de": "Abprallender",
+    "fr": "Bondissant"
+  },
+  "Rebounding Aspect": {
+    "de": "Aspekt: Abprallender",
+    "fr": "Aspect bondissant"
+  },
+  "Recalling Feathers": {
+    "de": "heimkehrenden Federn",
+    "fr": "Plumes mémorielles"
+  },
+  "Recharging": {
+    "de": "Aufladender",
+    "fr": "Rechargement"
+  },
+  "Recharging Aspect": {
+    "de": "Aspekt: Aufladender",
+    "fr": "Aspect de rechargement"
+  },
+  "Redirected Force": {
+    "de": "umgelenkten Macht",
+    "fr": "Force détournée"
+  },
+  "Rejuvenating": {
+    "de": "Verjüngender",
+    "fr": "Rajeunissement"
+  },
+  "Rejuvenating Aspect": {
+    "de": "Aspekt: Verjüngender",
+    "fr": "Aspect de rajeunissement"
+  },
+  "Relentless Armsmaster": {
+    "de": "Aspekt des unerbittlichen Waffenmeisters",
+    "fr": "Maître d’armes intransigeant"
+  },
+  "Relentless Berserker's": {
+    "de": "Blutberserkers",
+    "fr": "Berserker implacable"
+  },
+  "Relentless Berserker's Aspect": {
+    "de": "Aspekt: Blutberserkers",
+    "fr": "Aspect du berserker implacable"
+  },
+  "Repeating": {
+    "de": "Wiederholender",
+    "fr": "Répétition"
+  },
+  "Repeating Aspect": {
+    "de": "Aspekt: Wiederholender",
+    "fr": "Aspect à répétition"
+  },
+  "Requiem": {
+    "de": "Bestattender",
+    "fr": "Requiem"
+  },
+  "Requiem Aspect": {
+    "de": "Aspekt: Bestattender",
+    "fr": "Aspect de requiem"
+  },
+  "Resistant Assailant's": {
+    "de": "Widerständiger",
+    "fr": "Assaut tenace"
+  },
+  "Resistant Assailant's Aspect": {
+    "de": "Aspekt: Widerständiger",
+    "fr": "Aspect de l’assaut tenace"
+  },
+  "Retaliation": {
+    "de": "Rachsucht",
+    "fr": "Représailles"
+  },
+  "Retribution": {
+    "de": "Vergeltung",
+    "fr": "Vindicte"
+  },
+  "Rip and Tear Aspect": {
+    "de": "Aspekt: Entzweireißender",
+    "fr": "Aspect de lacération et déchirure"
+  },
+  "Rotting": {
+    "de": "Verrottender",
+    "fr": "Putréfié"
+  },
+  "Rotting Aspect": {
+    "de": "Aspekt: Verrottender",
+    "fr": "Aspect putréfié"
+  },
+  "Runeworker's Conduit": {
+    "de": "Runenbindender",
+    "fr": "Conduction runomancienne"
+  },
+  "Runeworker's Conduit Aspect": {
+    "de": "Aspekt: Runenbindender",
+    "fr": "Aspect de conduction runomancienne"
+  },
+  "Rushing Wilds": {
+    "de": "rauschenden Wildnis",
+    "fr": "Sauvagerie précipitée"
+  },
+  "Ruthless": {
+    "de": "Skrupelloser",
+    "fr": "Impitoyable"
+  },
+  "Ruthless Aspect": {
+    "de": "Aspekt: Skrupelloser",
+    "fr": "Aspect impitoyable"
+  },
+  "Sacrificial": {
+    "de": "Opfernder",
+    "fr": "Sacrificiel"
+  },
+  "Sacrificial Aspect": {
+    "de": "Aspekt: Opfernder",
+    "fr": "Aspect sacrificiel"
+  },
+  "Searing Wards": {
+    "de": "Aspekt des sengenden Schutzes",
+    "fr": "Protections ardentes"
+  },
+  "Seismic-shift": {
+    "de": "Seismischer",
+    "fr": "Activité sismique"
+  },
+  "Seismic-shift Aspect": {
+    "de": "Aspekt: Seismischer",
+    "fr": "Aspect d’activité sismique"
+  },
+  "Serpentine": {
+    "de": "Züngelnder",
+    "fr": "Serpent"
+  },
+  "Serpentine Aspect": {
+    "de": "Aspekt: Züngelnder",
+    "fr": "Aspect du serpent"
+  },
+  "Serration": {
+    "de": "Verzahnung",
+    "fr": "Dents de scie"
+  },
+  "Shademist": {
+    "de": "Schattennebels",
+    "fr": "Ombrebrume"
+  },
+  "Shademist Aspect": {
+    "de": "Aspekt: Schattennebels",
+    "fr": "Aspect d’ombrebrume"
+  },
+  "Shadowslicer": {
+    "de": "Schattenschnitters",
+    "fr": "Trancheur d’ombre"
+  },
+  "Shadowslicer Aspect": {
+    "de": "Aspekt: Schattenschnitters",
+    "fr": "Aspect du trancheur d’ombre"
+  },
+  "Shared Misery": {
+    "de": "Aspekt des geteilten Leids",
+    "fr": "Misère partagée"
+  },
+  "Shattered": {
+    "de": "Zerschmetterter",
+    "fr": "Fracassé"
+  },
+  "Shattered Aspect": {
+    "de": "Aspekt: Zerschmetterter",
+    "fr": "Aspect fracassé"
+  },
+  "Shattered Defenses": {
+    "de": "gebrochenen Verteidigung",
+    "fr": "Défenses fracassées"
+  },
+  "Shattered Spirit's": {
+    "de": "Seelenzerschmetternder",
+    "fr": "Esprit fragmenté"
+  },
+  "Shattered Spirit's Aspect": {
+    "de": "Aspekt: Seelenzerschmetternder",
+    "fr": "Aspect de l’esprit fragmenté"
+  },
+  "Shattered Stars": {
+    "de": "zerborstenen Sterne",
+    "fr": "Étoiles brisées"
+  },
+  "Shattering Steel": {
+    "de": "Aspekt des berstenden Stahls",
+    "fr": "Fragments d’acier"
+  },
+  "Shepherd's": {
+    "de": "Schäfers",
+    "fr": "Berger"
+  },
+  "Shepherd's Aspect": {
+    "de": "Aspekt: Schäfers",
+    "fr": "Aspect du berger"
+  },
+  "Shielding Storm": {
+    "de": "Aspekt des schützenden Sturms",
+    "fr": "Tempête protectrice"
+  },
+  "Shivering Aspect": {
+    "de": "Aspekt: Schaudernder",
+    "fr": "Aspect frissonnant"
+  },
+  "Shockwave": {
+    "de": "Überrollender",
+    "fr": "Onde de choc"
+  },
+  "Shockwave Aspect": {
+    "de": "Aspekt: Überrollender",
+    "fr": "Aspect d’onde de choc"
+  },
+  "Shredding Blades": {
+    "de": "zerfetzenden Klingen",
+    "fr": "Lames déchirantes"
+  },
+  "Simple Reprisal": {
+    "de": "einfachen Vergeltung",
+    "fr": "Simples représailles"
+  },
+  "Singed Extremities": {
+    "de": "versengten Extremitäten",
+    "fr": "Extrémités roussies"
+  },
+  "Siphoned Victuals": {
+    "de": "abgeschöpften Verpflegung",
+    "fr": "Vivres siphonnées"
+  },
+  "Skinwalker's": {
+    "de": "Gestaltwandelnder",
+    "fr": "Marchepeau"
+  },
+  "Skinwalker's Aspect": {
+    "de": "Aspekt: Gestaltwandelnder",
+    "fr": "Aspect de marchepeau"
+  },
+  "Skullbreaker's": {
+    "de": "Schädelbrechender",
+    "fr": "Brise-crâne"
+  },
+  "Skullbreaker's Aspect": {
+    "de": "Aspekt: Schädelbrechender",
+    "fr": "Aspect de brise-crâne"
+  },
+  "Sky Power": {
+    "de": "Himmelsstärke",
+    "fr": "Puissance des cieux"
+  },
+  "Slaking": {
+    "de": "Löschender",
+    "fr": "Assouvissement"
+  },
+  "Slaking Aspect": {
+    "de": "Aspekt: Löschender",
+    "fr": "Aspect d’assouvissement"
+  },
+  "Slaughter": {
+    "de": "Aspekt des Abschlachtens",
+    "fr": "Carnage"
+  },
+  "Slice and Dice": {
+    "de": "Zerstückelnder",
+    "fr": "Débiter"
+  },
+  "Slice and Dice Aspect": {
+    "de": "Aspekt: Zerstückelnder",
+    "fr": "Aspect Débiter"
+  },
+  "Sly Steps": {
+    "de": "heimlichen Schritte",
+    "fr": "Approche sournoise"
+  },
+  "Smiting": {
+    "de": "Schmetternder",
+    "fr": "Châtiment"
+  },
+  "Smiting Aspect": {
+    "de": "Aspekt: Schmetternder",
+    "fr": "Aspect de châtiment"
+  },
+  "Snap Frozen": {
+    "de": "Schockgefrorener",
+    "fr": "Figé"
+  },
+  "Snap Frozen Aspect": {
+    "de": "Aspekt: Schockgefrorener",
+    "fr": "Aspect figé"
+  },
+  "Snowguard's": {
+    "de": "Schneewachender",
+    "fr": "Garde-neige"
+  },
+  "Snowguard's Aspect": {
+    "de": "Aspekt: Schneewachender",
+    "fr": "Aspect du garde-neige"
+  },
+  "Snowveiled": {
+    "de": "Schneeverschleierter",
+    "fr": "Voile de neige"
+  },
+  "Snowveiled Aspect": {
+    "de": "Aspekt: Schneeverschleierter",
+    "fr": "Aspect du voile de neige"
+  },
+  "Soil Power": {
+    "de": "Bodenstärke",
+    "fr": "Puissance du sol"
+  },
+  "Spirit Bond": {
+    "de": "Geistverbundener",
+    "fr": "Lien spirituel"
+  },
+  "Spirit Bond Aspect": {
+    "de": "Aspekt: Geistverbundener",
+    "fr": "Aspect de lien spirituel"
+  },
+  "Splintering": {
+    "de": "Splitternder",
+    "fr": "Fracturant"
+  },
+  "Splintering Aspect": {
+    "de": "Aspekt: Splitternder",
+    "fr": "Aspect fracturant"
+  },
+  "Splintering Energy": {
+    "de": "zersplitternden Energie",
+    "fr": "Esquilles d’énergie"
+  },
+  "Splintering Shards": {
+    "de": "zersplitternden Scherben",
+    "fr": "Éclats dispersés"
+  },
+  "Stable": {
+    "de": "Stabiler",
+    "fr": "Stabilité"
+  },
+  "Stable Aspect": {
+    "de": "Aspekt: Stabiler",
+    "fr": "Aspect de stabilité"
+  },
+  "Stampede": {
+    "de": "Stampede",
+    "fr": "Cavalcade"
+  },
+  "Star Shards": {
+    "de": "Sternensplitter",
+    "fr": "Fragments stellaires"
+  },
+  "Starlight": {
+    "de": "Sternenbeschienener",
+    "fr": "Lumière stellaire"
+  },
+  "Starlight Aspect": {
+    "de": "Aspekt: Sternenbeschienener",
+    "fr": "Aspect de lumière stellaire"
+  },
+  "Starving Ravager's": {
+    "de": "Hungerleidender",
+    "fr": "Ravage affamé"
+  },
+  "Starving Ravager's  Aspect": {
+    "de": "Aspekt: Hungerleidender",
+    "fr": "Aspect de ravage affamé "
+  },
+  "Starving Ravager's Aspect": {
+    "de": "Aspekt: Hungerleidender",
+    "fr": "Aspect de ravage affamé"
+  },
+  "Steadfast Berserker's": {
+    "de": "Stahlberserkers",
+    "fr": "Berserker robuste"
+  },
+  "Steadfast Berserker's Aspect": {
+    "de": "Aspekt: Stahlberserkers",
+    "fr": "Aspect du berserker robuste"
+  },
+  "Sticker-thought": {
+    "de": "Dornliebender",
+    "fr": "Concentration tenace"
+  },
+  "Sticker-thought Aspect": {
+    "de": "Aspekt: Dornliebender",
+    "fr": "Aspect de concentration tenace"
+  },
+  "Stolen Vigor": {
+    "de": "Aspekt des geraubten Elans",
+    "fr": "Vigueur dérobée"
+  },
+  "Storm Swell": {
+    "de": "Sturmschwel­lender",
+    "fr": "Tempête grondante"
+  },
+  "Storm Swell Aspect": {
+    "de": "Aspekt: Sturmschwel­lender",
+    "fr": "Aspect de tempête grondante"
+  },
+  "Stormchaser's": {
+    "de": "Sturmjagender",
+    "fr": "Traque-tempêtes"
+  },
+  "Stormchaser's Aspect": {
+    "de": "Aspekt: Sturmjagender",
+    "fr": "Aspect du traque-tempêtes"
+  },
+  "Stormclaw's": {
+    "de": "Sturmklaues",
+    "fr": "Griffes de la tempête"
+  },
+  "Stormclaw's Aspect": {
+    "de": "Aspekt: Sturmklaues",
+    "fr": "Aspect des griffes de la tempête"
+  },
+  "Stormcrow's": {
+    "de": "Sturmkrähes",
+    "fr": "Oiseau des tempêtes"
+  },
+  "Stormcrow's Aspect": {
+    "de": "Aspekt: Sturmkrähes",
+    "fr": "Aspect de l’oiseau des tempêtes"
+  },
+  "Stormshifter's": {
+    "de": "Sturmwandelnder",
+    "fr": "Change-tempête"
+  },
+  "Stormshifter's Aspect": {
+    "de": "Aspekt: Sturmwandelnder",
+    "fr": "Aspect de change-tempête"
+  },
+  "Subterranean": {
+    "de": "Unterirdischer",
+    "fr": "Souterrain"
+  },
+  "Subterranean Aspect": {
+    "de": "Aspekt: Unterirdischer",
+    "fr": "Aspect souterrain"
+  },
+  "Sundered Ground": {
+    "de": "Aspekt des gebrochenen Bodens",
+    "fr": "Terre scindée"
+  },
+  "Surprise": {
+    "de": "Überraschung",
+    "fr": "Surprise"
+  },
+  "Swelling Curse": {
+    "de": "Aspekt des schwellenden Fluchs",
+    "fr": "Malédiction grandissante"
+  },
+  "Symbiotic": {
+    "de": "Symbiotischer",
+    "fr": "Symbiotique"
+  },
+  "Symbiotic Aspect": {
+    "de": "Aspekt: Symbiotischer",
+    "fr": "Aspect symbiotique"
+  },
+  "Synergy": {
+    "de": "Synergie",
+    "fr": "Synergie"
+  },
+  "Tempering Blows": {
+    "de": "härtenden Schläge",
+    "fr": "Coups calculés"
+  },
+  "Tempest": {
+    "de": "Aspekt des wütenden Sturms",
+    "fr": "Tempête"
+  },
+  "Temporal Incisions": {
+    "de": "zeitweiligen Schnitte",
+    "fr": "Incisions temporelles"
+  },
+  "Tenacity": {
+    "de": "Hartnäckigkeit",
+    "fr": "Ténacité"
+  },
+  "Tenuous Agility": {
+    "de": "heiklen Wendigkeit",
+    "fr": "Agilité précaire"
+  },
+  "Tenuous Destruction": {
+    "de": "schwachen Zerstörung",
+    "fr": "Destruction précaire"
+  },
+  "The Aftershock": {
+    "de": "Aspekt des Nachbebens",
+    "fr": "Réplique"
+  },
+  "Three Curses": {
+    "de": "drei Flüche",
+    "fr": "Trois sortilèges"
+  },
+  "Tidal": {
+    "de": "Blutwogender",
+    "fr": "Raz-de-marée"
+  },
+  "Tidal Aspect": {
+    "de": "Aspekt: Blutwogender",
+    "fr": "Aspect de raz-de-marée"
+  },
+  "Torment": {
+    "de": "Qual",
+    "fr": "Tourment"
+  },
+  "Tormentor's": {
+    "de": "Quälers",
+    "fr": "Tourment"
+  },
+  "Tormentor's Aspect": {
+    "de": "Aspekt: Quälers",
+    "fr": "Aspect de tourment"
+  },
+  "Torturous": {
+    "de": "Peinigender",
+    "fr": "Tortionnaire"
+  },
+  "Torturous Aspect": {
+    "de": "Aspekt: Peinigender",
+    "fr": "Aspect tortionnaire"
+  },
+  "Toxic Alchemist's": {
+    "de": "Giftalchemischer",
+    "fr": "Alchimiste toxique"
+  },
+  "Toxic Alchemist's Aspect": {
+    "de": "Aspekt: Giftalchemischer",
+    "fr": "Aspect de l’alchimiste toxique"
+  },
+  "Trampled Earth": {
+    "de": "zertrampelten Erde",
+    "fr": "Terre piétinée"
+  },
+  "Trickshot": {
+    "de": "Trickreicher",
+    "fr": "Fine gâchette"
+  },
+  "Trickshot Aspect": {
+    "de": "Aspekt: Trickreicher",
+    "fr": "Aspect de fine gâchette"
+  },
+  "Trickster's": {
+    "de": "Täuschender",
+    "fr": "Crapule"
+  },
+  "Trickster's Aspect": {
+    "de": "Aspekt: Täuschender",
+    "fr": "Aspect de la crapule"
+  },
+  "True Sight": {
+    "de": "wahren Sicht",
+    "fr": "Vue perçante"
+  },
+  "Turbulence": {
+    "de": "Turbulenz",
+    "fr": "Turbulence"
+  },
+  "Ultimate Shadow": {
+    "de": "Aspekt des Ultimativen Schattens",
+    "fr": "Ombre ultime"
+  },
+  "Umbral": {
+    "de": "Aspekt des Schattens",
+    "fr": "Ombre"
+  },
+  "Umbrous": {
+    "de": "Schattiger",
+    "fr": "Ombreux"
+  },
+  "Umbrous Aspect": {
+    "de": "Aspekt: Schattiger",
+    "fr": "Aspect ombreux"
+  },
+  "Unbroken Tether": {
+    "de": "ungebrochenen Kette",
+    "fr": "Lien intact"
+  },
+  "Uncanny Treachery": {
+    "de": "Aspekt des unheimlichen Verrats",
+    "fr": "Traîtrise inouïe"
+  },
+  "Undying": {
+    "de": "Unvergänglicher",
+    "fr": "Immortalité"
+  },
+  "Undying Aspect": {
+    "de": "Aspekt: Unvergänglicher",
+    "fr": "Aspect d’immortalité"
+  },
+  "Unholy Tether": {
+    "de": "unheiligen Fesseln",
+    "fr": "Lien impie"
+  },
+  "Unrelenting": {
+    "de": "Unnachgiebiger",
+    "fr": "Inexorable"
+  },
+  "Unrelenting Aspect": {
+    "de": "Aspekt: Unnachgiebiger",
+    "fr": "Aspect inexorable"
+  },
+  "Unsatiated": {
+    "de": "Unersättlichen",
+    "fr": "Insatiable"
+  },
+  "Unstable Imbuements": {
+    "de": "instabilen Infusionen",
+    "fr": "Imprégnations instables"
+  },
+  "Untimely Death": {
+    "de": "Aspekt des frühzeitigen Todes",
+    "fr": "Mort inopinée"
+  },
+  "Unwavering": {
+    "de": "Aspekt des Unerschütterlichen",
+    "fr": "Inébranlable"
+  },
+  "Unyielding Commander's": {
+    "de": "Des Totengenerals",
+    "fr": "Commandement inflexible"
+  },
+  "Unyielding Commander's Aspect": {
+    "de": "Aspekt: Des Totengenerals",
+    "fr": "Aspect de commandement inflexible"
+  },
+  "Unyielding Hits": {
+    "de": "unnachgiebigen Treffer",
+    "fr": "Coups inflexibles"
+  },
+  "Ursine Horror": {
+    "de": "Aspekt des Bärenschreckens",
+    "fr": "Terreur ursine"
+  },
+  "Vehement Brawler's": {
+    "de": "Keilender",
+    "fr": "Aspect de querelleur"
+  },
+  "Vehement Brawler's Aspect": {
+    "de": "Aspekt: Keilender",
+    "fr": "Aspect de querelleur"
+  },
+  "Vengeful": {
+    "de": "Rachsüchtiger",
+    "fr": "Vengeur"
+  },
+  "Vengeful Aspect": {
+    "de": "Aspekt: Rachsüchtiger",
+    "fr": "Aspect vengeur"
+  },
+  "Veteran Brawler's": {
+    "de": "Erfahrener",
+    "fr": "Vétéran du combat"
+  },
+  "Veteran Brawler's Aspect": {
+    "de": "Aspekt: Erfahrener",
+    "fr": "Aspect de vétéran du combat"
+  },
+  "Vigorous": {
+    "de": "Lebhafter",
+    "fr": "Vigoureux"
+  },
+  "Vigorous Aspect": {
+    "de": "Aspekt: Lebhafter",
+    "fr": "Aspect vigoureux"
+  },
+  "Virulent": {
+    "de": "Virulenter",
+    "fr": "Virulent"
+  },
+  "Virulent Aspect": {
+    "de": "Aspekt: Virulenter",
+    "fr": "Aspect virulent"
+  },
+  "Vocalized Empowerment": {
+    "de": "ausgesprochenen Ermächtigung",
+    "fr": "Renforcement exprimé"
+  },
+  "Void": {
+    "de": "Leere",
+    "fr": "Vide"
+  },
+  "Volatile Shadows": {
+    "de": "flüchtigen Schatten",
+    "fr": "Ombres volatiles"
+  },
+  "Voracious Rage": {
+    "de": "unersättlichen Rage",
+    "fr": "Rage vorace"
+  },
+  "Wanton Rupture": {
+    "de": "Brechender",
+    "fr": "Rupture arbitraire"
+  },
+  "Wanton Rupture Aspect": {
+    "de": "Aspekt: Brechender",
+    "fr": "Aspect de rupture arbitraire"
+  },
+  "Weapon Master's": {
+    "de": "Waffenmeisters",
+    "fr": "Maître d’armes"
+  },
+  "Weapon Master's Aspect": {
+    "de": "Aspekt: Waffenmeisters",
+    "fr": "Aspect de maître d’armes"
+  },
+  "Wild Claws": {
+    "de": "wilden Klauen",
+    "fr": "Griffes indomptables"
+  },
+  "Wildbolt": {
+    "de": "Wildblitzender",
+    "fr": "Projection furieuse"
+  },
+  "Wildbolt Aspect": {
+    "de": "Aspekt: Wildblitzender",
+    "fr": "Aspect de projection furieuse"
+  },
+  "Wildrage": {
+    "de": "Aspekt des Wildzorns",
+    "fr": "Sauvagerie"
+  },
+  "Wind Striker": {
+    "de": "Windwütender",
+    "fr": "Frappe du vent"
+  },
+  "Wind Striker Aspect": {
+    "de": "Aspekt: Windwütender",
+    "fr": "Aspect de la frappe du vent"
+  },
+  "Windlasher": {
+    "de": "Windpeitschender",
+    "fr": "Fouette-vent"
+  },
+  "Windlasher Aspect": {
+    "de": "Aspekt: Windpeitschender",
+    "fr": "Aspect du fouette-vent"
+  },
+  "Winter Touch": {
+    "de": "Winterhands",
+    "fr": "Toucher de l’hiver"
+  },
+  "Winter Touch Aspect": {
+    "de": "Aspekt: Winterhands",
+    "fr": "Aspect de toucher de l’hiver"
+  },
+  "Wolf's Rain": {
+    "de": "Aspekt des Wolfssturms",
+    "fr": "Pluie lupine"
+  }
+}
