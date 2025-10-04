@@ -103,7 +103,7 @@ async function translateSpan(span) {
 
   const type = typeFinder(span);
 
-  if (!type) return;
+  if (!type || !text) return;
 
   const translated = await fetchTranslation(text, type);
 
@@ -167,8 +167,8 @@ const selectors = [
   "span.d4-item span[class^='d4-color']",
   "div.d4t-slot:has([class*='d4t-frame-'])",
   // SKILLS
-  "div.d4t-skill-frame",
-  "div.d4t-passive-frame",
+  "div.d4t-skill-frame div.d4t-frame",
+  "div.d4t-passive-frame div.d4t-frame",
   "span.d4t-skill-name",
   "div[class^='skill-bar'] div[class*='skill-bar']",
   // Season 10 chaos-perks
