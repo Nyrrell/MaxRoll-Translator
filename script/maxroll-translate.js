@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MaxRoll-translator
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Maxroll automatic translation, all credit accord to Noxish
 // @author       Nyrrell fork from noxish
 // @homepage     https://github.com/Nyrrell/MaxRoll-Translator
@@ -43,8 +43,7 @@ function typeFinder(span) {
   if (
     span.closest(".d4t-board-name") ||
     span.closest(".d4t-name") ||
-    span.closest(".d4-paragon") ||
-    span.closest(".d4t-ParagonBoard")
+    span.closest(".d4-paragon")
   ) {
     return "board";
 
