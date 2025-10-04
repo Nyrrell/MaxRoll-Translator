@@ -19,6 +19,6 @@ module.exports = function (req, res) {
     return res.status(404).json({ error: `Translations not found for lang=${lang}, type=${type}` });
   }
 
-  const translation = translations[key][lang] || null;
+  const translation = translations[key]?.[lang] || null;
   res.status(200).json({ key, translation });
 };
