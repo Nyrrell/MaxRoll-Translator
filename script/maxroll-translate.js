@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         MaxRoll-translator
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Maxroll automatic translation, all credit accord to Noxish
 // @author       Nyrrell fork from noxish
+// @homepage     https://github.com/Nyrrell/MaxRoll-Translator
 // @source       https://github.com/noxish/MaxRoll-Translator
 // @match        https://maxroll.gg/d4/build-guides/*
-// @updateURL    https://github.com/Nyrrell/MaxRoll-Translator/script/maxroll-translate.js
-// @downloadURL  https://github.com/Nyrrell/MaxRoll-Translator/script/maxroll-translate.js
+// @updateURL    https://github.com/Nyrrell/MaxRoll-Translator/raw/main/script/maxroll-translate.js
+// @downloadURL  https://github.com/Nyrrell/MaxRoll-Translator/raw/main/script/maxroll-translate.js
 // @grant        none
 // ==/UserScript==
 
@@ -37,20 +38,13 @@ async function fetchTranslation(key, type) {
   }
 }
 
-// Hilfsfunktion: alle Keys klein schreiben
-function normalizeMap(map) {
-  const result = {};
-  for (const [key, value] of Object.entries(map)) {
-    result[key.toLowerCase()] = value;
-  }
-  return result;
-}
-
 function typeFinder(span) {
   // BOARD
   if (
     span.closest(".d4t-board-name") ||
-    span.closest(".d4t-name")
+    span.closest(".d4t-name") ||
+    span.closest(".d4-paragon") ||
+    span.closest(".d4t-ParagonBoard")
   ) {
     return "board";
 
@@ -63,19 +57,42 @@ function typeFinder(span) {
     return "glyphs";
 
     // DUNGEONS
-  } else if (span.getAttribute("style") === "background-position: -6em 0em;") {
+  } else if (span.closest("div.d4t-AspectChecklist") && span.classList.contains("d4-color-important")) {
     return "dungeons";
+
+    // UNIQUES
+  } else if (
+    (span.classList.contains("d4-color-unique") || span.classList.contains("d4-color-mythic"))
+      && (
+        span.closest("div.d4t-item") ||
+        span.closest("span.d4t-item") ||
+        span.closest("div.d4-item") ||
+        span.closest("span.d4-item") ||
+        span.closest("div.d4t-AspectChecklist")) ||
+      span.querySelector("div.d4t-frame-mythic") ||
+      span.querySelector("div.d4t-frame-unique")
+  ) {
+    return "uniques";
 
     // ASPECTS
   } else if (
     span.closest("div.d4t-AspectChecklist") ||
-    span.closest("div.d4t-item")
+    span.closest("span.d4-affix") ||
+    (span.classList.contains("d4-color-legendary") && span.closest("div.d4t-item")) ||
+    span.querySelector("div.d4t-frame-legendary")
   ) {
-    return span.classList.contains("d4-color-legendary") ? "aspects" : "uniques";
+    return "aspects";
 
     // SKILLS
-  } else if (span.classList.contains("d4t-skill-name")) {
+  } else if (span.classList.contains("d4t-skill-name") ||
+    span.closest("div.d4t-skill-frame") ||
+    span.closest("div.d4t-passive-frame") ||
+    [...span.classList].some(className => className.startsWith("skill-bar"))) {
     return "skills";
+
+    // SEASON 10
+  } else if (span.closest("span.d4-stone") || span.closest("div.d4t-ChaosViewer")) {
+    return "chaos-perks"
   }
   return null;
 }
@@ -84,28 +101,24 @@ async function translateSpan(span) {
   if (span.dataset.translated === "true") return;
 
   let text = span.textContent.trim();
-  const key = text.toLowerCase();
 
   const type = typeFinder(span);
 
   if (!type) return;
 
-
-  if (type === "dungeons") {
-    text = span.parentElement.nextSibling.textContent.trim();
-  }
-
   const translated = await fetchTranslation(text, type);
 
   if (translated && text !== translated) {
-    console.log(`${ExtensionName} Translate "${text}" → "${translated}"`);
-    if (type === "dungeons") {
-      span.dataset.translated = "true";
-      return span.parentElement.nextSibling.textContent = translated;
+    //console.log(`${ExtensionName} Translate "${text}" → "${translated}"`)
+    for (let node of span.childNodes) {
+      // Keep icon of aspect
+      if (node.nodeType === Node.TEXT_NODE) {
+        node.textContent = translated;
+        break;
+      }
     }
-
-    span.textContent = translated;
     span.dataset.translated = "true";
+    span.dataset.original = text;
   }
 }
 
@@ -117,9 +130,7 @@ function handleHover(span) {
     const title = tooltipRoot.querySelector("div.d4t-title");
 
     if (title) {
-      const text = title.textContent.trim();
-      // const key = text.toLowerCase();
-      const key = text;
+      const key = title.textContent.trim();
 
       const type = typeFinder(span);
 
@@ -127,7 +138,7 @@ function handleHover(span) {
 
       fetchTranslation(key, type).then(translated => {
         if (translated && title.textContent !== translated) {
-          console.log(`${ExtensionName} Tooltip translated: "${text}" → "${translated}"`);
+          //console.log(`${ExtensionName} Tooltip translated: "${text}" → "${translated}"`);
           title.textContent = translated;
         }
         obs.disconnect();
@@ -139,26 +150,36 @@ function handleHover(span) {
   setTimeout(() => observer.disconnect(), 500); // Fallback
 }
 
-const selectors = `
-    div.d4t-ParagonSummary span.d4t-board-name span.d4-color-legendary,
-    div.d4t-ParagonSummary span.d4t-glyph-name span.d4-color-legendary,
-    div.d4t-AspectChecklist span.d4-color-legendary,
-    div.d4t-AspectChecklist span.d4-color-unique,
-    div.d4t-AspectChecklist span.d4-color-mythic,
-    div.d4t-item span.d4-color-legendary,
-    div.d4t-item span.d4-color-unique,
-    div.d4t-item span.d4-color-mythic,
-    span.d4-glyph span.d4-color-legendary,
-    div.d4t-ParagonScroll div.d4t-labels div.d4t-name,
-    div.d4t-ParagonScroll div.d4t-labels div.d4t-glyph-name,
-    .d4t-skill-name,
-    span.d4t-icon.d4t-fontIcons-icon[style='background-position: -6em 0em;']
-  `;
+const selectors = [
+  // PARAGON
+  "div.d4t-ParagonSummary span.d4t-board-name span.d4-color-legendary",
+  "div.d4t-ParagonSummary span.d4t-glyph-name span.d4-color-legendary",
+  "span.d4-glyph span.d4-color-legendary",
+  "span.d4-paragon span.d4-color-legendary",
+  "div.d4t-ParagonScroll div.d4t-labels div.d4t-name",
+  "div.d4t-ParagonScroll div.d4t-labels div.d4t-glyph-name",
+  // ASPECTS
+  "div.d4t-AspectChecklist span[class^='d4-color']",
+  "span.d4-affix span.d4-color-legendary",
+  //ITEMS
+  "div.d4t-item span[class^='d4-color']",
+  "span.d4t-item span[class^='d4-color']",
+  "div.d4-item span[class^='d4-color']",
+  "span.d4-item span[class^='d4-color']",
+  "div.d4t-slot:has([class*='d4t-frame-'])",
+  // SKILLS
+  "div.d4t-skill-frame",
+  "div.d4t-passive-frame",
+  "span.d4t-skill-name",
+  "div[class^='skill-bar'] div[class*='skill-bar']",
+  // Season 10 chaos-perks
+  "span.d4-stone span[class^='d4-color']",
+  "div.d4t-stone"
+].join(",");
 
-// Setzt Hover-Events (nur einmal pro Element)
+// Sets hover events (only once per element)
 function addHoverListeners(root = document) {
   const elements = root.querySelectorAll(selectors);
-
 
   elements.forEach(span => {
     if (!span.dataset.hoverBound) {
@@ -178,10 +199,10 @@ async function translateAllSpans(root = document) {
   addHoverListeners(root);
 }
 
-// Initialer Lauf
+// Initial run
 translateAllSpans().catch(err => console.error(`[${ExtensionName}] Error in initial translation:`, err));
 
-// DOM beobachten für nachträglich geladene Inhalte
+// Watch DOM for subsequently loaded content
 const observer = new MutationObserver(mutations => {
   for (const mutation of mutations) {
     for (const node of mutation.addedNodes) {
